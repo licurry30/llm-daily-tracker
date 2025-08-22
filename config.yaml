@@ -6,7 +6,6 @@ since_hours: 24
 max_items:
   per_feed: 5
   per_arxiv: 10
-  arena_top_n: 20
 
 sections:
 
