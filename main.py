@@ -249,7 +249,7 @@ def main():
     out_dir = os.path.join(BASE_DIR, config.get("output_dir", "docs/daily"))
     ensure_dir(out_dir)
     out_path = os.path.join(out_dir, f"{today}.md")
-    report = render_markdown(today, tz, combined_items, arena_rows, config)
+    report = render_markdown(today, tz, combined_items, config)
 
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(report)
