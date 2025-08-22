@@ -68,8 +68,6 @@ feeds:
     url: https://blog.eleuther.ai/feed.xml
     category: open-source
 
-cn
-    
 # ——（国外）厂商 ——
   - name: OpenAI · Status
     url: https://status.openai.com/history.rss
