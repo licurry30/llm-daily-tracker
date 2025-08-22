@@ -14,7 +14,7 @@ A powerful tool for developers, researchers, and power users to log, query, and 
 3. 修改 `config.yaml`（可选）：增删订阅源、关键词、时区等。
 4. 手动触发一次：GitHub → Actions → LLM Daily Tracker → Run workflow。
 5. 查看输出：`docs/daily/` 下的今日文件，主页 `docs/index.md`。
-6. 快速地址：(.doc/index.md)
+6. 快速地址：[主页](docs/index.md)
 
 ## 自定义
 - 时区/时间窗口：`timezone`、`since_hours`
