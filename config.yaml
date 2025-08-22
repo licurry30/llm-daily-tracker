@@ -9,9 +9,6 @@ max_items:
   arena_top_n: 20
 
 sections:
-  - key: vendor_cn
-    title: 官方 / 厂商 · 国内
-    includes: [vendor-cn]
 
   - key: vendor_global
     title: 官方 / 厂商 · 国外
@@ -47,20 +44,8 @@ feeds:
   - name: 少数派
     url: https://sspai.com/feed
     category: zh-media
-  - name: InfoQ 中文
-    url: https://feeds.infoq.com/cn
-    category: zh-media
 
   # —— 英文媒体 / Newsletter ——
-  - name: Ben's Bites
-    url: https://www.bensbites.co/feed
-    category: newsletter
-  - name: The Rundown AI
-    url: https://www.therundown.ai/feed
-    category: newsletter
-  - name: Last Week in AI
-    url: https://www.lastweekin.ai/feed
-    category: en-news
   - name: Latent Space
     url: https://www.latent.space/feed
     category: en-depth
@@ -69,12 +54,6 @@ feeds:
     category: en-depth
 
   # —— 研究机构 ——
-  - name: Google AI Blog
-    url: https://ai.googleblog.com/feeds/posts/default
-    category: research-lab
-  - name: DeepMind
-    url: https://deepmind.google/rss.xml
-    category: research-lab
   - name: Microsoft Research
     url: https://www.microsoft.com/en-us/research/feed/
     category: research-lab
@@ -86,46 +65,26 @@ feeds:
   - name: Hugging Face Blog
     url: https://huggingface.co/blog/feed.xml
     category: open-source
-  - name: LAION · Blog
-    url: https://laion.ai/blog/index.xml
-    category: open-source
   - name: EleutherAI · Blog
     url: https://blog.eleuther.ai/feed.xml
     category: open-source
-  # 可选：OpenMMLab（如需）
-  # - name: OpenMMLab · Blog
-  #   url: https://openmmlab.com/blog/index.xml
-  #   category: open-source
 
-  # —— 厂商（国内） ——
-  - name: Qwen 通义千问 · Blog
-    url: https://qwenlm.ai/blog/index.xml
-    category: vendor-cn
-  - name: 百川智能 Baichuan · Blog
-    url: https://www.baichuan-ai.com/blog/index.xml
-    category: vendor-cn
-  - name: 智谱 AI · 新闻
-    url: https://www.zhipuai.cn/news/index.xml
-    category: vendor-cn
-  - name: 华为云开发者 · 博客
-    url: https://bbs.huaweicloud.com/rss/blogs
-    category: vendor-cn
-  - name: 飞桨 PaddlePaddle · 官方博客
-    url: https://blog.paddlepaddle.org.cn/feed/
-    category: vendor-cn
-  - name: 火山引擎 Volcengine · 博客 (experimental)
-    url: https://www.volcengine.com/feed
-    category: vendor-cn
-  # 微信公众号可用 RSSHub（可选）
-  # - name: 百度智能云 · 公众号（RSSHub）
-  #   url: https://rsshub.app/wechat/official-account/BaiduCloudAI
-  #   category: vendor-cn
-  # - name: 阿里云 · 公众号（RSSHub）
-  #   url: https://rsshub.app/wechat/official-account/aliyun
-  #   category: vendor-cn
-  # - name: 腾讯云 · 公众号（RSSHub）
-  #   url: https://rsshub.app/wechat/official-account/qcloudxiaoyun
-  #   category: vendor-cn
+cn
+    
+# ——（国外）厂商 ——
+  - name: OpenAI · Status
+    url: https://status.openai.com/history.rss
+    category: vendor-global
+  - name: Anthropic · Status
+    url: https://status.anthropic.com/history.rss
+    category: vendor-global
+  - name: NVIDIA Technical Blog
+    url: https://blogs.nvidia.com/feed/
+    category: vendor-global
+  - name: AWS Machine Learning · Blog
+    url: https://aws.amazon.com/blogs/machine-learning/feed/
+    category: vendor-global
+
 
 arxiv:
   - name: LLM core
@@ -135,6 +94,4 @@ arxiv:
     query: (ti:"mixture of experts" OR abs:"mixture of experts" OR ti:reasoning OR abs:reasoning OR ti:distillation OR abs:distillation) AND (cat:cs.CL OR cat:cs.LG OR cat:cs.AI OR cat:stat.ML)
     max_results: 25
 
-leaderboards:
-  chatbot_arena_elo_json: https://lmsys.org/arena/elo.json
   
