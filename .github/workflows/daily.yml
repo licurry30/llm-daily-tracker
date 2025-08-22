@@ -2,7 +2,7 @@ name: LLM Daily Tracker
 
 on:
   schedule:
-    - cron: "30 5 * * *"   # 每天 09:00（北京时区 +8）
+    - cron: "0 0/12 * * *"   # 每天 09:00（北京时区 +8）
   workflow_dispatch:
 
 permissions:
