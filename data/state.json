@@ -1,8 +1,5 @@
 {
   "seen": {
-    "http://www.geekpark.net/news/353265": "2025-08-31T01:48:11.520421+00:00",
-    "http://www.geekpark.net/news/353305": "2025-08-31T01:48:11.520428+00:00",
-    "https://status.openai.com//incidents/01K3YR9CH697XDF1XYG9YDHCSY": "2025-08-31T01:48:15.913697+00:00",
     "https://www.jiqizhixin.com/articles/2025-08-31-8": "2025-08-31T12:39:36.480253+00:00",
     "https://www.jiqizhixin.com/articles/2025-08-31-7": "2025-08-31T12:39:36.480259+00:00",
     "https://www.jiqizhixin.com/articles/2025-08-31-6": "2025-08-31T12:39:36.480262+00:00",
@@ -854,8 +851,17 @@
     "http://arxiv.org/abs/2509.25142v1": "2025-09-30T12:47:26.846312+00:00",
     "http://arxiv.org/abs/2509.25137v1": "2025-09-30T12:47:26.846316+00:00",
     "http://arxiv.org/abs/2509.25133v1": "2025-09-30T12:47:26.846318+00:00",
-    "http://arxiv.org/abs/2509.25127v1": "2025-09-30T12:47:26.846320+00:00"
+    "http://arxiv.org/abs/2509.25127v1": "2025-09-30T12:47:26.846320+00:00",
+    "http://www.qbitai.com/?p=338952": "2025-10-01T01:50:37.176796+00:00",
+    "http://www.qbitai.com/?p=338683": "2025-10-01T01:50:37.176803+00:00",
+    "http://www.geekpark.net/news/354765": "2025-10-01T01:50:42.476510+00:00",
+    "http://www.geekpark.net/news/354764": "2025-10-01T01:50:42.476518+00:00",
+    "https://status.openai.com//incidents/01K6DJE818AXJ4FR6BVABA9AQ8": "2025-10-01T01:50:48.053212+00:00",
+    "https://status.claude.com/incidents/3fq7j7zbfrkm": "2025-10-01T01:50:48.955199+00:00",
+    "https://blogs.nvidia.com/?p=85412": "2025-10-01T01:50:49.740167+00:00",
+    "https://blogs.nvidia.com/?p=85387": "2025-10-01T01:50:49.740174+00:00",
+    "03691c5f106ea0685a5cc2024d24236c0b94dd8e": "2025-10-01T01:50:50.697183+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2025-09-30T12:47:26.846771+00:00"
+  "last_updated": "2025-10-01T01:50:51.633264+00:00"
 }
