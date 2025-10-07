@@ -1,13 +1,5 @@
 {
   "seen": {
-    "http://www.qbitai.com/?p=328898": "2025-09-06T01:37:28.609433+00:00",
-    "http://www.geekpark.net/news/353562": "2025-09-06T01:37:33.251338+00:00",
-    "https://www.latent.space/p/fal": "2025-09-06T01:37:34.986236+00:00",
-    "https://status.anthropic.com/incidents/jd66f347jdfp": "2025-09-06T01:37:37.568190+00:00",
-    "https://status.anthropic.com/incidents/txhq1m8m1qsy": "2025-09-06T01:37:37.568197+00:00",
-    "https://blogs.nvidia.com/?p=84471": "2025-09-06T01:37:38.543578+00:00",
-    "f7c4b2b3806c8de1f6e276c9575102d273138b82": "2025-09-06T01:37:38.887740+00:00",
-    "988ded34c1860f3e91a68fda6a840a4b15b8d047": "2025-09-06T01:37:38.887756+00:00",
     "http://www.qbitai.com/?p=329047": "2025-09-06T12:37:21.964287+00:00",
     "http://www.qbitai.com/?p=329067": "2025-09-06T12:37:21.964293+00:00",
     "http://www.qbitai.com/?p=329014": "2025-09-06T12:37:21.964295+00:00",
@@ -784,8 +776,13 @@
     "http://www.qbitai.com/?p=339556": "2025-10-06T12:46:04.388274+00:00",
     "https://sspai.com/post/102913": "2025-10-06T12:46:13.483225+00:00",
     "https://sspai.com/post/100790": "2025-10-06T12:46:13.483234+00:00",
-    "https://status.claude.com/incidents/tn90hrpwz0bm": "2025-10-06T12:46:17.087011+00:00"
+    "https://status.claude.com/incidents/tn90hrpwz0bm": "2025-10-06T12:46:17.087011+00:00",
+    "http://www.geekpark.net/news/354775": "2025-10-07T01:39:34.700420+00:00",
+    "https://www.microsoft.com/en-us/research/?p=1151021": "2025-10-07T01:39:38.936512+00:00",
+    "https://www.microsoft.com/en-us/research/?p=1150818": "2025-10-07T01:39:38.936520+00:00",
+    "https://status.openai.com//incidents/01K6X3AG0M3XVN3B2610GFXB10": "2025-10-07T01:39:40.150839+00:00",
+    "4f3e5af4e9a4b90e292ad2693a7fc66e089afedc": "2025-10-07T01:39:42.065966+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2025-10-06T12:46:19.432278+00:00"
+  "last_updated": "2025-10-07T01:39:43.145040+00:00"
 }
