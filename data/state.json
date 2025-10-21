@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.jiqizhixin.com/articles/2025-09-19-9": "2025-09-20T01:36:56.567794+00:00",
-    "https://www.jiqizhixin.com/articles/2025-09-19-8": "2025-09-20T01:36:56.567801+00:00",
-    "http://www.geekpark.net/news/354209": "2025-09-20T01:37:02.310023+00:00",
-    "https://status.openai.com//incidents/01K5HE2KH50MWPVDV57ZA71T4S": "2025-09-20T01:37:07.810309+00:00",
-    "https://blogs.nvidia.com/?p=85087": "2025-09-20T01:37:09.239356+00:00",
-    "c3a0d43c715a563f3e1a858e5fb71a584f9105b3": "2025-09-20T01:37:09.691782+00:00",
     "https://www.jiqizhixin.com/articles/2025-09-20-3": "2025-09-20T12:39:44.278418+00:00",
     "https://www.jiqizhixin.com/articles/2025-09-20-2": "2025-09-20T12:39:44.278424+00:00",
     "https://www.jiqizhixin.com/articles/2025-09-20": "2025-09-20T12:39:44.278427+00:00",
@@ -663,8 +657,16 @@
     "https://sspai.com/post/102931": "2025-10-20T12:46:51.274795+00:00",
     "https://sspai.com/post/103159": "2025-10-20T12:46:51.274796+00:00",
     "https://sspai.com/post/103207": "2025-10-20T12:46:51.274798+00:00",
-    "https://status.openai.com//incidents/01K80CBJD5Z64DF82KGT3K3QE0": "2025-10-20T12:46:54.130831+00:00"
+    "https://status.openai.com//incidents/01K80CBJD5Z64DF82KGT3K3QE0": "2025-10-20T12:46:54.130831+00:00",
+    "http://www.qbitai.com/?p=343898": "2025-10-21T01:44:59.442806+00:00",
+    "http://www.qbitai.com/?p=343810": "2025-10-21T01:44:59.442814+00:00",
+    "http://www.geekpark.net/news/355174": "2025-10-21T01:45:27.404993+00:00",
+    "https://sspai.com/post/103232": "2025-10-21T01:45:28.450101+00:00",
+    "https://status.openai.com//incidents/01K8154RY7GA4J1TGP71N3EYXT": "2025-10-21T01:45:31.670130+00:00",
+    "https://status.claude.com/incidents/kfs1w8vywj9d": "2025-10-21T01:45:32.190125+00:00",
+    "https://blogs.nvidia.com/?p=86001": "2025-10-21T01:45:32.986538+00:00",
+    "https://blogs.nvidia.com?p=38862&preview_id=38862": "2025-10-21T01:45:32.986548+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2025-10-20T12:46:56.916882+00:00"
+  "last_updated": "2025-10-21T01:45:34.293665+00:00"
 }
