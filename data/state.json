@@ -1,8 +1,5 @@
 {
   "seen": {
-    "http://www.geekpark.net/news/354556": "2025-09-28T01:49:10.110659+00:00",
-    "http://www.geekpark.net/news/354555": "2025-09-28T01:49:10.110668+00:00",
-    "https://status.claude.com/incidents/n9pl4hny4mlt": "2025-09-28T01:49:14.750999+00:00",
     "http://www.qbitai.com/?p=337863": "2025-09-28T12:39:22.833407+00:00",
     "http://www.qbitai.com/?p=337848": "2025-09-28T12:39:22.833414+00:00",
     "http://www.qbitai.com/?p=337760": "2025-09-28T12:39:22.833417+00:00",
@@ -682,8 +679,21 @@
     "http://arxiv.org/abs/2510.23506v1": "2025-10-28T12:46:36.951257+00:00",
     "http://arxiv.org/abs/2510.23486v1": "2025-10-28T12:46:36.951259+00:00",
     "http://arxiv.org/abs/2510.23482v1": "2025-10-28T12:46:36.951261+00:00",
-    "http://arxiv.org/abs/2510.23476v1": "2025-10-28T12:46:36.951263+00:00"
+    "http://arxiv.org/abs/2510.23476v1": "2025-10-28T12:46:36.951263+00:00",
+    "http://www.geekpark.net/news/355676": "2025-10-29T01:50:23.392042+00:00",
+    "http://www.geekpark.net/news/355681": "2025-10-29T01:50:23.392051+00:00",
+    "https://sspai.com/post/103398": "2025-10-29T01:50:24.709167+00:00",
+    "https://huggingface.co/blog/lerobotxnvidia-healthcare": "2025-10-29T01:50:27.264045+00:00",
+    "https://status.openai.com//incidents/01K8NZK5W1B6C0F6PP5PTV70AW": "2025-10-29T01:50:27.580159+00:00",
+    "https://status.openai.com//incidents/01K8PE0EGDH9XRSMB21F24AFRY": "2025-10-29T01:50:27.580167+00:00",
+    "https://status.claude.com/incidents/bbk3s953nzvd": "2025-10-29T01:50:28.135155+00:00",
+    "https://status.claude.com/incidents/k1hywp210cxl": "2025-10-29T01:50:28.135162+00:00",
+    "https://blogs.nvidia.com/?p=86420": "2025-10-29T01:50:29.004075+00:00",
+    "https://blogs.nvidia.com/?p=86513": "2025-10-29T01:50:29.004084+00:00",
+    "https://blogs.nvidia.com/?p=86383": "2025-10-29T01:50:29.004086+00:00",
+    "https://blogs.nvidia.com/?p=86240": "2025-10-29T01:50:29.004088+00:00",
+    "1585d45c60f8212f2e7aa0603fecafbd57e21e6a": "2025-10-29T01:50:29.386116+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2025-10-28T12:46:36.951843+00:00"
+  "last_updated": "2025-10-29T01:50:30.190665+00:00"
 }
