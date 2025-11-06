@@ -1,6 +1,5 @@
 {
   "seen": {
-    "http://www.geekpark.net/news/354774": "2025-10-06T01:41:55.954741+00:00",
     "http://www.qbitai.com/?p=339675": "2025-10-06T12:46:04.388264+00:00",
     "http://www.qbitai.com/?p=339569": "2025-10-06T12:46:04.388272+00:00",
     "http://www.qbitai.com/?p=339556": "2025-10-06T12:46:04.388274+00:00",
@@ -743,8 +742,14 @@
     "http://arxiv.org/abs/2511.02817v1": "2025-11-05T12:48:19.977134+00:00",
     "http://arxiv.org/abs/2511.02780v1": "2025-11-05T12:48:19.977136+00:00",
     "http://arxiv.org/abs/2511.02778v1": "2025-11-05T12:48:19.977138+00:00",
-    "http://arxiv.org/abs/2511.02749v1": "2025-11-05T12:48:19.977139+00:00"
+    "http://arxiv.org/abs/2511.02749v1": "2025-11-05T12:48:19.977139+00:00",
+    "http://www.qbitai.com/?p=349266": "2025-11-06T01:48:29.536867+00:00",
+    "http://www.geekpark.net/news/356010": "2025-11-06T01:48:45.390519+00:00",
+    "https://sspai.com/post/103573": "2025-11-06T01:48:51.210802+00:00",
+    "https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/": "2025-11-06T01:48:53.210516+00:00",
+    "https://status.openai.com//incidents/01K9ARX310CM6V219R0GF7RNC9": "2025-11-06T01:48:54.084771+00:00",
+    "f55d60d7dff4ecd77ac44f87ca8ac590ee972b32": "2025-11-06T01:48:55.765739+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2025-11-05T12:48:19.977513+00:00"
+  "last_updated": "2025-11-06T01:48:56.728919+00:00"
 }
