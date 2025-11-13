@@ -1,7 +1,5 @@
 {
   "seen": {
-    "http://www.geekpark.net/news/354891": "2025-10-13T01:47:47.175871+00:00",
-    "http://www.geekpark.net/news/354887": "2025-10-13T01:47:47.175884+00:00",
     "http://www.qbitai.com/?p=340993": "2025-10-13T12:45:39.186247+00:00",
     "http://www.qbitai.com/?p=340982": "2025-10-13T12:45:39.186255+00:00",
     "http://www.qbitai.com/?p=340944": "2025-10-13T12:45:39.186257+00:00",
@@ -748,8 +746,13 @@
     "https://sspai.com/post/103582": "2025-11-12T12:49:30.998329+00:00",
     "https://sspai.com/post/103492": "2025-11-12T12:49:30.998331+00:00",
     "https://www.microsoft.com/en-us/research/?p=1153693": "2025-11-12T12:49:33.290947+00:00",
-    "https://status.openai.com//incidents/01K9VA3N0N36710WAZHW0PR7H3": "2025-11-12T12:49:35.077894+00:00"
+    "https://status.openai.com//incidents/01K9VA3N0N36710WAZHW0PR7H3": "2025-11-12T12:49:35.077894+00:00",
+    "http://www.geekpark.net/news/356343": "2025-11-13T01:49:54.908058+00:00",
+    "https://status.openai.com//incidents/01K9X7DTG5YTW15NKZD367AGAS": "2025-11-13T01:50:00.005737+00:00",
+    "https://status.openai.com//incidents/01K9X6EHF2RBEJS7VEFKTWXDTB": "2025-11-13T01:50:00.005748+00:00",
+    "https://blogs.nvidia.com/?p=87237": "2025-11-13T01:50:02.099930+00:00",
+    "https://blogs.nvidia.com/?p=87265": "2025-11-13T01:50:02.099937+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2025-11-12T12:49:39.391348+00:00"
+  "last_updated": "2025-11-13T01:50:04.625057+00:00"
 }
