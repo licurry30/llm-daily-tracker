@@ -1,11 +1,5 @@
 {
   "seen": {
-    "http://www.geekpark.net/news/355612": "2025-10-28T01:43:53.562866+00:00",
-    "http://www.geekpark.net/news/355614": "2025-10-28T01:43:53.562876+00:00",
-    "http://www.geekpark.net/news/355610": "2025-10-28T01:43:53.562879+00:00",
-    "https://sspai.com/post/103377": "2025-10-28T01:43:57.754247+00:00",
-    "https://status.openai.com//incidents/01K8K4N3JDDCKZGHD4RMDP5X0X": "2025-10-28T01:44:00.896938+00:00",
-    "https://status.claude.com/incidents/vknvjsgvplr4": "2025-10-28T01:44:01.451914+00:00",
     "http://www.qbitai.com/?p=346749": "2025-10-28T12:46:27.092598+00:00",
     "http://www.qbitai.com/?p=346721": "2025-10-28T12:46:27.092607+00:00",
     "http://www.qbitai.com/?p=346706": "2025-10-28T12:46:27.092610+00:00",
@@ -835,8 +829,15 @@
     "http://arxiv.org/abs/2511.21631v1": "2025-11-27T12:49:26.209653+00:00",
     "http://arxiv.org/abs/2511.21610v1": "2025-11-27T12:49:26.209655+00:00",
     "http://arxiv.org/abs/2511.21591v1": "2025-11-27T12:49:26.209656+00:00",
-    "http://arxiv.org/abs/2511.21581v1": "2025-11-27T12:49:26.209658+00:00"
+    "http://arxiv.org/abs/2511.21581v1": "2025-11-27T12:49:26.209658+00:00",
+    "https://www.jiqizhixin.com/articles/2025-11-28-2": "2025-11-28T01:47:24.257812+00:00",
+    "https://www.jiqizhixin.com/articles/2025-11-28": "2025-11-28T01:47:24.257818+00:00",
+    "https://www.jiqizhixin.com/articles/2025-11-27-12": "2025-11-28T01:47:24.257821+00:00",
+    "https://www.jiqizhixin.com/articles/2025-11-27-11": "2025-11-28T01:47:24.257824+00:00",
+    "http://www.qbitai.com/?p=356992": "2025-11-28T01:47:25.734361+00:00",
+    "http://www.geekpark.net/news/357384": "2025-11-28T01:47:28.164419+00:00",
+    "https://blogs.nvidia.com/?p=87886": "2025-11-28T01:47:34.453800+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2025-11-27T12:49:26.210089+00:00"
+  "last_updated": "2025-11-28T01:47:35.999520+00:00"
 }
