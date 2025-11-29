@@ -1,18 +1,5 @@
 {
   "seen": {
-    "http://www.geekpark.net/news/355676": "2025-10-29T01:50:23.392042+00:00",
-    "http://www.geekpark.net/news/355681": "2025-10-29T01:50:23.392051+00:00",
-    "https://sspai.com/post/103398": "2025-10-29T01:50:24.709167+00:00",
-    "https://huggingface.co/blog/lerobotxnvidia-healthcare": "2025-10-29T01:50:27.264045+00:00",
-    "https://status.openai.com//incidents/01K8NZK5W1B6C0F6PP5PTV70AW": "2025-10-29T01:50:27.580159+00:00",
-    "https://status.openai.com//incidents/01K8PE0EGDH9XRSMB21F24AFRY": "2025-10-29T01:50:27.580167+00:00",
-    "https://status.claude.com/incidents/bbk3s953nzvd": "2025-10-29T01:50:28.135155+00:00",
-    "https://status.claude.com/incidents/k1hywp210cxl": "2025-10-29T01:50:28.135162+00:00",
-    "https://blogs.nvidia.com/?p=86420": "2025-10-29T01:50:29.004075+00:00",
-    "https://blogs.nvidia.com/?p=86513": "2025-10-29T01:50:29.004084+00:00",
-    "https://blogs.nvidia.com/?p=86383": "2025-10-29T01:50:29.004086+00:00",
-    "https://blogs.nvidia.com/?p=86240": "2025-10-29T01:50:29.004088+00:00",
-    "1585d45c60f8212f2e7aa0603fecafbd57e21e6a": "2025-10-29T01:50:29.386116+00:00",
     "http://www.qbitai.com/?p=347231": "2025-10-29T12:49:10.388552+00:00",
     "http://www.qbitai.com/?p=347104": "2025-10-29T12:49:10.388560+00:00",
     "http://www.qbitai.com/?p=347103": "2025-10-29T12:49:10.388562+00:00",
@@ -830,8 +817,12 @@
     "https://sspai.com/post/103475": "2025-11-28T12:47:52.665077+00:00",
     "https://sspai.com/post/104145": "2025-11-28T12:47:52.665080+00:00",
     "https://www.latent.space/p/dwr2025": "2025-11-28T12:47:53.210969+00:00",
-    "http://www.geekpark.net/news/357445": "2025-11-29T01:46:45.400735+00:00"
+    "http://www.geekpark.net/news/357445": "2025-11-29T01:46:45.400735+00:00",
+    "https://www.jiqizhixin.com/articles/2025-11-29-2": "2025-11-29T12:42:51.809858+00:00",
+    "https://www.jiqizhixin.com/articles/2025-11-29": "2025-11-29T12:42:51.809864+00:00",
+    "http://www.qbitai.com/?p=357420": "2025-11-29T12:42:53.308911+00:00",
+    "https://sspai.com/post/104157": "2025-11-29T12:42:56.829303+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2025-11-29T01:46:52.427343+00:00"
+  "last_updated": "2025-11-29T12:43:07.255802+00:00"
 }
