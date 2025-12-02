@@ -1,14 +1,5 @@
 {
   "seen": {
-    "http://www.geekpark.net/news/355860": "2025-11-01T01:50:13.295842+00:00",
-    "https://sspai.com/prime/story/config-formats-1": "2025-11-01T01:50:14.670938+00:00",
-    "https://sspai.com/post/103455": "2025-11-01T01:50:14.670946+00:00",
-    "https://status.openai.com//incidents/01K8X5YXEEDF2TC4JSGXK2RVTR": "2025-11-01T01:50:17.128571+00:00",
-    "https://blogs.nvidia.com/?p=86913": "2025-11-01T01:50:18.580149+00:00",
-    "791aee238bcfb3ad5cbffcbfaee5fbc30efa61b8": "2025-11-01T01:50:18.909410+00:00",
-    "0674547c6ec850a2f49b4389643c1e0dbacadfd4": "2025-11-01T01:50:18.909418+00:00",
-    "2319e7c91d019a6cd10eb525a54dbffa60967755": "2025-11-01T01:50:18.909421+00:00",
-    "c8f0b941108f9822dcb7499606d43ddc4faa595d": "2025-11-01T01:50:18.909423+00:00",
     "http://www.qbitai.com/?p=348002": "2025-11-01T12:40:29.762697+00:00",
     "http://www.qbitai.com/?p=347975": "2025-11-01T12:40:29.762705+00:00",
     "http://www.qbitai.com/?p=347965": "2025-11-01T12:40:29.762708+00:00",
@@ -760,8 +751,16 @@
     "http://www.geekpark.net/news/357509": "2025-12-01T12:50:54.997588+00:00",
     "http://www.geekpark.net/news/357486": "2025-12-01T12:50:54.997590+00:00",
     "https://sspai.com/post/104216": "2025-12-01T12:50:56.397499+00:00",
-    "https://sspai.com/post/104178": "2025-12-01T12:50:56.397506+00:00"
+    "https://sspai.com/post/104178": "2025-12-01T12:50:56.397506+00:00",
+    "http://www.qbitai.com/?p=357919": "2025-12-02T01:51:38.567952+00:00",
+    "http://www.qbitai.com/?p=357904": "2025-12-02T01:51:38.567962+00:00",
+    "http://www.geekpark.net/news/357517": "2025-12-02T01:51:40.581011+00:00",
+    "https://sspai.com/post/104227": "2025-12-02T01:51:41.621131+00:00",
+    "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/": "2025-12-02T01:51:43.927492+00:00",
+    "https://status.openai.com//incidents/01KBDM937GP2XEYT7EQHWNHZZR": "2025-12-02T01:51:44.856936+00:00",
+    "https://status.claude.com/incidents/2mkpsnk9nyg0": "2025-12-02T01:51:45.276938+00:00",
+    "https://blogs.nvidia.com/?p=87911": "2025-12-02T01:51:45.877258+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2025-12-01T12:51:03.286007+00:00"
+  "last_updated": "2025-12-02T01:51:49.636510+00:00"
 }
