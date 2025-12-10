@@ -1,6 +1,5 @@
 {
   "seen": {
-    "http://www.geekpark.net/news/356157": "2025-11-09T01:51:20.687104+00:00",
     "http://www.qbitai.com/?p=350413": "2025-11-09T12:40:49.765243+00:00",
     "http://www.qbitai.com/?p=350377": "2025-11-09T12:40:49.765250+00:00",
     "https://sspai.com/post/103187": "2025-11-09T12:40:53.520556+00:00",
@@ -833,8 +832,18 @@
     "http://arxiv.org/abs/2512.07611v1": "2025-12-09T12:51:41.786739+00:00",
     "http://arxiv.org/abs/2512.07608v1": "2025-12-09T12:51:41.786740+00:00",
     "http://arxiv.org/abs/2512.07583v1": "2025-12-09T12:51:41.786742+00:00",
-    "http://arxiv.org/abs/2512.07558v1": "2025-12-09T12:51:41.786744+00:00"
+    "http://arxiv.org/abs/2512.07558v1": "2025-12-09T12:51:41.786744+00:00",
+    "http://www.qbitai.com/?p=360001": "2025-12-10T01:54:34.420973+00:00",
+    "http://www.geekpark.net/news/357829": "2025-12-10T01:54:36.747507+00:00",
+    "https://sspai.com/post/104485": "2025-12-10T01:54:37.942186+00:00",
+    "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/": "2025-12-10T01:54:40.171376+00:00",
+    "https://huggingface.co/blog/ServiceNow-AI/apriel-1p6-15b-thinker": "2025-12-10T01:54:40.792407+00:00",
+    "https://status.openai.com//incidents/01KC2MV5CHD4DX8A76FT4QEZEV": "2025-12-10T01:54:41.338210+00:00",
+    "https://status.openai.com//incidents/01KC2CJTQMDW8ZX3S4S4Q8PPNQ": "2025-12-10T01:54:41.338217+00:00",
+    "https://status.openai.com//incidents/01KC29PD396379J8W4GRZ3F185": "2025-12-10T01:54:41.338220+00:00",
+    "5d798c3add739e9eb279c9f94e7db7c128261c34": "2025-12-10T01:54:43.142101+00:00",
+    "dfcf62ba5a3c478d4c4295a8c6e0cad6dee47646": "2025-12-10T01:54:43.142108+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2025-12-09T12:51:41.787354+00:00"
+  "last_updated": "2025-12-10T01:54:44.149598+00:00"
 }
