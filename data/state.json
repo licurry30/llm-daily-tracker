@@ -1,13 +1,5 @@
 {
   "seen": {
-    "http://www.geekpark.net/news/356452": "2025-11-15T01:45:11.591897+00:00",
-    "http://www.geekpark.net/news/356450": "2025-11-15T01:45:11.591905+00:00",
-    "https://status.openai.com//incidents/01KA22ACNT50TDGYE1B9TJ86D2": "2025-11-15T01:45:15.866513+00:00",
-    "https://status.openai.com//incidents/01KA22C8G0G4EZG5YEJ4FRTWRA": "2025-11-15T01:45:15.866523+00:00",
-    "https://blogs.nvidia.com/?p=87359": "2025-11-15T01:45:16.944038+00:00",
-    "dea7956fa7a5f66548f8593ca721fc68cde02f8a": "2025-11-15T01:45:17.307261+00:00",
-    "933b52e3ca15d5be13d1e78b12f84471259a33d7": "2025-11-15T01:45:17.307271+00:00",
-    "791b8c9758a2c96b23a29bec09ed7db43948976b": "2025-11-15T01:45:17.307273+00:00",
     "http://www.qbitai.com/?p=352995": "2025-11-15T12:41:22.451694+00:00",
     "http://www.qbitai.com/?p=352985": "2025-11-15T12:41:22.451701+00:00",
     "http://www.qbitai.com/?p=352948": "2025-11-15T12:41:22.451703+00:00",
@@ -905,8 +897,20 @@
     "http://www.geekpark.net/news/358003": "2025-12-15T12:54:12.570447+00:00",
     "https://sspai.com/post/104614": "2025-12-15T12:54:13.847165+00:00",
     "https://sspai.com/post/104610": "2025-12-15T12:54:13.847171+00:00",
-    "https://sspai.com/post/104575": "2025-12-15T12:54:13.847173+00:00"
+    "https://sspai.com/post/104575": "2025-12-15T12:54:13.847173+00:00",
+    "http://www.geekpark.net/news/358055": "2025-12-16T01:55:56.371492+00:00",
+    "https://sspai.com/post/104623": "2025-12-16T01:55:57.540683+00:00",
+    "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face": "2025-12-16T01:56:00.956558+00:00",
+    "https://huggingface.co/blog/nvidia/nemotron-3-nano-efficient-open-intelligent-models": "2025-12-16T01:56:00.956569+00:00",
+    "https://status.claude.com/incidents/9x1dk1mmlkd3": "2025-12-16T01:56:02.011667+00:00",
+    "https://blogs.nvidia.com/?p=88344": "2025-12-16T01:56:02.659038+00:00",
+    "https://blogs.nvidia.com/?p=88326": "2025-12-16T01:56:02.659046+00:00",
+    "bb8fd48eca18f4fd00c0e22d706c0dccd6f17d26": "2025-12-16T01:56:03.017143+00:00",
+    "50fecb2ff45bd5879bbc4ed8765d4b10194a29fa": "2025-12-16T01:56:03.017151+00:00",
+    "6d6fd9f23e9624cf28b2a14479b22963c42086f3": "2025-12-16T01:56:03.017154+00:00",
+    "af38b595d8cb9960c7fe1f1b026aea76caf7f1e3": "2025-12-16T01:56:03.017156+00:00",
+    "1087be18de0112b54518f3450de0cea495973ed3": "2025-12-16T01:56:03.017158+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2025-12-15T12:54:19.447555+00:00"
+  "last_updated": "2025-12-16T01:56:03.929461+00:00"
 }
