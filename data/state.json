@@ -1,8 +1,5 @@
 {
   "seen": {
-    "http://www.qbitai.com/?p=359247": "2025-12-06T01:46:16.849230+00:00",
-    "http://www.geekpark.net/news/357685": "2025-12-06T01:46:19.050438+00:00",
-    "https://status.claude.com/incidents/6rrnsb1y0kbn": "2025-12-06T01:46:25.244813+00:00",
     "https://www.jiqizhixin.com/articles/2025-12-06-5": "2025-12-06T12:43:04.836016+00:00",
     "https://www.jiqizhixin.com/articles/2025-12-06-4": "2025-12-06T12:43:04.836023+00:00",
     "https://www.jiqizhixin.com/articles/2025-12-06-3": "2025-12-06T12:43:04.836026+00:00",
@@ -754,8 +751,17 @@
     "https://sspai.com/post/105120": "2026-01-05T12:54:22.632977+00:00",
     "https://sspai.com/post/105070": "2026-01-05T12:54:22.632979+00:00",
     "https://sspai.com/post/104808": "2026-01-05T12:54:22.632982+00:00",
-    "https://huggingface.co/blog/tiiuae/falcon-h1-arabic": "2026-01-05T12:54:25.727564+00:00"
+    "https://huggingface.co/blog/tiiuae/falcon-h1-arabic": "2026-01-05T12:54:25.727564+00:00",
+    "https://www.qbitai.com/?p=366596": "2026-01-06T01:58:40.505595+00:00",
+    "https://sspai.com/post/105184": "2026-01-06T01:58:43.151735+00:00",
+    "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning": "2026-01-06T01:58:45.488319+00:00",
+    "https://status.claude.com/incidents/m4bbg9f9lfjk": "2026-01-06T01:58:46.369914+00:00",
+    "https://blogs.nvidia.com/?p=88706": "2026-01-06T01:58:47.572466+00:00",
+    "https://blogs.nvidia.com/?p=88588": "2026-01-06T01:58:47.572473+00:00",
+    "https://blogs.nvidia.com/?p=88680": "2026-01-06T01:58:47.572476+00:00",
+    "https://blogs.nvidia.com/?p=88693": "2026-01-06T01:58:47.572478+00:00",
+    "https://blogs.nvidia.com/?p=88670": "2026-01-06T01:58:47.572481+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-01-05T12:54:29.556784+00:00"
+  "last_updated": "2026-01-06T01:58:48.833778+00:00"
 }
