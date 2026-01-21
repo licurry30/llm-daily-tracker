@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.jiqizhixin.com/articles/2025-12-21-5": "2025-12-21T02:01:34.340174+00:00",
-    "https://www.jiqizhixin.com/articles/2025-12-21-4": "2025-12-21T02:01:34.340180+00:00",
-    "https://www.jiqizhixin.com/articles/2025-12-21-3": "2025-12-21T02:01:34.340183+00:00",
-    "https://www.jiqizhixin.com/articles/2025-12-21-2": "2025-12-21T02:01:34.340186+00:00",
-    "https://www.jiqizhixin.com/articles/2025-12-21": "2025-12-21T02:01:34.340188+00:00",
-    "https://sspai.com/prime/story/clay-pot-casserole-dishes-for-winter": "2025-12-21T02:01:39.502159+00:00",
     "https://www.jiqizhixin.com/articles/2025-12-21-11": "2025-12-21T12:45:07.290493+00:00",
     "https://www.jiqizhixin.com/articles/2025-12-21-10": "2025-12-21T12:45:07.290499+00:00",
     "https://www.jiqizhixin.com/articles/2025-12-21-9": "2025-12-21T12:45:07.290502+00:00",
@@ -701,8 +695,13 @@
     "https://sspai.com/post/105540": "2026-01-20T12:58:04.951929+00:00",
     "https://sspai.com/post/105575": "2026-01-20T12:58:04.951935+00:00",
     "https://sspai.com/post/93614": "2026-01-20T12:58:04.951937+00:00",
-    "https://huggingface.co/blog/microsoft/diff-attn-v2": "2026-01-20T12:58:08.005971+00:00"
+    "https://huggingface.co/blog/microsoft/diff-attn-v2": "2026-01-20T12:58:08.005971+00:00",
+    "https://www.qbitai.com/?p=370720": "2026-01-21T02:03:12.138885+00:00",
+    "https://sspai.com/post/105628": "2026-01-21T02:03:14.303762+00:00",
+    "https://www.microsoft.com/en-us/research/?p=1160129": "2026-01-21T02:03:16.131008+00:00",
+    "https://status.claude.com/incidents/l3q16xnl4t2f": "2026-01-21T02:03:17.409171+00:00",
+    "2ed187a8a1b2bf36865fc00ee7ddaec918acf080": "2026-01-21T02:03:18.479785+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-01-20T12:58:11.751390+00:00"
+  "last_updated": "2026-01-21T02:03:19.518305+00:00"
 }
