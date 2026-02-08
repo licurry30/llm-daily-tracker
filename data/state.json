@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://sspai.com/post/105234": "2026-01-08T01:58:43.716416+00:00",
-    "https://status.openai.com//incidents/01KEDB9WGPMX6HK8X629AFM907": "2026-01-08T01:58:46.874662+00:00",
-    "https://status.claude.com/incidents/4hr61fgdzbtc": "2026-01-08T01:58:47.505122+00:00",
-    "https://blogs.nvidia.com/?p=88923": "2026-01-08T01:58:48.190405+00:00",
-    "https://blogs.nvidia.com/?p=88849": "2026-01-08T01:58:48.190412+00:00",
     "https://www.jiqizhixin.com/articles/2026-01-08-7": "2026-01-08T12:53:35.627122+00:00",
     "https://www.jiqizhixin.com/articles/2026-01-08-6": "2026-01-08T12:53:35.627129+00:00",
     "https://www.jiqizhixin.com/articles/2026-01-08-5": "2026-01-08T12:53:35.627131+00:00",
@@ -964,8 +959,11 @@
     "https://www.qbitai.com/?p=377529": "2026-02-07T12:56:40.801764+00:00",
     "https://sspai.com/post/95652": "2026-02-07T12:56:43.473983+00:00",
     "https://www.latent.space/p/ainews-ai-vs-saas-the-unreasonable": "2026-02-07T12:56:44.005026+00:00",
-    "https://status.openai.com//incidents/01KGVN79RRX11YCQZ52C68ZT1N": "2026-02-07T12:56:48.034740+00:00"
+    "https://status.openai.com//incidents/01KGVN79RRX11YCQZ52C68ZT1N": "2026-02-07T12:56:48.034740+00:00",
+    "https://www.qbitai.com/?p=377835": "2026-02-08T02:49:57.026110+00:00",
+    "https://www.latent.space/p/adversarial-reasoning": "2026-02-08T02:49:59.651919+00:00",
+    "https://status.claude.com/incidents/mm4pj02mp4gq": "2026-02-08T02:50:02.447347+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-02-07T12:57:05.828184+00:00"
+  "last_updated": "2026-02-08T02:50:04.932763+00:00"
 }
