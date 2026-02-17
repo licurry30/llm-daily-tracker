@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.latent.space/p/brex": "2026-01-17T01:54:45.927987+00:00",
-    "15d576393120664fa4c40c263f47be5e211b1739": "2026-01-17T01:54:50.554050+00:00",
-    "da8243dfca022c5917ecd7fa258d10be879d7887": "2026-01-17T01:54:50.554056+00:00",
-    "b6ec152a3fb05dec678ba3412bdc45bb281dc347": "2026-01-17T01:54:50.554058+00:00",
-    "4b28f523eac21262a5d4fde88a3a54c206d8d5a1": "2026-01-17T01:54:50.554060+00:00",
     "https://www.jiqizhixin.com/articles/2026-01-17-4": "2026-01-17T12:46:44.357985+00:00",
     "https://www.jiqizhixin.com/articles/2026-01-17-3": "2026-01-17T12:46:44.357991+00:00",
     "https://www.jiqizhixin.com/articles/2026-01-17-2": "2026-01-17T12:46:44.357994+00:00",
@@ -957,8 +952,15 @@
     "https://www.jiqizhixin.com/articles/2026-02-16-4": "2026-02-16T13:11:43.044559+00:00",
     "https://www.jiqizhixin.com/articles/2026-02-16-3": "2026-02-16T13:11:43.044565+00:00",
     "https://www.qbitai.com/?p=380742": "2026-02-16T13:11:44.620114+00:00",
-    "https://www.qbitai.com/?p=380433": "2026-02-16T13:11:44.620120+00:00"
+    "https://www.qbitai.com/?p=380433": "2026-02-16T13:11:44.620120+00:00",
+    "https://www.jiqizhixin.com/articles/2026-02-16-6": "2026-02-17T02:29:19.287722+00:00",
+    "https://www.jiqizhixin.com/articles/2026-02-16-5": "2026-02-17T02:29:19.287728+00:00",
+    "https://status.openai.com//incidents/01KHM3D6HBAX95H7V8MXHNKDK6": "2026-02-17T02:29:27.383272+00:00",
+    "https://status.openai.com//incidents/01KHKQWHXEF4WJY8WGX24RA07R": "2026-02-17T02:29:27.383279+00:00",
+    "https://status.claude.com/incidents/r3w8gj1cx65g": "2026-02-17T02:29:28.122377+00:00",
+    "https://status.claude.com/incidents/8zk0t14kl1m8": "2026-02-17T02:29:28.122384+00:00",
+    "https://blogs.nvidia.com/?p=89944": "2026-02-17T02:29:29.090276+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-02-16T13:11:52.468579+00:00"
+  "last_updated": "2026-02-17T02:29:36.265547+00:00"
 }
