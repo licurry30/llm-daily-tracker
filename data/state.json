@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.jiqizhixin.com/articles/2026-01-18-4": "2026-01-18T12:46:54.297646+00:00",
-    "https://www.jiqizhixin.com/articles/2026-01-18-3": "2026-01-18T12:46:54.297652+00:00",
-    "https://www.jiqizhixin.com/articles/2026-01-18-2": "2026-01-18T12:46:54.297654+00:00",
-    "https://www.jiqizhixin.com/articles/2026-01-18": "2026-01-18T12:46:54.297656+00:00",
-    "https://www.qbitai.com/?p=370136": "2026-01-18T12:46:56.500750+00:00",
-    "https://www.qbitai.com/?p=370085": "2026-01-18T12:46:56.500757+00:00",
-    "https://www.qbitai.com/?p=370077": "2026-01-18T12:46:56.500763+00:00",
-    "https://sspai.com/post/104972": "2026-01-18T12:46:59.278224+00:00",
     "https://www.jiqizhixin.com/articles/2026-01-18-5": "2026-01-19T02:05:15.682268+00:00",
     "https://sspai.com/post/105551": "2026-01-19T02:05:20.186610+00:00",
     "https://www.jiqizhixin.com/articles/2026-01-19-9": "2026-01-19T12:57:21.402683+00:00",
@@ -1007,8 +999,16 @@
     "http://arxiv.org/abs/2602.15724v1": "2026-02-18T02:32:52.883826+00:00",
     "http://arxiv.org/abs/2602.15677v1": "2026-02-18T02:32:52.883828+00:00",
     "http://arxiv.org/abs/2602.15645v1": "2026-02-18T02:32:52.883830+00:00",
-    "http://arxiv.org/abs/2602.15620v1": "2026-02-18T02:32:52.883832+00:00"
+    "http://arxiv.org/abs/2602.15620v1": "2026-02-18T02:32:52.883832+00:00",
+    "https://www.jiqizhixin.com/articles/2026-02-18": "2026-02-18T13:12:52.697050+00:00",
+    "https://www.qbitai.com/?p=381081": "2026-02-18T13:12:54.636110+00:00",
+    "https://www.qbitai.com/?p=381037": "2026-02-18T13:12:54.636117+00:00",
+    "https://www.qbitai.com/?p=380804": "2026-02-18T13:12:54.636120+00:00",
+    "https://www.qbitai.com/?p=380787": "2026-02-18T13:12:54.636122+00:00",
+    "https://www.latent.space/p/ainews-claude-sonnet-46-clean-upgrade": "2026-02-18T13:12:58.041263+00:00",
+    "https://status.claude.com/incidents/cn4x4rg7cg0l": "2026-02-18T13:13:01.121169+00:00",
+    "https://status.claude.com/incidents/ftrsh0r62qks": "2026-02-18T13:13:01.121176+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-02-18T02:32:52.884240+00:00"
+  "last_updated": "2026-02-18T13:13:03.286148+00:00"
 }
