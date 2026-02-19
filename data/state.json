@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.jiqizhixin.com/articles/2026-01-19-9": "2026-01-19T12:57:21.402683+00:00",
-    "https://www.jiqizhixin.com/articles/2026-01-19-8": "2026-01-19T12:57:21.402689+00:00",
-    "https://www.jiqizhixin.com/articles/2026-01-19-7": "2026-01-19T12:57:21.402692+00:00",
-    "https://www.jiqizhixin.com/articles/2026-01-19-6": "2026-01-19T12:57:21.402694+00:00",
-    "https://www.jiqizhixin.com/articles/2026-01-19-5": "2026-01-19T12:57:21.402696+00:00",
-    "https://www.qbitai.com/?p=370355": "2026-01-19T12:57:23.529305+00:00",
-    "https://www.qbitai.com/?p=370328": "2026-01-19T12:57:23.529315+00:00",
-    "https://www.qbitai.com/?p=370285": "2026-01-19T12:57:23.529318+00:00",
-    "https://www.qbitai.com/?p=370277": "2026-01-19T12:57:23.529320+00:00",
-    "https://www.qbitai.com/?p=370245": "2026-01-19T12:57:23.529322+00:00",
-    "https://sspai.com/post/105585": "2026-01-19T12:57:27.655429+00:00",
-    "https://sspai.com/post/101074": "2026-01-19T12:57:27.655436+00:00",
-    "https://sspai.com/post/105227": "2026-01-19T12:57:27.655438+00:00",
     "https://sspai.com/post/105600": "2026-01-20T02:00:19.944351+00:00",
     "https://www.jiqizhixin.com/articles/2026-01-20-14": "2026-01-20T12:57:59.171284+00:00",
     "https://www.jiqizhixin.com/articles/2026-01-20-13": "2026-01-20T12:57:59.171292+00:00",
@@ -1034,8 +1021,20 @@
     "http://arxiv.org/abs/2602.16609v1": "2026-02-19T02:32:03.944275+00:00",
     "http://arxiv.org/abs/2602.16570v1": "2026-02-19T02:32:03.944277+00:00",
     "http://arxiv.org/abs/2602.16554v1": "2026-02-19T02:32:03.944279+00:00",
-    "http://arxiv.org/abs/2602.16512v1": "2026-02-19T02:32:03.944280+00:00"
+    "http://arxiv.org/abs/2602.16512v1": "2026-02-19T02:32:03.944280+00:00",
+    "https://www.jiqizhixin.com/articles/2026-02-19-5": "2026-02-19T13:14:06.826237+00:00",
+    "https://www.jiqizhixin.com/articles/2026-02-19-4": "2026-02-19T13:14:06.826243+00:00",
+    "https://www.jiqizhixin.com/articles/2026-02-19-3": "2026-02-19T13:14:06.826246+00:00",
+    "https://www.jiqizhixin.com/articles/2026-02-19-2": "2026-02-19T13:14:06.826248+00:00",
+    "https://www.jiqizhixin.com/articles/2026-02-19": "2026-02-19T13:14:06.826250+00:00",
+    "https://www.qbitai.com/?p=381435": "2026-02-19T13:14:09.006924+00:00",
+    "https://www.qbitai.com/?p=381417": "2026-02-19T13:14:09.006950+00:00",
+    "https://www.qbitai.com/?p=381415": "2026-02-19T13:14:09.006954+00:00",
+    "https://www.qbitai.com/?p=381378": "2026-02-19T13:14:09.006957+00:00",
+    "https://www.qbitai.com/?p=381300": "2026-02-19T13:14:09.006958+00:00",
+    "https://sspai.com/post/106451": "2026-02-19T13:14:11.467732+00:00",
+    "https://www.latent.space/p/ainews-anthropics-agent-autonomy": "2026-02-19T13:14:11.974491+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-02-19T02:32:03.944689+00:00"
+  "last_updated": "2026-02-19T13:14:17.406990+00:00"
 }
