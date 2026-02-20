@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://sspai.com/post/105600": "2026-01-20T02:00:19.944351+00:00",
     "https://www.jiqizhixin.com/articles/2026-01-20-14": "2026-01-20T12:57:59.171284+00:00",
     "https://www.jiqizhixin.com/articles/2026-01-20-13": "2026-01-20T12:57:59.171292+00:00",
     "https://www.jiqizhixin.com/articles/2026-01-20-12": "2026-01-20T12:57:59.171295+00:00",
@@ -1033,8 +1032,35 @@
     "https://www.qbitai.com/?p=381378": "2026-02-19T13:14:09.006957+00:00",
     "https://www.qbitai.com/?p=381300": "2026-02-19T13:14:09.006958+00:00",
     "https://sspai.com/post/106451": "2026-02-19T13:14:11.467732+00:00",
-    "https://www.latent.space/p/ainews-anthropics-agent-autonomy": "2026-02-19T13:14:11.974491+00:00"
+    "https://www.latent.space/p/ainews-anthropics-agent-autonomy": "2026-02-19T13:14:11.974491+00:00",
+    "https://www.jiqizhixin.com/articles/2026-02-20": "2026-02-20T02:27:20.729216+00:00",
+    "https://www.qbitai.com/?p=381460": "2026-02-20T02:27:22.599420+00:00",
+    "https://www.latent.space/p/a16z": "2026-02-20T02:27:28.140485+00:00",
+    "https://www.microsoft.com/en-us/research/?p=1162092": "2026-02-20T02:27:29.715218+00:00",
+    "https://huggingface.co/blog/unsloth-jobs": "2026-02-20T02:27:30.707549+00:00",
+    "https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja": "2026-02-20T02:27:30.707556+00:00",
+    "https://status.claude.com/incidents/p66ph1brd3zc": "2026-02-20T02:27:31.976932+00:00",
+    "https://blogs.nvidia.com/?p=90040": "2026-02-20T02:27:32.940327+00:00",
+    "https://blogs.nvidia.com/?p=90054": "2026-02-20T02:27:32.940334+00:00",
+    "d6aab1429cf51a49084dfa78df84652df04f13b6": "2026-02-20T02:27:33.413629+00:00",
+    "315d596433d922e7884618b1cec9652fd21dcca5": "2026-02-20T02:27:33.413636+00:00",
+    "http://arxiv.org/abs/2602.17664v1": "2026-02-20T02:27:34.012150+00:00",
+    "http://arxiv.org/abs/2602.17655v1": "2026-02-20T02:27:34.012160+00:00",
+    "http://arxiv.org/abs/2602.17654v1": "2026-02-20T02:27:34.012163+00:00",
+    "http://arxiv.org/abs/2602.17646v1": "2026-02-20T02:27:34.012165+00:00",
+    "http://arxiv.org/abs/2602.17641v1": "2026-02-20T02:27:34.012167+00:00",
+    "http://arxiv.org/abs/2602.17633v1": "2026-02-20T02:27:34.012169+00:00",
+    "http://arxiv.org/abs/2602.17623v1": "2026-02-20T02:27:34.012172+00:00",
+    "http://arxiv.org/abs/2602.17616v1": "2026-02-20T02:27:34.012174+00:00",
+    "http://arxiv.org/abs/2602.17608v1": "2026-02-20T02:27:34.012176+00:00",
+    "http://arxiv.org/abs/2602.17607v1": "2026-02-20T02:27:34.012178+00:00",
+    "http://arxiv.org/abs/2602.17663v1": "2026-02-20T02:27:34.375772+00:00",
+    "http://arxiv.org/abs/2602.17605v1": "2026-02-20T02:27:34.375781+00:00",
+    "http://arxiv.org/abs/2602.17565v1": "2026-02-20T02:27:34.375784+00:00",
+    "http://arxiv.org/abs/2602.17554v1": "2026-02-20T02:27:34.375786+00:00",
+    "http://arxiv.org/abs/2602.17550v1": "2026-02-20T02:27:34.375787+00:00",
+    "http://arxiv.org/abs/2602.17547v1": "2026-02-20T02:27:34.375789+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-02-19T13:14:17.406990+00:00"
+  "last_updated": "2026-02-20T02:27:34.376361+00:00"
 }
