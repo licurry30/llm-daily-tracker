@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=370720": "2026-01-21T02:03:12.138885+00:00",
-    "https://sspai.com/post/105628": "2026-01-21T02:03:14.303762+00:00",
-    "https://www.microsoft.com/en-us/research/?p=1160129": "2026-01-21T02:03:16.131008+00:00",
-    "https://status.claude.com/incidents/l3q16xnl4t2f": "2026-01-21T02:03:17.409171+00:00",
-    "2ed187a8a1b2bf36865fc00ee7ddaec918acf080": "2026-01-21T02:03:18.479785+00:00",
     "https://www.jiqizhixin.com/articles/2026-01-21-8": "2026-01-21T12:57:15.863744+00:00",
     "https://www.jiqizhixin.com/articles/2026-01-21-7": "2026-01-21T12:57:15.863753+00:00",
     "https://www.jiqizhixin.com/articles/2026-01-21-6": "2026-01-21T12:57:15.863756+00:00",
@@ -1049,8 +1044,18 @@
     "https://www.qbitai.com/?p=381542": "2026-02-20T13:05:53.273185+00:00",
     "https://www.qbitai.com/?p=381495": "2026-02-20T13:05:53.273192+00:00",
     "https://sspai.com/post/94704": "2026-02-20T13:05:55.303366+00:00",
-    "https://www.latent.space/p/ainews-gemini-31-pro-2x-30-on-arc": "2026-02-20T13:05:55.759453+00:00"
+    "https://www.latent.space/p/ainews-gemini-31-pro-2x-30-on-arc": "2026-02-20T13:05:55.759453+00:00",
+    "https://www.jiqizhixin.com/articles/2026-02-20-5": "2026-02-21T02:21:19.620567+00:00",
+    "https://www.jiqizhixin.com/articles/2026-02-20-4": "2026-02-21T02:21:19.620574+00:00",
+    "https://www.jiqizhixin.com/articles/2026-02-20-3": "2026-02-21T02:21:19.620577+00:00",
+    "https://www.jiqizhixin.com/articles/2026-02-20-2": "2026-02-21T02:21:19.620580+00:00",
+    "https://status.openai.com//incidents/01KHYH2KT8VNWS146V0S09MF29": "2026-02-21T02:21:28.471951+00:00",
+    "https://status.claude.com/incidents/rypj3860pyv0": "2026-02-21T02:21:29.028712+00:00",
+    "https://status.claude.com/incidents/wvcltv77dcfm": "2026-02-21T02:21:29.028719+00:00",
+    "96a1627efdc06412b2cdbcb4f67952843bf54492": "2026-02-21T02:21:30.385308+00:00",
+    "f756ea282e66709ee5e3cc86e5b282b32f0f670c": "2026-02-21T02:21:30.385315+00:00",
+    "bb74441898c317f44a8aa3090000d225d9613175": "2026-02-21T02:21:30.385318+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-02-20T13:06:00.797767+00:00"
+  "last_updated": "2026-02-21T02:22:16.261308+00:00"
 }
