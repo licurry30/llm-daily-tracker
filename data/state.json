@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=372108": "2026-01-24T01:56:22.557354+00:00",
-    "https://www.qbitai.com/?p=372099": "2026-01-24T01:56:22.557364+00:00",
-    "https://www.latent.space/p/2026": "2026-01-24T01:56:26.075357+00:00",
-    "3fc55025795ce22c80df796cb9c300fc6d89dc98": "2026-01-24T01:56:30.488918+00:00",
-    "0fb7d44896fc0ed0135f73eeccfd201682f9ce91": "2026-01-24T01:56:30.488926+00:00",
     "https://www.jiqizhixin.com/articles/2026-01-24-6": "2026-01-24T12:48:29.964649+00:00",
     "https://www.jiqizhixin.com/articles/2026-01-24-5": "2026-01-24T12:48:29.964655+00:00",
     "https://www.jiqizhixin.com/articles/2026-01-24-4": "2026-01-24T12:48:29.964657+00:00",
@@ -970,8 +965,18 @@
     "https://www.qbitai.com/?p=381672": "2026-02-23T13:13:09.289014+00:00",
     "https://sspai.com/post/105647": "2026-02-23T13:13:15.659611+00:00",
     "https://status.claude.com/incidents/svd7kk1vlhmc": "2026-02-23T13:13:19.031652+00:00",
-    "https://status.claude.com/incidents/162g24n9sm8p": "2026-02-23T13:13:19.031660+00:00"
+    "https://status.claude.com/incidents/162g24n9sm8p": "2026-02-23T13:13:19.031660+00:00",
+    "https://sspai.com/post/106538": "2026-02-24T02:29:41.949814+00:00",
+    "https://www.latent.space/p/swe-bench-dead": "2026-02-24T02:29:42.358654+00:00",
+    "https://huggingface.co/blog/nvidia/cosmos-on-jetson": "2026-02-24T02:29:43.962649+00:00",
+    "https://status.openai.com//incidents/01KJ5J4MPJ199K8XVX6T05X66J": "2026-02-24T02:29:44.370234+00:00",
+    "https://status.claude.com/incidents/vx606lmrr9dh": "2026-02-24T02:29:44.731450+00:00",
+    "https://blogs.nvidia.com/?p=90114": "2026-02-24T02:29:45.642044+00:00",
+    "1d76b47b2cabc23cb671f0e8eabfe1fa3a73073b": "2026-02-24T02:29:45.998539+00:00",
+    "03ce9f4b3515b2dd16a3a38287be6358160d13cc": "2026-02-24T02:29:45.998548+00:00",
+    "f452a6551d9477051ffb821edb1d8fc3bbedf56a": "2026-02-24T02:29:45.998551+00:00",
+    "7e5ad796bed46648b4fe0f9c0dbfac9cd6b1c766": "2026-02-24T02:29:45.998554+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-02-23T13:13:20.713192+00:00"
+  "last_updated": "2026-02-24T02:29:47.109977+00:00"
 }
