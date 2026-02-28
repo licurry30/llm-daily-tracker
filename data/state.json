@@ -1,32 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=373317": "2026-01-28T02:02:48.127026+00:00",
-    "https://www.qbitai.com/?p=373117": "2026-01-28T02:02:48.127037+00:00",
-    "https://www.qbitai.com/?p=373113": "2026-01-28T02:02:48.127040+00:00",
-    "https://sspai.com/post/105830": "2026-01-28T02:02:53.610689+00:00",
-    "https://www.microsoft.com/en-us/research/?p=1160723": "2026-01-28T02:02:55.700535+00:00",
-    "https://huggingface.co/blog/nvidia/nemotron-personas-brazil": "2026-01-28T02:02:56.481088+00:00",
-    "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2": "2026-01-28T02:02:56.481101+00:00",
-    "https://status.openai.com//incidents/01KG13K239MSN2R3S015E2WMY1": "2026-01-28T02:02:57.374702+00:00",
-    "https://status.claude.com/incidents/833cdm540lld": "2026-01-28T02:02:57.963446+00:00",
-    "https://status.claude.com/incidents/nkwk08nf2259": "2026-01-28T02:02:57.963453+00:00",
-    "929921e36864449df32bf7a94b36b6d415bfa5db": "2026-01-28T02:02:59.177688+00:00",
-    "60f3d6cfabcdfcd82e2beab156ef6f04dd8c07ce": "2026-01-28T02:02:59.177696+00:00",
-    "http://arxiv.org/abs/2601.19700v1": "2026-01-28T02:02:59.706517+00:00",
-    "http://arxiv.org/abs/2601.19697v1": "2026-01-28T02:02:59.706528+00:00",
-    "http://arxiv.org/abs/2601.19673v1": "2026-01-28T02:02:59.706530+00:00",
-    "http://arxiv.org/abs/2601.19672v1": "2026-01-28T02:02:59.706533+00:00",
-    "http://arxiv.org/abs/2601.19667v1": "2026-01-28T02:02:59.706534+00:00",
-    "http://arxiv.org/abs/2601.19637v1": "2026-01-28T02:02:59.706536+00:00",
-    "http://arxiv.org/abs/2601.19622v1": "2026-01-28T02:02:59.706538+00:00",
-    "http://arxiv.org/abs/2601.19620v1": "2026-01-28T02:02:59.706540+00:00",
-    "http://arxiv.org/abs/2601.19613v1": "2026-01-28T02:02:59.706542+00:00",
-    "http://arxiv.org/abs/2601.19611v1": "2026-01-28T02:02:59.706544+00:00",
-    "http://arxiv.org/abs/2601.19605v1": "2026-01-28T02:03:00.259243+00:00",
-    "http://arxiv.org/abs/2601.19588v1": "2026-01-28T02:03:00.259253+00:00",
-    "http://arxiv.org/abs/2601.19561v1": "2026-01-28T02:03:00.259255+00:00",
-    "http://arxiv.org/abs/2601.19527v1": "2026-01-28T02:03:00.259257+00:00",
-    "http://arxiv.org/abs/2601.19510v1": "2026-01-28T02:03:00.259259+00:00",
     "https://www.jiqizhixin.com/articles/2026-01-28-10": "2026-01-28T12:58:10.014669+00:00",
     "https://www.jiqizhixin.com/articles/2026-01-28-9": "2026-01-28T12:58:10.014676+00:00",
     "https://www.jiqizhixin.com/articles/2026-01-28-8": "2026-01-28T12:58:10.014678+00:00",
@@ -1084,8 +1057,13 @@
     "http://arxiv.org/abs/2602.23351v1": "2026-02-27T13:06:40.258640+00:00",
     "http://arxiv.org/abs/2602.23320v1": "2026-02-27T13:06:40.258642+00:00",
     "http://arxiv.org/abs/2602.23295v1": "2026-02-27T13:06:40.258645+00:00",
-    "http://arxiv.org/abs/2602.23286v1": "2026-02-27T13:06:40.258646+00:00"
+    "http://arxiv.org/abs/2602.23286v1": "2026-02-27T13:06:40.258646+00:00",
+    "https://www.latent.space/p/dylanpatel-cooking": "2026-02-28T02:08:49.287940+00:00",
+    "https://www.latent.space/p/metr": "2026-02-28T02:08:49.287950+00:00",
+    "https://status.claude.com/incidents/0xc7ybw5wd3x": "2026-02-28T02:08:51.706562+00:00",
+    "https://status.claude.com/incidents/70jm56f7jlpk": "2026-02-28T02:08:51.706568+00:00",
+    "https://status.claude.com/incidents/zp9x05pcbwxq": "2026-02-28T02:08:51.706571+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-02-27T13:06:40.259156+00:00"
+  "last_updated": "2026-02-28T02:08:53.224000+00:00"
 }
