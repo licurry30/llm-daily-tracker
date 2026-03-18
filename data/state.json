@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://status.openai.com//incidents/01KHENBA61A9PJHE092HXW60RA": "2026-02-15T02:36:59.453233+00:00",
-    "https://status.claude.com/incidents/49s6mwrdyz8j": "2026-02-15T02:37:00.064263+00:00",
-    "https://www.jiqizhixin.com/articles/2026-02-15-7": "2026-02-15T12:58:28.593617+00:00",
-    "https://www.jiqizhixin.com/articles/2026-02-15-6": "2026-02-15T12:58:28.593626+00:00",
-    "https://www.jiqizhixin.com/articles/2026-02-15-5": "2026-02-15T12:58:28.593628+00:00",
-    "https://www.jiqizhixin.com/articles/2026-02-15-4": "2026-02-15T12:58:28.593632+00:00",
-    "https://www.jiqizhixin.com/articles/2026-02-15-3": "2026-02-15T12:58:28.593633+00:00",
-    "https://www.qbitai.com/?p=380405": "2026-02-15T12:58:30.917211+00:00",
-    "https://www.qbitai.com/?p=380406": "2026-02-15T12:58:30.917221+00:00",
-    "https://www.qbitai.com/?p=380388": "2026-02-15T12:58:30.917225+00:00",
-    "https://sspai.com/post/106374": "2026-02-15T12:58:33.293645+00:00",
     "https://www.jiqizhixin.com/articles/2026-02-16-2": "2026-02-16T02:32:42.900368+00:00",
     "https://www.jiqizhixin.com/articles/2026-02-16": "2026-02-16T02:32:42.900376+00:00",
     "https://www.jiqizhixin.com/articles/2026-02-16-4": "2026-02-16T13:11:43.044559+00:00",
@@ -916,8 +905,20 @@
     "http://arxiv.org/abs/2603.16870v1": "2026-03-18T02:34:11.549498+00:00",
     "http://arxiv.org/abs/2603.16790v1": "2026-03-18T02:34:11.549510+00:00",
     "http://arxiv.org/abs/2603.16777v1": "2026-03-18T02:34:11.549513+00:00",
-    "http://arxiv.org/abs/2603.16739v1": "2026-03-18T02:34:11.549515+00:00"
+    "http://arxiv.org/abs/2603.16739v1": "2026-03-18T02:34:11.549515+00:00",
+    "https://www.qbitai.com/?p=389004": "2026-03-18T13:20:59.733904+00:00",
+    "https://www.qbitai.com/?p=388980": "2026-03-18T13:20:59.733910+00:00",
+    "https://www.qbitai.com/?p=388972": "2026-03-18T13:20:59.733914+00:00",
+    "https://www.qbitai.com/?p=388959": "2026-03-18T13:20:59.733915+00:00",
+    "https://sspai.com/post/106878": "2026-03-18T13:21:02.374330+00:00",
+    "https://sspai.com/post/106734": "2026-03-18T13:21:02.374336+00:00",
+    "https://sspai.com/post/106992": "2026-03-18T13:21:02.374339+00:00",
+    "https://sspai.com/post/106217": "2026-03-18T13:21:02.374341+00:00",
+    "https://www.latent.space/p/ainews-claude-cowork-dispatch-anthropics": "2026-03-18T13:21:02.882958+00:00",
+    "https://status.claude.com/incidents/0dvq4gvy5f5f": "2026-03-18T13:21:05.970272+00:00",
+    "https://status.claude.com/incidents/s914kvccjthq": "2026-03-18T13:21:05.970278+00:00",
+    "https://blogs.nvidia.com/?p=91222": "2026-03-18T13:21:06.178357+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-03-18T02:34:11.550092+00:00"
+  "last_updated": "2026-03-18T13:21:07.605586+00:00"
 }
