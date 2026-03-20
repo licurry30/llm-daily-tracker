@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.jiqizhixin.com/articles/2026-02-16-6": "2026-02-17T02:29:19.287722+00:00",
-    "https://www.jiqizhixin.com/articles/2026-02-16-5": "2026-02-17T02:29:19.287728+00:00",
-    "https://status.openai.com//incidents/01KHM3D6HBAX95H7V8MXHNKDK6": "2026-02-17T02:29:27.383272+00:00",
-    "https://status.openai.com//incidents/01KHKQWHXEF4WJY8WGX24RA07R": "2026-02-17T02:29:27.383279+00:00",
-    "https://status.claude.com/incidents/r3w8gj1cx65g": "2026-02-17T02:29:28.122377+00:00",
-    "https://status.claude.com/incidents/8zk0t14kl1m8": "2026-02-17T02:29:28.122384+00:00",
-    "https://blogs.nvidia.com/?p=89944": "2026-02-17T02:29:29.090276+00:00",
     "https://www.jiqizhixin.com/articles/2026-02-17-4": "2026-02-17T13:11:34.440167+00:00",
     "https://www.jiqizhixin.com/articles/2026-02-17-3": "2026-02-17T13:11:34.440174+00:00",
     "https://www.jiqizhixin.com/articles/2026-02-17-2": "2026-02-17T13:11:34.440177+00:00",
@@ -979,8 +972,17 @@
     "http://arxiv.org/abs/2603.19216v1": "2026-03-20T02:27:35.593935+00:00",
     "http://arxiv.org/abs/2603.19169v1": "2026-03-20T02:27:35.593943+00:00",
     "http://arxiv.org/abs/2603.19166v1": "2026-03-20T02:27:35.593946+00:00",
-    "http://arxiv.org/abs/2603.19149v1": "2026-03-20T02:27:35.593948+00:00"
+    "http://arxiv.org/abs/2603.19149v1": "2026-03-20T02:27:35.593948+00:00",
+    "https://www.qbitai.com/?p=390320": "2026-03-20T13:07:01.525570+00:00",
+    "https://www.qbitai.com/?p=390235": "2026-03-20T13:07:01.525577+00:00",
+    "https://www.qbitai.com/?p=389609": "2026-03-20T13:07:01.525579+00:00",
+    "https://www.qbitai.com/?p=389673": "2026-03-20T13:07:01.525581+00:00",
+    "https://www.qbitai.com/?p=389666": "2026-03-20T13:07:01.525583+00:00",
+    "https://sspai.com/post/107582": "2026-03-20T13:07:03.746627+00:00",
+    "https://sspai.com/post/107202": "2026-03-20T13:07:03.746634+00:00",
+    "https://sspai.com/post/107529": "2026-03-20T13:07:03.746637+00:00",
+    "https://www.latent.space/p/ainews-every-lab-serious-enough-about": "2026-03-20T13:07:04.202445+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-03-20T02:27:35.594312+00:00"
+  "last_updated": "2026-03-20T13:07:08.573489+00:00"
 }
