@@ -1,30 +1,5 @@
 {
   "seen": {
-    "https://www.jiqizhixin.com/articles/2026-02-17-4": "2026-02-17T13:11:34.440167+00:00",
-    "https://www.jiqizhixin.com/articles/2026-02-17-3": "2026-02-17T13:11:34.440174+00:00",
-    "https://www.jiqizhixin.com/articles/2026-02-17-2": "2026-02-17T13:11:34.440177+00:00",
-    "https://www.jiqizhixin.com/articles/2026-02-17": "2026-02-17T13:11:34.440179+00:00",
-    "https://www.qbitai.com/?p=380771": "2026-02-17T13:11:36.466262+00:00",
-    "https://www.latent.space/p/ainews-qwen35-397b-a17b-the-smallest": "2026-02-17T13:11:39.789980+00:00",
-    "http://arxiv.org/abs/2602.15029v1": "2026-02-17T13:11:45.308607+00:00",
-    "http://arxiv.org/abs/2602.15028v1": "2026-02-17T13:11:45.308617+00:00",
-    "http://arxiv.org/abs/2602.15019v1": "2026-02-17T13:11:45.308620+00:00",
-    "http://arxiv.org/abs/2602.15013v1": "2026-02-17T13:11:45.308622+00:00",
-    "http://arxiv.org/abs/2602.15005v1": "2026-02-17T13:11:45.308624+00:00",
-    "http://arxiv.org/abs/2602.15001v1": "2026-02-17T13:11:45.308626+00:00",
-    "http://arxiv.org/abs/2602.14970v1": "2026-02-17T13:11:45.308629+00:00",
-    "http://arxiv.org/abs/2602.14968v1": "2026-02-17T13:11:45.308631+00:00",
-    "http://arxiv.org/abs/2602.14955v1": "2026-02-17T13:11:45.308632+00:00",
-    "http://arxiv.org/abs/2602.14926v1": "2026-02-17T13:11:45.308634+00:00",
-    "http://arxiv.org/abs/2602.15012v1": "2026-02-17T13:11:45.603519+00:00",
-    "http://arxiv.org/abs/2602.14994v1": "2026-02-17T13:11:45.603529+00:00",
-    "http://arxiv.org/abs/2602.14989v1": "2026-02-17T13:11:45.603533+00:00",
-    "http://arxiv.org/abs/2602.14975v1": "2026-02-17T13:11:45.603534+00:00",
-    "http://arxiv.org/abs/2602.14917v1": "2026-02-17T13:11:45.603536+00:00",
-    "http://arxiv.org/abs/2602.14910v1": "2026-02-17T13:11:45.603538+00:00",
-    "http://arxiv.org/abs/2602.14903v1": "2026-02-17T13:11:45.603540+00:00",
-    "http://arxiv.org/abs/2602.14896v1": "2026-02-17T13:11:45.603541+00:00",
-    "http://arxiv.org/abs/2602.14890v1": "2026-02-17T13:11:45.603543+00:00",
     "https://huggingface.co/blog/nvidia/nemotron-nano-9b-v2-japanese-ja": "2026-02-18T02:32:49.758086+00:00",
     "https://status.claude.com/incidents/d6lxkq6m53yy": "2026-02-18T02:32:50.452204+00:00",
     "https://status.claude.com/incidents/bryrpn54npvn": "2026-02-18T02:32:50.452212+00:00",
@@ -981,8 +956,13 @@
     "https://sspai.com/post/107582": "2026-03-20T13:07:03.746627+00:00",
     "https://sspai.com/post/107202": "2026-03-20T13:07:03.746634+00:00",
     "https://sspai.com/post/107529": "2026-03-20T13:07:03.746637+00:00",
-    "https://www.latent.space/p/ainews-every-lab-serious-enough-about": "2026-03-20T13:07:04.202445+00:00"
+    "https://www.latent.space/p/ainews-every-lab-serious-enough-about": "2026-03-20T13:07:04.202445+00:00",
+    "https://www.latent.space/p/dreamer": "2026-03-21T02:22:08.629713+00:00",
+    "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune": "2026-03-21T02:22:10.503377+00:00",
+    "https://huggingface.co/blog/ibm-granite/granite-libraries": "2026-03-21T02:22:10.503383+00:00",
+    "https://status.openai.com//incidents/01KM5W5ZPAFRXPRGXDEARXFHJZ": "2026-03-21T02:22:11.009776+00:00",
+    "https://status.claude.com/incidents/tj7zxr47cfx6": "2026-03-21T02:22:11.516134+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-03-20T13:07:08.573489+00:00"
+  "last_updated": "2026-03-21T02:22:13.030727+00:00"
 }
