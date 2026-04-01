@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://sspai.com/post/106454": "2026-03-01T13:14:08.043565+00:00",
-    "https://status.openai.com//incidents/01KJM0AYG5PAY9EYRFH4T6JHP6": "2026-03-01T13:14:10.497830+00:00",
-    "https://blogs.nvidia.com/?p=90401": "2026-03-01T13:14:12.293592+00:00",
-    "https://blogs.nvidia.com/?p=90420": "2026-03-01T13:14:12.293600+00:00",
     "https://sspai.com/post/106730": "2026-03-02T02:28:47.227584+00:00",
     "https://www.qbitai.com/?p=383235": "2026-03-02T13:06:40.693038+00:00",
     "https://www.qbitai.com/?p=383023": "2026-03-02T13:06:40.693045+00:00",
@@ -885,8 +881,19 @@
     "http://arxiv.org/abs/2603.29908v1": "2026-04-01T02:54:12.191094+00:00",
     "http://arxiv.org/abs/2603.29901v1": "2026-04-01T02:54:12.191096+00:00",
     "http://arxiv.org/abs/2603.29846v1": "2026-04-01T02:54:12.191102+00:00",
-    "http://arxiv.org/abs/2603.29793v1": "2026-04-01T02:54:12.191104+00:00"
+    "http://arxiv.org/abs/2603.29793v1": "2026-04-01T02:54:12.191104+00:00",
+    "https://www.qbitai.com/?p=394547": "2026-04-01T13:41:41.417342+00:00",
+    "https://www.qbitai.com/?p=394530": "2026-04-01T13:41:41.417348+00:00",
+    "https://www.qbitai.com/?p=394516": "2026-04-01T13:41:41.417351+00:00",
+    "https://www.qbitai.com/?p=394373": "2026-04-01T13:41:41.417353+00:00",
+    "https://www.qbitai.com/?p=394177": "2026-04-01T13:41:41.417355+00:00",
+    "https://sspai.com/post/108163": "2026-04-01T13:41:43.826152+00:00",
+    "https://sspai.com/post/108064": "2026-04-01T13:41:43.826160+00:00",
+    "https://www.latent.space/p/ainews-the-claude-code-source-leak": "2026-04-01T13:41:44.336076+00:00",
+    "https://huggingface.co/blog/tiiuae/falcon-perception": "2026-04-01T13:41:46.965165+00:00",
+    "https://status.claude.com/incidents/3bg93cy9bk1v": "2026-04-01T13:41:48.190336+00:00",
+    "https://status.claude.com/incidents/fvj2fgqrchsj": "2026-04-01T13:41:48.190343+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-04-01T02:54:12.191504+00:00"
+  "last_updated": "2026-04-01T13:41:49.972192+00:00"
 }
