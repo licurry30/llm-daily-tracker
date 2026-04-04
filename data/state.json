@@ -1,31 +1,5 @@
 {
   "seen": {
-    "https://sspai.com/post/106811": "2026-03-04T02:24:36.932426+00:00",
-    "https://huggingface.co/blog/Photoroom/prx-part3": "2026-03-04T02:24:39.220352+00:00",
-    "https://status.openai.com//incidents/01KJT9GR84M7S3RQJDPSHEQHYE": "2026-03-04T02:24:39.661520+00:00",
-    "https://status.claude.com/incidents/p7nq2jdg4zwj": "2026-03-04T02:24:40.050370+00:00",
-    "https://status.claude.com/incidents/v3j5tpfcr3dn": "2026-03-04T02:24:40.050376+00:00",
-    "https://status.claude.com/incidents/s0pmy4yywshv": "2026-03-04T02:24:40.050379+00:00",
-    "4474a7de670873c4ce044cd6293375ae874eeddb": "2026-03-04T02:24:41.471054+00:00",
-    "bac610ff2bd913d55f3af2f907c355be87542443": "2026-03-04T02:24:41.471060+00:00",
-    "09209e0e7d7a52416b2d2a4398f50bc3380a5b00": "2026-03-04T02:24:41.471063+00:00",
-    "http://arxiv.org/abs/2603.03116v1": "2026-03-04T02:24:42.152818+00:00",
-    "http://arxiv.org/abs/2603.03111v1": "2026-03-04T02:24:42.152828+00:00",
-    "http://arxiv.org/abs/2603.03095v1": "2026-03-04T02:24:42.152831+00:00",
-    "http://arxiv.org/abs/2603.03081v1": "2026-03-04T02:24:42.152834+00:00",
-    "http://arxiv.org/abs/2603.03080v1": "2026-03-04T02:24:42.152836+00:00",
-    "http://arxiv.org/abs/2603.03078v1": "2026-03-04T02:24:42.152838+00:00",
-    "http://arxiv.org/abs/2603.03072v1": "2026-03-04T02:24:42.152841+00:00",
-    "http://arxiv.org/abs/2603.03054v1": "2026-03-04T02:24:42.152843+00:00",
-    "http://arxiv.org/abs/2603.03047v1": "2026-03-04T02:24:42.152846+00:00",
-    "http://arxiv.org/abs/2603.03031v1": "2026-03-04T02:24:42.152849+00:00",
-    "http://arxiv.org/abs/2603.03101v1": "2026-03-04T02:24:42.782694+00:00",
-    "http://arxiv.org/abs/2603.03074v1": "2026-03-04T02:24:42.782704+00:00",
-    "http://arxiv.org/abs/2603.03005v1": "2026-03-04T02:24:42.782707+00:00",
-    "http://arxiv.org/abs/2603.03002v1": "2026-03-04T02:24:42.782709+00:00",
-    "http://arxiv.org/abs/2603.02939v1": "2026-03-04T02:24:42.782711+00:00",
-    "http://arxiv.org/abs/2603.02938v1": "2026-03-04T02:24:42.782712+00:00",
-    "http://arxiv.org/abs/2603.02876v1": "2026-03-04T02:24:42.782714+00:00",
     "https://www.qbitai.com/?p=383902": "2026-03-04T13:04:20.024250+00:00",
     "https://www.qbitai.com/?p=383878": "2026-03-04T13:04:20.024257+00:00",
     "https://www.qbitai.com/?p=383842": "2026-03-04T13:04:20.024260+00:00",
@@ -905,8 +879,13 @@
     "https://sspai.com/post/108231": "2026-04-03T13:11:16.077855+00:00",
     "https://sspai.com/post/107928": "2026-04-03T13:11:16.077862+00:00",
     "https://sspai.com/post/108187": "2026-04-03T13:11:16.077864+00:00",
-    "https://www.latent.space/p/ainews-gemma-4-the-best-small-multimodal": "2026-04-03T13:11:16.557449+00:00"
+    "https://www.latent.space/p/ainews-gemma-4-the-best-small-multimodal": "2026-04-03T13:11:16.557449+00:00",
+    "https://www.qbitai.com/?p=395916": "2026-04-04T02:31:18.301412+00:00",
+    "https://www.qbitai.com/?p=395477": "2026-04-04T02:31:18.301419+00:00",
+    "https://www.latent.space/p/ainews-good-friday": "2026-04-04T02:33:34.387115+00:00",
+    "https://www.latent.space/p/pmarca": "2026-04-04T02:33:34.387124+00:00",
+    "https://status.claude.com/incidents/fznql3y9tpn7": "2026-04-04T02:33:37.328697+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-04-03T13:11:57.928566+00:00"
+  "last_updated": "2026-04-04T02:33:38.793491+00:00"
 }
