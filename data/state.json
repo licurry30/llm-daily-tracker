@@ -1,31 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=385800": "2026-03-11T02:23:01.586132+00:00",
-    "https://sspai.com/post/107042": "2026-03-11T02:23:07.911290+00:00",
-    "https://sspai.com/post/107031": "2026-03-11T02:23:07.911298+00:00",
-    "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/": "2026-03-11T02:23:10.206432+00:00",
-    "https://huggingface.co/blog/nvidia/open-data-for-ai": "2026-03-11T02:23:10.970725+00:00",
-    "https://status.openai.com//incidents/01KKCBMVXANKXVCPE2760437BR": "2026-03-11T02:23:11.400275+00:00",
-    "https://status.openai.com//incidents/01KKD07DNHFKAWK5JCAMAASYGZ": "2026-03-11T02:23:11.400285+00:00",
-    "https://status.openai.com//incidents/01KKCT34VDK552CSMP286DS9HE": "2026-03-11T02:23:11.400288+00:00",
-    "https://blogs.nvidia.com/?p=90166": "2026-03-11T02:23:12.728038+00:00",
-    "https://blogs.nvidia.com/?p=90681": "2026-03-11T02:23:12.728044+00:00",
-    "https://blogs.nvidia.com/?p=90699": "2026-03-11T02:23:12.728047+00:00",
-    "1ddff6acbfc1624a0069de1d46fde1b3c0f3c404": "2026-03-11T02:23:13.173345+00:00",
-    "http://arxiv.org/abs/2603.09970v1": "2026-03-11T02:23:13.785565+00:00",
-    "http://arxiv.org/abs/2603.09964v1": "2026-03-11T02:23:13.785575+00:00",
-    "http://arxiv.org/abs/2603.09957v1": "2026-03-11T02:23:13.785578+00:00",
-    "http://arxiv.org/abs/2603.09951v1": "2026-03-11T02:23:13.785579+00:00",
-    "http://arxiv.org/abs/2603.09943v1": "2026-03-11T02:23:13.785581+00:00",
-    "http://arxiv.org/abs/2603.09938v1": "2026-03-11T02:23:13.785584+00:00",
-    "http://arxiv.org/abs/2603.09906v1": "2026-03-11T02:23:13.785586+00:00",
-    "http://arxiv.org/abs/2603.09892v1": "2026-03-11T02:23:13.785588+00:00",
-    "http://arxiv.org/abs/2603.09890v1": "2026-03-11T02:23:13.785590+00:00",
-    "http://arxiv.org/abs/2603.09884v1": "2026-03-11T02:23:13.785592+00:00",
-    "http://arxiv.org/abs/2603.09961v1": "2026-03-11T02:23:14.405183+00:00",
-    "http://arxiv.org/abs/2603.09909v1": "2026-03-11T02:23:14.405194+00:00",
-    "http://arxiv.org/abs/2603.09835v1": "2026-03-11T02:23:14.405197+00:00",
-    "http://arxiv.org/abs/2603.09827v1": "2026-03-11T02:23:14.405199+00:00",
     "https://www.qbitai.com/?p=386485": "2026-03-11T13:08:37.404814+00:00",
     "https://www.qbitai.com/?p=386308": "2026-03-11T13:08:37.404821+00:00",
     "https://www.qbitai.com/?p=386285": "2026-03-11T13:08:37.404824+00:00",
@@ -848,8 +822,14 @@
     "https://sspai.com/post/108453": "2026-04-10T13:18:48.035908+00:00",
     "https://status.openai.com//incidents/01KNTWSXK5MAKGBNNSY093X29H": "2026-04-10T13:18:50.581800+00:00",
     "https://status.openai.com//incidents/01KNTTM5EQY332QC4P7ZQA4X0K": "2026-04-10T13:18:50.581809+00:00",
-    "https://status.claude.com/incidents/2z4mf00ffcwd": "2026-04-10T13:18:50.919724+00:00"
+    "https://status.claude.com/incidents/2z4mf00ffcwd": "2026-04-10T13:18:50.919724+00:00",
+    "https://www.qbitai.com/?p=399393": "2026-04-11T02:34:53.194505+00:00",
+    "https://www.latent.space/p/ainews-ai-engineer-europe-2026": "2026-04-11T02:34:55.825680+00:00",
+    "https://status.openai.com//incidents/01KNX13FBVMC6GJHJ2BQBSRKT8": "2026-04-11T02:34:58.526999+00:00",
+    "https://status.claude.com/incidents/qcfvv041lb1k": "2026-04-11T02:34:59.097423+00:00",
+    "https://status.claude.com/incidents/411xbc51v608": "2026-04-11T02:34:59.097430+00:00",
+    "https://status.claude.com/incidents/ccm8hy0pld48": "2026-04-11T02:34:59.097433+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-04-10T13:19:12.116515+00:00"
+  "last_updated": "2026-04-11T02:35:00.731638+00:00"
 }
