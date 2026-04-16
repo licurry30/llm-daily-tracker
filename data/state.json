@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=388411": "2026-03-16T13:20:47.559296+00:00",
-    "https://www.qbitai.com/?p=388387": "2026-03-16T13:20:47.559304+00:00",
-    "https://www.qbitai.com/?p=388381": "2026-03-16T13:20:47.559307+00:00",
-    "https://www.qbitai.com/?p=388352": "2026-03-16T13:20:47.559309+00:00",
-    "https://www.qbitai.com/?p=388071": "2026-03-16T13:20:47.559311+00:00",
-    "https://sspai.com/post/107431": "2026-03-16T13:20:50.270874+00:00",
-    "https://sspai.com/post/107131": "2026-03-16T13:20:50.270880+00:00",
-    "https://sspai.com/post/106839": "2026-03-16T13:20:50.270883+00:00",
-    "https://status.claude.com/incidents/t2m389x6k1tq": "2026-03-16T13:20:54.482624+00:00",
     "https://sspai.com/post/107450": "2026-03-17T02:28:45.659289+00:00",
     "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics": "2026-03-17T02:28:48.431364+00:00",
     "https://status.claude.com/incidents/0266tzhrb7rn": "2026-03-17T02:28:49.326996+00:00",
@@ -846,8 +837,21 @@
     "http://arxiv.org/abs/2604.14125v1": "2026-04-16T02:56:39.156525+00:00",
     "http://arxiv.org/abs/2604.14084v1": "2026-04-16T02:56:39.156528+00:00",
     "http://arxiv.org/abs/2604.14054v1": "2026-04-16T02:56:39.156529+00:00",
-    "http://arxiv.org/abs/2604.13993v1": "2026-04-16T02:56:39.156531+00:00"
+    "http://arxiv.org/abs/2604.13993v1": "2026-04-16T02:56:39.156531+00:00",
+    "https://www.qbitai.com/?p=401994": "2026-04-16T13:54:51.847002+00:00",
+    "https://www.qbitai.com/?p=401743": "2026-04-16T13:54:51.847011+00:00",
+    "https://www.qbitai.com/?p=401719": "2026-04-16T13:54:51.847014+00:00",
+    "https://www.qbitai.com/?p=401714": "2026-04-16T13:54:51.847016+00:00",
+    "https://www.qbitai.com/?p=401710": "2026-04-16T13:54:51.847018+00:00",
+    "https://sspai.com/post/108070": "2026-04-16T13:54:54.521696+00:00",
+    "https://sspai.com/post/108694": "2026-04-16T13:54:54.521703+00:00",
+    "https://sspai.com/post/108630": "2026-04-16T13:54:54.521706+00:00",
+    "https://sspai.com/post/105394": "2026-04-16T13:54:54.521708+00:00",
+    "https://www.latent.space/p/ainews-rip-pull-requests-2005-2026": "2026-04-16T13:54:54.981596+00:00",
+    "https://huggingface.co/blog/train-multimodal-sentence-transformers": "2026-04-16T13:54:56.917767+00:00",
+    "https://status.claude.com/incidents/7jbzthbc1dwr": "2026-04-16T13:54:57.520904+00:00",
+    "https://blogs.nvidia.com/?p=92373": "2026-04-16T13:54:57.718148+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-04-16T02:56:39.156906+00:00"
+  "last_updated": "2026-04-16T13:54:58.998245+00:00"
 }
