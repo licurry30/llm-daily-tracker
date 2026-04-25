@@ -1,28 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=391799": "2026-03-25T02:33:04.953106+00:00",
-    "https://www.qbitai.com/?p=391775": "2026-03-25T02:33:04.953113+00:00",
-    "https://www.qbitai.com/?p=391760": "2026-03-25T02:33:04.953115+00:00",
-    "https://sspai.com/post/107769": "2026-03-25T02:33:10.341470+00:00",
-    "https://www.latent.space/p/materials": "2026-03-25T02:33:10.851859+00:00",
-    "https://status.openai.com//incidents/01KMH5C6HVAYJ9SS3REEAWXB6R": "2026-03-25T02:33:13.132439+00:00",
-    "https://status.openai.com//incidents/01KMGE1FY97K34FN718KDBKR12": "2026-03-25T02:33:13.132446+00:00",
-    "898a34f7e635e154ed800d9d38f8ec52c33579aa": "2026-03-25T02:33:14.102691+00:00",
-    "e924b1756ad3246a09fe12eecc77d483eedc4e6e": "2026-03-25T02:33:14.102698+00:00",
-    "http://arxiv.org/abs/2603.23485v1": "2026-03-25T02:33:14.858988+00:00",
-    "http://arxiv.org/abs/2603.23483v1": "2026-03-25T02:33:14.858997+00:00",
-    "http://arxiv.org/abs/2603.23482v1": "2026-03-25T02:33:14.859000+00:00",
-    "http://arxiv.org/abs/2603.23447v1": "2026-03-25T02:33:14.859003+00:00",
-    "http://arxiv.org/abs/2603.23443v1": "2026-03-25T02:33:14.859005+00:00",
-    "http://arxiv.org/abs/2603.23420v1": "2026-03-25T02:33:14.859007+00:00",
-    "http://arxiv.org/abs/2603.23414v1": "2026-03-25T02:33:14.859009+00:00",
-    "http://arxiv.org/abs/2603.23406v1": "2026-03-25T02:33:14.859010+00:00",
-    "http://arxiv.org/abs/2603.23404v1": "2026-03-25T02:33:14.859012+00:00",
-    "http://arxiv.org/abs/2603.23355v1": "2026-03-25T02:33:14.859013+00:00",
-    "http://arxiv.org/abs/2603.23495v1": "2026-03-25T02:33:15.160548+00:00",
-    "http://arxiv.org/abs/2603.23481v1": "2026-03-25T02:33:15.160558+00:00",
-    "http://arxiv.org/abs/2603.23436v1": "2026-03-25T02:33:15.160562+00:00",
-    "http://arxiv.org/abs/2603.23319v1": "2026-03-25T02:33:15.160565+00:00",
     "https://www.qbitai.com/?p=392128": "2026-03-25T13:18:54.032203+00:00",
     "https://www.qbitai.com/?p=392121": "2026-03-25T13:18:54.032209+00:00",
     "https://www.qbitai.com/?p=392105": "2026-03-25T13:18:54.032212+00:00",
@@ -822,8 +799,13 @@
     "https://www.latent.space/p/ainews-gpt-55-and-openai-codex-superapp": "2026-04-24T13:42:47.618711+00:00",
     "https://huggingface.co/blog/deepseekv4": "2026-04-24T13:42:50.194720+00:00",
     "https://status.claude.com/incidents/1mx31vhgl3ms": "2026-04-24T13:42:51.417421+00:00",
-    "https://status.claude.com/incidents/wlysnq540b32": "2026-04-24T13:42:51.417428+00:00"
+    "https://status.claude.com/incidents/wlysnq540b32": "2026-04-24T13:42:51.417428+00:00",
+    "https://status.openai.com//incidents/01KQ0P3DXVK7YQYB4NJBKSQCZC": "2026-04-25T02:45:18.872104+00:00",
+    "https://status.claude.com/incidents/zqsk02ryfmrd": "2026-04-25T02:45:19.343655+00:00",
+    "https://status.claude.com/incidents/q93x64nrhwnn": "2026-04-25T02:45:19.343662+00:00",
+    "https://status.claude.com/incidents/s0lttkq5mmt2": "2026-04-25T02:45:19.343665+00:00",
+    "9386aea02beb72f2777ea324ce5244aae6195912": "2026-04-25T02:45:20.077827+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-04-24T13:43:10.143596+00:00"
+  "last_updated": "2026-04-25T02:45:20.889645+00:00"
 }
