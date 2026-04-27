@@ -1,5 +1,5 @@
 # LLM Daily Brief
 
-- 最新日报：[2026-04-26](./daily/2026-04-26.md)
+- 最新日报：[2026-04-27](./daily/2026-04-27.md)
 - 所有历史：docs/daily/
 - 使用说明见仓库 README.md
