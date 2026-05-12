@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=399393": "2026-04-11T02:34:53.194505+00:00",
-    "https://www.latent.space/p/ainews-ai-engineer-europe-2026": "2026-04-11T02:34:55.825680+00:00",
-    "https://status.openai.com//incidents/01KNX13FBVMC6GJHJ2BQBSRKT8": "2026-04-11T02:34:58.526999+00:00",
-    "https://status.claude.com/incidents/qcfvv041lb1k": "2026-04-11T02:34:59.097423+00:00",
-    "https://status.claude.com/incidents/411xbc51v608": "2026-04-11T02:34:59.097430+00:00",
-    "https://status.claude.com/incidents/ccm8hy0pld48": "2026-04-11T02:34:59.097433+00:00",
     "https://www.qbitai.com/?p=399675": "2026-04-11T13:06:00.654186+00:00",
     "https://www.qbitai.com/?p=399473": "2026-04-11T13:06:00.654197+00:00",
     "https://www.qbitai.com/?p=399417": "2026-04-11T13:06:00.654201+00:00",
@@ -790,8 +784,18 @@
     "https://www.qbitai.com/?p=415403": "2026-05-11T15:17:28.466907+00:00",
     "https://sspai.com/post/109636": "2026-05-11T15:17:33.751476+00:00",
     "https://sspai.com/post/109461": "2026-05-11T15:17:33.751484+00:00",
-    "https://sspai.com/post/109542": "2026-05-11T15:17:33.751486+00:00"
+    "https://sspai.com/post/109542": "2026-05-11T15:17:33.751486+00:00",
+    "http://www.geekpark.net/news/364004": "2026-05-12T03:34:54.276012+00:00",
+    "https://sspai.com/post/109647": "2026-05-12T03:34:55.504799+00:00",
+    "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/": "2026-05-12T03:34:57.655331+00:00",
+    "https://huggingface.co/blog/amazon/foundation-model-building-blocks": "2026-05-12T03:34:58.180577+00:00",
+    "https://status.openai.com//incidents/01KRBZTV511HR7SWVFZJ0438D6": "2026-05-12T03:34:58.530770+00:00",
+    "77e0c68e2390ba4ce8d268116b6c8907e190f75f": "2026-05-12T03:34:59.541988+00:00",
+    "c29f5fd7e22722c1f437ab939e992d616a983c08": "2026-05-12T03:34:59.541995+00:00",
+    "eac73bc7cf82f5e18f0720bf8791e9d949f18122": "2026-05-12T03:34:59.541998+00:00",
+    "9d8096ec7dcd70fc7184dbfb24b0824313bf962b": "2026-05-12T03:34:59.542000+00:00",
+    "209a6be873032a8fd00210fef88ce9acbc7db797": "2026-05-12T03:34:59.542002+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-05-11T15:17:38.610452+00:00"
+  "last_updated": "2026-05-12T03:35:29.940190+00:00"
 }
