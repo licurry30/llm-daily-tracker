@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=407502": "2026-04-26T13:14:07.483852+00:00",
-    "https://www.qbitai.com/?p=407486": "2026-04-26T13:14:07.483859+00:00",
-    "https://www.qbitai.com/?p=407465": "2026-04-26T13:14:07.483862+00:00",
-    "https://sspai.com/post/98931": "2026-04-26T13:14:10.067719+00:00",
     "https://www.qbitai.com/?p=407705": "2026-04-27T03:27:19.341447+00:00",
     "https://www.qbitai.com/?p=407707": "2026-04-27T03:27:19.341454+00:00",
     "https://www.qbitai.com/?p=407613": "2026-04-27T03:27:19.341457+00:00",
@@ -784,8 +780,19 @@
     "0df86b70eb4f20cd341be912ea99e301d3007fc0": "2026-05-27T04:07:29.570851+00:00",
     "026eb4a79133bd5c4ede829dd42a1da906ef8aa9": "2026-05-27T04:07:29.570854+00:00",
     "9c1943d11395620b84aae512de06d25cbb34ff2f": "2026-05-27T04:07:29.570855+00:00",
-    "f8dfc8319e899b1512d6b4b3a290b0bf1fc1bbff": "2026-05-27T04:07:29.570857+00:00"
+    "f8dfc8319e899b1512d6b4b3a290b0bf1fc1bbff": "2026-05-27T04:07:29.570857+00:00",
+    "https://sspai.com/post/108618": "2026-05-27T16:26:07.460136+00:00",
+    "https://sspai.com/post/110115": "2026-05-27T16:26:07.460143+00:00",
+    "https://sspai.com/post/110102": "2026-05-27T16:26:07.460147+00:00",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/": "2026-05-27T16:26:09.053608+00:00",
+    "https://huggingface.co/blog/local-reachy-mini-conversation": "2026-05-27T16:26:09.458043+00:00",
+    "https://huggingface.co/blog/delta-weight-sync": "2026-05-27T16:26:09.458056+00:00",
+    "https://status.openai.com//incidents/01KSN40TAYQYGAKFA50HNH22YG": "2026-05-27T16:26:09.898691+00:00",
+    "https://status.openai.com//incidents/01KSMYEEWP0BZYANSMAXWJ3K59": "2026-05-27T16:26:09.898702+00:00",
+    "https://status.claude.com/incidents/rtr7z82cqmp9": "2026-05-27T16:26:10.372839+00:00",
+    "https://status.claude.com/incidents/fw96fnc5bw45": "2026-05-27T16:26:10.372846+00:00",
+    "https://blogs.nvidia.com/?p=92977": "2026-05-27T16:26:10.642353+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-05-27T04:08:29.790644+00:00"
+  "last_updated": "2026-05-27T16:26:56.523531+00:00"
 }
