@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=412585": "2026-05-01T13:25:09.953348+00:00",
-    "https://www.qbitai.com/?p=412577": "2026-05-01T13:25:09.953355+00:00",
-    "https://www.qbitai.com/?p=412447": "2026-05-01T13:25:09.953358+00:00",
-    "https://sspai.com/post/109266": "2026-05-01T13:25:15.190948+00:00",
-    "https://www.latent.space/p/ainews-agents-for-everything-else": "2026-05-01T13:25:15.679364+00:00",
-    "https://status.openai.com//incidents/01KQGTTQ0XNZDK834NBFFQGMG9": "2026-05-01T13:25:17.985154+00:00",
     "https://www.qbitai.com/?p=412696": "2026-05-02T03:18:03.723506+00:00",
     "https://www.qbitai.com/?p=412597": "2026-05-02T03:18:03.723513+00:00",
     "http://www.geekpark.net/news/363696": "2026-05-02T03:18:05.525228+00:00",
@@ -726,8 +720,33 @@
     "https://www.qbitai.com/?p=427005": "2026-06-01T04:23:29.860553+00:00",
     "https://www.qbitai.com/?p=426991": "2026-06-01T04:23:29.860556+00:00",
     "https://sspai.com/post/110094": "2026-06-01T04:23:32.366510+00:00",
-    "https://sspai.com/post/110519": "2026-06-01T04:23:32.366517+00:00"
+    "https://sspai.com/post/110519": "2026-06-01T04:23:32.366517+00:00",
+    "https://www.qbitai.com/?p=427530": "2026-06-01T17:46:25.886176+00:00",
+    "https://www.qbitai.com/?p=427516": "2026-06-01T17:46:25.886182+00:00",
+    "https://www.qbitai.com/?p=427231": "2026-06-01T17:46:25.886185+00:00",
+    "https://www.qbitai.com/?p=427332": "2026-06-01T17:46:25.886187+00:00",
+    "https://www.qbitai.com/?p=427238": "2026-06-01T17:46:25.886189+00:00",
+    "https://sspai.com/post/110547": "2026-06-01T17:46:28.871372+00:00",
+    "https://sspai.com/post/110412": "2026-06-01T17:46:28.871379+00:00",
+    "https://www.latent.space/p/video-agents": "2026-06-01T17:46:29.383019+00:00",
+    "https://huggingface.co/blog/JetBrains/mellum2-launch": "2026-06-01T17:46:31.339207+00:00",
+    "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption": "2026-06-01T17:46:31.339215+00:00",
+    "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai": "2026-06-01T17:46:31.339218+00:00",
+    "https://status.openai.com//incidents/01KT204M76EYZYJX7WYG1B2QPH": "2026-06-01T17:46:31.682432+00:00",
+    "https://status.claude.com/incidents/8p6f4r16xxmp": "2026-06-01T17:46:32.042049+00:00",
+    "https://status.claude.com/incidents/qc88nvqjv99m": "2026-06-01T17:46:32.042055+00:00",
+    "https://status.claude.com/incidents/z4pz8z34hr4x": "2026-06-01T17:46:32.042058+00:00",
+    "https://status.claude.com/incidents/rk70zc69m54p": "2026-06-01T17:46:32.042060+00:00",
+    "https://blogs.nvidia.com/?p=93648": "2026-06-01T17:46:32.254410+00:00",
+    "https://blogs.nvidia.com/?p=93609": "2026-06-01T17:46:32.254417+00:00",
+    "https://blogs.nvidia.com/?p=93564": "2026-06-01T17:46:32.254420+00:00",
+    "https://blogs.nvidia.com/?p=93630": "2026-06-01T17:46:32.254422+00:00",
+    "https://blogs.nvidia.com/?p=93547": "2026-06-01T17:46:32.254424+00:00",
+    "ee307cbcff7480c6f7c96068d3223af5afc58d46": "2026-06-01T17:46:32.629087+00:00",
+    "b31182d2eea63ca1e742d74eb5599ad33aa30115": "2026-06-01T17:46:32.629093+00:00",
+    "051c6c4bf608e1da89c0693ffc37c155c4e35882": "2026-06-01T17:46:32.629096+00:00",
+    "bd49f0b634fb812b6a1b74b3915f7ce9225656f8": "2026-06-01T17:46:32.629098+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-06-01T04:23:36.710097+00:00"
+  "last_updated": "2026-06-01T17:46:36.244640+00:00"
 }
