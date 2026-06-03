@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=412080": "2026-05-03T13:18:14.581949+00:00",
-    "https://www.qbitai.com/?p=412896": "2026-05-03T13:18:14.581955+00:00",
-    "https://www.qbitai.com/?p=412870": "2026-05-03T13:18:14.581957+00:00",
-    "https://www.qbitai.com/?p=412737": "2026-05-03T13:18:14.581959+00:00",
-    "https://sspai.com/post/100006": "2026-05-03T13:18:21.147612+00:00",
     "http://www.geekpark.net/news/363701": "2026-05-04T03:33:12.928963+00:00",
     "https://www.qbitai.com/?p=412914": "2026-05-04T14:09:02.925750+00:00",
     "https://sspai.com/post/109277": "2026-05-04T14:09:06.199787+00:00",
@@ -808,8 +803,22 @@
     "http://arxiv.org/abs/2606.03939v1": "2026-06-03T04:26:30.388244+00:00",
     "http://arxiv.org/abs/2606.03938v1": "2026-06-03T04:26:30.388246+00:00",
     "http://arxiv.org/abs/2606.03937v1": "2026-06-03T04:26:30.388248+00:00",
-    "http://arxiv.org/abs/2606.03928v1": "2026-06-03T04:26:30.388249+00:00"
+    "http://arxiv.org/abs/2606.03928v1": "2026-06-03T04:26:30.388249+00:00",
+    "https://www.qbitai.com/?p=428703": "2026-06-03T16:55:11.835907+00:00",
+    "https://www.qbitai.com/?p=428435": "2026-06-03T16:55:11.835914+00:00",
+    "https://www.qbitai.com/?p=428407": "2026-06-03T16:55:11.835917+00:00",
+    "https://sspai.com/post/110114": "2026-06-03T16:55:14.139512+00:00",
+    "https://sspai.com/post/110458": "2026-06-03T16:55:14.139520+00:00",
+    "https://www.latent.space/p/ainews-microsoft-build-mai-thinking": "2026-06-03T16:55:14.752211+00:00",
+    "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots": "2026-06-03T16:55:17.433566+00:00",
+    "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini": "2026-06-03T16:55:17.433578+00:00",
+    "https://status.openai.com//incidents/01KT5XJ5ATD6RMYP908WS69FVD": "2026-06-03T16:55:18.033436+00:00",
+    "https://status.claude.com/incidents/thp2kyjx60qn": "2026-06-03T16:55:18.760064+00:00",
+    "https://blogs.nvidia.com/?p=93940": "2026-06-03T16:55:19.137767+00:00",
+    "https://blogs.nvidia.com/?p=93956": "2026-06-03T16:55:19.137776+00:00",
+    "f4fa8745223b1df75f002f62b314caab0b3f2f97": "2026-06-03T16:55:19.628939+00:00",
+    "c71acc97e8909137d930f33e3f37d666f8241532": "2026-06-03T16:55:19.628948+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-06-03T04:26:30.388833+00:00"
+  "last_updated": "2026-06-03T16:55:35.826817+00:00"
 }
