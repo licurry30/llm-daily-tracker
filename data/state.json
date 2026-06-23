@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=423153": "2026-05-23T03:34:56.539038+00:00",
-    "https://www.qbitai.com/?p=422811": "2026-05-23T03:34:56.539045+00:00",
-    "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion": "2026-05-23T03:35:01.045484+00:00",
-    "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale": "2026-05-23T03:35:01.045498+00:00",
-    "https://status.openai.com//incidents/01KS88SRADTWQW27NYRAXMBAQN": "2026-05-23T03:35:01.490393+00:00",
     "https://www.qbitai.com/?p=423202": "2026-05-23T13:42:06.634089+00:00",
     "https://www.qbitai.com/?p=423179": "2026-05-23T13:42:06.634097+00:00",
     "https://www.qbitai.com/?p=423162": "2026-05-23T13:42:06.634099+00:00",
@@ -724,8 +719,13 @@
     "https://blogs.nvidia.com/?p=94818": "2026-06-22T17:02:11.243928+00:00",
     "https://blogs.nvidia.com/?p=94802": "2026-06-22T17:02:11.243930+00:00",
     "feae5d9d32840b5cd91ba2baf9be1daf82e1283d": "2026-06-22T17:02:11.618825+00:00",
-    "b3cb23e1dc653e54e53dd83c0760b95019053bf8": "2026-06-22T17:02:11.618833+00:00"
+    "b3cb23e1dc653e54e53dd83c0760b95019053bf8": "2026-06-22T17:02:11.618833+00:00",
+    "https://www.qbitai.com/?p=437330": "2026-06-23T03:51:56.977303+00:00",
+    "https://sspai.com/post/111385": "2026-06-23T03:51:59.205569+00:00",
+    "https://www.latent.space/p/gray-swan": "2026-06-23T03:51:59.591441+00:00",
+    "https://status.claude.com/incidents/bbcpk0t2cj4p": "2026-06-23T03:52:02.053919+00:00",
+    "52be35df08b05af08b291c3c21eae9e9df45e6a0": "2026-06-23T03:52:02.606472+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-06-22T17:02:12.621392+00:00"
+  "last_updated": "2026-06-23T03:52:18.665216+00:00"
 }
