@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=423421": "2026-05-24T13:41:46.918965+00:00",
-    "https://www.qbitai.com/?p=423390": "2026-05-24T13:41:46.918972+00:00",
-    "https://www.qbitai.com/?p=423382": "2026-05-24T13:41:46.918974+00:00",
-    "https://www.qbitai.com/?p=423213": "2026-05-24T13:41:46.918976+00:00",
-    "https://sspai.com/post/109741": "2026-05-24T13:41:51.061437+00:00",
     "https://www.qbitai.com/?p=423455": "2026-05-25T04:08:05.248763+00:00",
     "https://www.qbitai.com/?p=423441": "2026-05-25T04:08:05.248770+00:00",
     "https://sspai.com/post/110130": "2026-05-25T04:08:08.411676+00:00",
@@ -773,8 +768,19 @@
     "http://arxiv.org/abs/2606.24758v1": "2026-06-24T03:53:31.750211+00:00",
     "http://arxiv.org/abs/2606.24747v1": "2026-06-24T03:53:31.750214+00:00",
     "http://arxiv.org/abs/2606.24712v1": "2026-06-24T03:53:31.750215+00:00",
-    "http://arxiv.org/abs/2606.24636v1": "2026-06-24T03:53:31.750217+00:00"
+    "http://arxiv.org/abs/2606.24636v1": "2026-06-24T03:53:31.750217+00:00",
+    "https://www.qbitai.com/?p=438174": "2026-06-24T14:37:35.564271+00:00",
+    "https://www.qbitai.com/?p=438166": "2026-06-24T14:37:35.564279+00:00",
+    "https://www.qbitai.com/?p=438157": "2026-06-24T14:37:35.564282+00:00",
+    "https://www.qbitai.com/?p=437853": "2026-06-24T14:37:35.564284+00:00",
+    "https://www.qbitai.com/?p=437833": "2026-06-24T14:37:35.564286+00:00",
+    "https://sspai.com/post/111289": "2026-06-24T14:37:38.079647+00:00",
+    "https://sspai.com/post/111428": "2026-06-24T14:37:38.079654+00:00",
+    "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive": "2026-06-24T14:37:38.480527+00:00",
+    "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/": "2026-06-24T14:37:39.773513+00:00",
+    "https://status.openai.com//incidents/01KVW3CQQ51SWCV4A1SWA6ATVM": "2026-06-24T14:37:40.543805+00:00",
+    "https://status.claude.com/incidents/8b0rggdfh1hv": "2026-06-24T14:37:40.917553+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-06-24T03:53:31.750781+00:00"
+  "last_updated": "2026-06-24T14:37:42.387919+00:00"
 }
