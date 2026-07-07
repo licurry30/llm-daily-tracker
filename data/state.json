@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://sspai.com/post/110763": "2026-06-06T03:49:17.964920+00:00",
-    "https://www.latent.space/p/bad-envs": "2026-06-06T03:49:18.414918+00:00",
-    "https://status.openai.com//incidents/01KTCF0M9HQ04JB48EXMMJVX5J": "2026-06-06T03:49:20.130208+00:00",
-    "https://www.qbitai.com/?p=431371": "2026-06-06T13:50:09.640608+00:00",
-    "https://www.qbitai.com/?p=431287": "2026-06-06T13:50:09.640615+00:00",
-    "https://www.qbitai.com/?p=431349": "2026-06-06T13:50:09.640618+00:00",
-    "https://www.qbitai.com/?p=431186": "2026-06-06T13:50:09.640620+00:00",
-    "https://www.qbitai.com/?p=431056": "2026-06-06T13:50:09.640622+00:00",
-    "https://huggingface.co/blog/build-small-hackathon/persona-atlas": "2026-06-06T13:55:24.049170+00:00",
-    "https://status.claude.com/incidents/b1gzqlnpxxxk": "2026-06-06T13:55:25.141815+00:00",
-    "https://status.claude.com/incidents/fprlnsvdnr2k": "2026-06-06T13:55:25.141822+00:00",
     "https://www.qbitai.com/?p=431487": "2026-06-07T04:14:54.280461+00:00",
     "https://www.qbitai.com/?p=431401": "2026-06-07T04:14:54.280489+00:00",
     "https://www.latent.space/p/ainews-not-much-happened-today-6b8": "2026-06-07T04:14:57.560035+00:00",
@@ -794,8 +783,19 @@
     "http://arxiv.org/abs/2607.05268v1": "2026-07-07T04:13:12.870870+00:00",
     "http://arxiv.org/abs/2607.05238v1": "2026-07-07T04:13:12.870872+00:00",
     "http://arxiv.org/abs/2607.05226v1": "2026-07-07T04:13:12.870874+00:00",
-    "http://arxiv.org/abs/2607.05199v1": "2026-07-07T04:13:12.870876+00:00"
+    "http://arxiv.org/abs/2607.05199v1": "2026-07-07T04:13:12.870876+00:00",
+    "https://www.qbitai.com/?p=445608": "2026-07-07T14:42:22.851015+00:00",
+    "https://www.qbitai.com/?p=445443": "2026-07-07T14:42:22.851023+00:00",
+    "https://www.qbitai.com/?p=445292": "2026-07-07T14:42:22.851026+00:00",
+    "https://www.qbitai.com/?p=445229": "2026-07-07T14:42:22.851028+00:00",
+    "https://www.qbitai.com/?p=445230": "2026-07-07T14:42:22.851030+00:00",
+    "https://sspai.com/post/112017": "2026-07-07T14:42:25.328921+00:00",
+    "https://sspai.com/post/73385": "2026-07-07T14:42:25.328928+00:00",
+    "https://www.latent.space/p/ainews-the-field-guide-to-fable": "2026-07-07T14:42:25.698093+00:00",
+    "https://status.openai.com//incidents/01KWY5DQZ0KC8PTT3Y3T26H30D": "2026-07-07T14:42:27.501065+00:00",
+    "https://status.claude.com/incidents/hh9hj15mxkrx": "2026-07-07T14:42:27.919701+00:00",
+    "https://blogs.nvidia.com/?p=95979": "2026-07-07T14:42:28.077511+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-07-07T04:13:12.871489+00:00"
+  "last_updated": "2026-07-07T14:42:29.219287+00:00"
 }
