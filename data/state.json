@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=431487": "2026-06-07T04:14:54.280461+00:00",
-    "https://www.qbitai.com/?p=431401": "2026-06-07T04:14:54.280489+00:00",
-    "https://www.latent.space/p/ainews-not-much-happened-today-6b8": "2026-06-07T04:14:57.560035+00:00",
-    "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2": "2026-06-07T04:14:58.998615+00:00",
-    "https://status.claude.com/incidents/s4pq658bt69h": "2026-06-07T04:14:59.814411+00:00",
-    "https://status.claude.com/incidents/6ptd5skgmy3v": "2026-06-07T04:14:59.814419+00:00",
-    "https://www.qbitai.com/?p=431694": "2026-06-07T14:00:04.901894+00:00",
-    "https://www.qbitai.com/?p=431499": "2026-06-07T14:00:04.901900+00:00",
-    "https://sspai.com/post/110108": "2026-06-07T14:00:08.568748+00:00",
-    "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers": "2026-06-07T14:00:10.647603+00:00",
-    "https://blogs.nvidia.com/?p=94143": "2026-06-07T14:00:11.765496+00:00",
     "https://www.qbitai.com/?p=432055": "2026-06-08T04:19:24.226606+00:00",
     "https://www.qbitai.com/?p=431931": "2026-06-08T04:19:24.226613+00:00",
     "https://sspai.com/post/110746": "2026-06-08T04:19:26.279615+00:00",
@@ -822,8 +811,17 @@
     "http://arxiv.org/abs/2607.06544v1": "2026-07-08T02:56:28.573753+00:00",
     "http://arxiv.org/abs/2607.06522v1": "2026-07-08T02:56:28.573758+00:00",
     "http://arxiv.org/abs/2607.06445v1": "2026-07-08T02:56:28.573761+00:00",
-    "http://arxiv.org/abs/2607.06411v1": "2026-07-08T02:56:28.573763+00:00"
+    "http://arxiv.org/abs/2607.06411v1": "2026-07-08T02:56:28.573763+00:00",
+    "https://www.qbitai.com/?p=446363": "2026-07-08T14:20:25.276913+00:00",
+    "https://www.qbitai.com/?p=446356": "2026-07-08T14:20:25.276921+00:00",
+    "https://www.qbitai.com/?p=446226": "2026-07-08T14:20:25.276924+00:00",
+    "https://www.qbitai.com/?p=446075": "2026-07-08T14:20:25.276925+00:00",
+    "https://www.qbitai.com/?p=446076": "2026-07-08T14:20:25.276927+00:00",
+    "https://sspai.com/post/111923": "2026-07-08T14:20:27.785807+00:00",
+    "https://sspai.com/post/112044": "2026-07-08T14:20:27.785816+00:00",
+    "https://sspai.com/post/110993": "2026-07-08T14:20:27.785819+00:00",
+    "https://status.claude.com/incidents/n3v83qmtlbqm": "2026-07-08T14:20:30.604773+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-07-08T02:56:28.574202+00:00"
+  "last_updated": "2026-07-08T14:20:31.801663+00:00"
 }
