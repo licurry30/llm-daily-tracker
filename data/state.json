@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=432055": "2026-06-08T04:19:24.226606+00:00",
-    "https://www.qbitai.com/?p=431931": "2026-06-08T04:19:24.226613+00:00",
-    "https://sspai.com/post/110746": "2026-06-08T04:19:26.279615+00:00",
-    "https://sspai.com/post/110847": "2026-06-08T04:19:26.279621+00:00",
-    "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures": "2026-06-08T04:19:28.522210+00:00",
-    "https://status.openai.com//incidents/01KTHRCXQCANBBY5JTGEQ1XTPK": "2026-06-08T04:19:28.981626+00:00",
-    "https://status.openai.com//incidents/01KTHA1XMAS77H4GMQBKSNPK71": "2026-06-08T04:19:28.981635+00:00",
-    "https://status.claude.com/incidents/1h2k3ryt64wl": "2026-06-08T04:19:29.536951+00:00",
-    "https://blogs.nvidia.com/?p=94137": "2026-06-08T04:19:29.773995+00:00",
-    "https://blogs.nvidia.com/?p=94133": "2026-06-08T04:19:29.774003+00:00",
     "https://www.qbitai.com/?p=432587": "2026-06-08T15:58:11.312811+00:00",
     "https://www.qbitai.com/?p=432489": "2026-06-08T15:58:11.312819+00:00",
     "https://www.qbitai.com/?p=432425": "2026-06-08T15:58:11.312822+00:00",
@@ -855,8 +845,17 @@
     "http://arxiv.org/abs/2607.07646v1": "2026-07-09T03:35:27.397253+00:00",
     "http://arxiv.org/abs/2607.07565v1": "2026-07-09T03:35:27.397255+00:00",
     "http://arxiv.org/abs/2607.07548v1": "2026-07-09T03:35:27.397257+00:00",
-    "http://arxiv.org/abs/2607.07527v1": "2026-07-09T03:35:27.397259+00:00"
+    "http://arxiv.org/abs/2607.07527v1": "2026-07-09T03:35:27.397259+00:00",
+    "https://www.qbitai.com/?p=447508": "2026-07-09T15:15:56.670259+00:00",
+    "https://www.qbitai.com/?p=446843": "2026-07-09T15:15:56.670267+00:00",
+    "https://www.qbitai.com/?p=446778": "2026-07-09T15:15:56.670270+00:00",
+    "https://www.qbitai.com/?p=446658": "2026-07-09T15:15:56.670272+00:00",
+    "https://www.qbitai.com/?p=446568": "2026-07-09T15:15:56.670275+00:00",
+    "https://sspai.com/post/112011": "2026-07-09T15:16:05.231754+00:00",
+    "https://sspai.com/post/112083": "2026-07-09T15:16:05.231761+00:00",
+    "https://www.latent.space/p/ainews-spacexai-launches-grok-45": "2026-07-09T15:16:05.566358+00:00",
+    "https://blogs.nvidia.com/?p=96029": "2026-07-09T15:16:07.838884+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-07-09T03:35:27.397820+00:00"
+  "last_updated": "2026-07-09T15:16:08.993842+00:00"
 }
