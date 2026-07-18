@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=436073": "2026-06-16T17:00:09.161601+00:00",
-    "https://www.qbitai.com/?p=435953": "2026-06-16T17:00:09.161609+00:00",
-    "https://www.qbitai.com/?p=435950": "2026-06-16T17:00:09.161612+00:00",
-    "https://www.qbitai.com/?p=435931": "2026-06-16T17:00:09.161614+00:00",
-    "https://www.qbitai.com/?p=435882": "2026-06-16T17:00:09.161616+00:00",
-    "https://sspai.com/post/111030": "2026-06-16T17:00:11.403272+00:00",
-    "https://sspai.com/post/111099": "2026-06-16T17:00:11.403279+00:00",
-    "https://sspai.com/post/110086": "2026-06-16T17:00:11.403288+00:00",
-    "https://status.openai.com//incidents/01KV7ZT644J4V94GSXMFPY2ANR": "2026-06-16T17:00:14.462747+00:00",
-    "https://blogs.nvidia.com/?p=94468": "2026-06-16T17:00:15.340349+00:00",
-    "https://blogs.nvidia.com/?p=94478": "2026-06-16T17:00:15.340357+00:00",
     "https://www.qbitai.com/?p=436085": "2026-06-17T04:24:31.543565+00:00",
     "https://www.qbitai.com/?p=436082": "2026-06-17T04:24:31.543572+00:00",
     "https://www.qbitai.com/?p=436077": "2026-06-17T04:24:31.543575+00:00",
@@ -861,8 +850,23 @@
     "http://arxiv.org/abs/2607.15241v1": "2026-07-17T13:44:30.925925+00:00",
     "http://arxiv.org/abs/2607.15208v1": "2026-07-17T13:44:30.925927+00:00",
     "http://arxiv.org/abs/2607.15178v1": "2026-07-17T13:44:30.925928+00:00",
-    "http://arxiv.org/abs/2607.15161v1": "2026-07-17T13:44:30.925929+00:00"
+    "http://arxiv.org/abs/2607.15161v1": "2026-07-17T13:44:30.925929+00:00",
+    "https://www.qbitai.com/?p=453506": "2026-07-18T02:43:30.295150+00:00",
+    "https://www.qbitai.com/?p=453467": "2026-07-18T02:43:30.295158+00:00",
+    "https://www.qbitai.com/?p=453352": "2026-07-18T02:43:30.295160+00:00",
+    "https://www.qbitai.com/?p=453245": "2026-07-18T02:43:30.295162+00:00",
+    "https://www.qbitai.com/?p=453246": "2026-07-18T02:43:30.295164+00:00",
+    "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel": "2026-07-18T02:43:34.473447+00:00",
+    "https://status.openai.com//incidents/01KXRHE25717D2WQ1WFMT2B7WZ": "2026-07-18T02:43:34.906449+00:00",
+    "https://status.openai.com//incidents/01KXRBA8B98QHMMVP3M86NHFZ1": "2026-07-18T02:43:34.906458+00:00",
+    "https://status.claude.com/incidents/g613ntyj2pwf": "2026-07-18T02:43:35.217372+00:00",
+    "https://status.claude.com/incidents/lj0khk5vd7v7": "2026-07-18T02:43:35.217378+00:00",
+    "https://status.claude.com/incidents/bwz7ld34gcxt": "2026-07-18T02:43:35.217381+00:00",
+    "https://blogs.nvidia.com/?p=96417&preview=true&preview_id=96417": "2026-07-18T02:43:35.612948+00:00",
+    "19eb0a7f236f0093bfcd857d41a8178380a8de27": "2026-07-18T02:43:36.065894+00:00",
+    "c7c7b20143e9236cf53af22804c327ab641f9a42": "2026-07-18T02:43:36.065901+00:00",
+    "2f17036ef3c96e67c8ac52fdb0c52a1b858f3a46": "2026-07-18T02:43:36.065904+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-07-17T13:44:30.926135+00:00"
+  "last_updated": "2026-07-18T02:44:36.366329+00:00"
 }
