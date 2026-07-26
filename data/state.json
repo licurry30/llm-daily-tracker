@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=438174": "2026-06-24T14:37:35.564271+00:00",
-    "https://www.qbitai.com/?p=438166": "2026-06-24T14:37:35.564279+00:00",
-    "https://www.qbitai.com/?p=438157": "2026-06-24T14:37:35.564282+00:00",
-    "https://www.qbitai.com/?p=437853": "2026-06-24T14:37:35.564284+00:00",
-    "https://www.qbitai.com/?p=437833": "2026-06-24T14:37:35.564286+00:00",
-    "https://sspai.com/post/111289": "2026-06-24T14:37:38.079647+00:00",
-    "https://sspai.com/post/111428": "2026-06-24T14:37:38.079654+00:00",
-    "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive": "2026-06-24T14:37:38.480527+00:00",
-    "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/": "2026-06-24T14:37:39.773513+00:00",
-    "https://status.openai.com//incidents/01KVW3CQQ51SWCV4A1SWA6ATVM": "2026-06-24T14:37:40.543805+00:00",
-    "https://status.claude.com/incidents/8b0rggdfh1hv": "2026-06-24T14:37:40.917553+00:00",
     "https://www.qbitai.com/?p=438297": "2026-06-25T03:54:16.178979+00:00",
     "https://www.qbitai.com/?p=438204": "2026-06-25T03:54:16.178986+00:00",
     "https://www.qbitai.com/?p=438179": "2026-06-25T03:54:16.178989+00:00",
@@ -847,8 +836,12 @@
     "https://sspai.com/post/112093": "2026-07-25T13:40:20.455926+00:00",
     "https://www.latent.space/p/ainews-claude-opus-5-fable-level": "2026-07-25T13:40:20.906924+00:00",
     "https://status.openai.com//incidents/01KYCGY017EG43XZS6GFVXA8VH": "2026-07-25T13:40:22.841507+00:00",
-    "https://status.openai.com//incidents/01KYC921K145JTR1JK7DYKGWH1": "2026-07-25T13:40:22.841517+00:00"
+    "https://status.openai.com//incidents/01KYC921K145JTR1JK7DYKGWH1": "2026-07-25T13:40:22.841517+00:00",
+    "https://status.openai.com//incidents/01KYDN6YPS6ARY1EC9089N089G": "2026-07-26T03:17:22.829011+00:00",
+    "https://status.claude.com/incidents/j6gv862066n7": "2026-07-26T03:17:23.301512+00:00",
+    "https://status.claude.com/incidents/f1q2wvw4qj4j": "2026-07-26T03:17:23.301518+00:00",
+    "https://status.claude.com/incidents/1019wwb67615": "2026-07-26T03:17:23.301520+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-07-25T13:40:24.815794+00:00"
+  "last_updated": "2026-07-26T03:17:25.103181+00:00"
 }
