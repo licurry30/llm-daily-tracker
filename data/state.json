@@ -1,21 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=444733": "2026-07-06T15:39:05.669777+00:00",
-    "https://www.qbitai.com/?p=444721": "2026-07-06T15:39:05.669784+00:00",
-    "https://www.qbitai.com/?p=444049": "2026-07-06T15:39:05.669786+00:00",
-    "https://www.qbitai.com/?p=444043": "2026-07-06T15:39:05.669787+00:00",
-    "https://www.qbitai.com/?p=443868": "2026-07-06T15:39:05.669789+00:00",
-    "https://sspai.com/post/111999": "2026-07-06T15:39:08.140821+00:00",
-    "https://sspai.com/post/111113": "2026-07-06T15:39:08.140827+00:00",
-    "https://sspai.com/post/111702": "2026-07-06T15:39:08.140830+00:00",
-    "https://machinelearning.apple.com/scaling-properties-continuous-diffusion": "2026-07-06T15:39:10.023213+00:00",
-    "https://machinelearning.apple.com/asr-error-correction": "2026-07-06T15:39:10.023222+00:00",
-    "https://machinelearning.apple.com/path-constrained-mixture-experts": "2026-07-06T15:39:10.023225+00:00",
-    "https://huggingface.co/blog/lerobot-release-v060": "2026-07-06T15:39:10.332263+00:00",
-    "https://huggingface.co/blog/Photoroom/prx-part4-data": "2026-07-06T15:39:10.332273+00:00",
-    "https://huggingface.co/blog/revamped-kernels": "2026-07-06T15:39:10.332276+00:00",
-    "https://status.claude.com/incidents/tl8x3p1msff2": "2026-07-06T15:39:11.462124+00:00",
-    "https://blogs.nvidia.com/?p=95955": "2026-07-06T15:39:11.751747+00:00",
     "https://sspai.com/post/111655": "2026-07-07T04:13:09.044561+00:00",
     "https://sspai.com/post/112010": "2026-07-07T04:13:09.044569+00:00",
     "https://status.claude.com/incidents/d23j8s7t8rx2": "2026-07-07T04:13:11.374058+00:00",
@@ -868,8 +852,20 @@
     "http://arxiv.org/abs/2608.05138v1": "2026-08-06T14:18:55.867689+00:00",
     "http://arxiv.org/abs/2608.05115v1": "2026-08-06T14:18:55.867692+00:00",
     "http://arxiv.org/abs/2608.05097v1": "2026-08-06T14:18:55.867694+00:00",
-    "http://arxiv.org/abs/2608.05030v1": "2026-08-06T14:18:55.867696+00:00"
+    "http://arxiv.org/abs/2608.05030v1": "2026-08-06T14:18:55.867696+00:00",
+    "https://www.qbitai.com/?p=467834": "2026-08-07T02:47:13.518684+00:00",
+    "https://www.qbitai.com/?p=467730": "2026-08-07T02:47:13.518690+00:00",
+    "https://www.qbitai.com/?p=467663": "2026-08-07T02:47:13.518693+00:00",
+    "https://www.qbitai.com/?p=467486": "2026-08-07T02:47:13.518695+00:00",
+    "https://www.qbitai.com/?p=467487": "2026-08-07T02:47:13.518698+00:00",
+    "http://www.geekpark.net/news/368504": "2026-08-07T02:47:16.148619+00:00",
+    "https://sspai.com/post/113162": "2026-08-07T02:47:17.430429+00:00",
+    "6eddb7db47dabb7927abcbbe6200579df3a4f157": "2026-08-07T02:47:20.631727+00:00",
+    "16e424b361964bece2ce5179f108a5d8ce975e0e": "2026-08-07T02:47:20.631735+00:00",
+    "27fd25028d1365de142cd3b4acaad8499203cf9a": "2026-08-07T02:47:20.631737+00:00",
+    "454a49d01ac6f7d4f83219b59c9877843c17b290": "2026-08-07T02:47:20.631739+00:00",
+    "b8993bf5d313f42edd0a51f097f3e27254e11086": "2026-08-07T02:47:20.631741+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-08-06T14:18:55.868216+00:00"
+  "last_updated": "2026-08-07T02:48:06.341178+00:00"
 }
