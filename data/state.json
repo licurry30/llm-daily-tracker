@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=445608": "2026-07-07T14:42:22.851015+00:00",
-    "https://www.qbitai.com/?p=445443": "2026-07-07T14:42:22.851023+00:00",
-    "https://www.qbitai.com/?p=445292": "2026-07-07T14:42:22.851026+00:00",
-    "https://www.qbitai.com/?p=445229": "2026-07-07T14:42:22.851028+00:00",
-    "https://www.qbitai.com/?p=445230": "2026-07-07T14:42:22.851030+00:00",
-    "https://sspai.com/post/112017": "2026-07-07T14:42:25.328921+00:00",
-    "https://sspai.com/post/73385": "2026-07-07T14:42:25.328928+00:00",
-    "https://www.latent.space/p/ainews-the-field-guide-to-fable": "2026-07-07T14:42:25.698093+00:00",
-    "https://status.openai.com//incidents/01KWY5DQZ0KC8PTT3Y3T26H30D": "2026-07-07T14:42:27.501065+00:00",
-    "https://status.claude.com/incidents/hh9hj15mxkrx": "2026-07-07T14:42:27.919701+00:00",
-    "https://blogs.nvidia.com/?p=95979": "2026-07-07T14:42:28.077511+00:00",
     "https://www.qbitai.com/?p=445531": "2026-07-08T02:56:13.682755+00:00",
     "https://sspai.com/post/112049": "2026-07-08T02:56:18.540372+00:00",
     "https://sspai.com/prime/story/home-made-beverages-2": "2026-07-08T02:56:18.540379+00:00",
@@ -864,8 +853,17 @@
     "http://arxiv.org/abs/2608.06292v1": "2026-08-07T13:09:28.066677+00:00",
     "http://arxiv.org/abs/2608.06243v1": "2026-08-07T13:09:28.066679+00:00",
     "http://arxiv.org/abs/2608.06227v1": "2026-08-07T13:09:28.066680+00:00",
-    "http://arxiv.org/abs/2608.06128v1": "2026-08-07T13:09:28.066682+00:00"
+    "http://arxiv.org/abs/2608.06128v1": "2026-08-07T13:09:28.066682+00:00",
+    "http://www.geekpark.net/news/368565": "2026-08-08T01:49:20.403793+00:00",
+    "http://www.geekpark.net/news/368563": "2026-08-08T01:49:20.403803+00:00",
+    "http://www.geekpark.net/news/368562": "2026-08-08T01:49:20.403806+00:00",
+    "http://www.geekpark.net/news/368561": "2026-08-08T01:49:20.403808+00:00",
+    "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents": "2026-08-08T01:49:21.867207+00:00",
+    "https://huggingface.co/blog/allenai/tutormoments": "2026-08-08T01:49:23.748635+00:00",
+    "ab12dfa74d29d9af6fc346702f37866dfbb9aa5d": "2026-08-08T01:49:25.142877+00:00",
+    "2a928f9693d6d62c930b66459b34bc9a6dc2b18a": "2026-08-08T01:49:25.142884+00:00",
+    "7ea54833b1fa7768596b6ac5cedad2a18b1ed85b": "2026-08-08T01:49:25.142886+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-08-07T13:09:28.066997+00:00"
+  "last_updated": "2026-08-08T01:49:56.764995+00:00"
 }
