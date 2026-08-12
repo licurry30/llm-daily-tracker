@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=447902": "2026-07-11T13:25:24.125043+00:00",
-    "https://www.qbitai.com/?p=447891": "2026-07-11T13:25:24.125051+00:00",
-    "https://www.qbitai.com/?p=447873": "2026-07-11T13:25:24.125053+00:00",
-    "https://sspai.com/post/68024": "2026-07-11T13:25:30.182205+00:00",
-    "https://www.latent.space/p/ainews-not-much-happened-today-f5c": "2026-07-11T13:25:30.440050+00:00",
-    "https://status.openai.com//incidents/01KX7Y6ETMKP3ATQ85Z33J0EHN": "2026-07-11T13:25:32.362203+00:00",
     "https://www.qbitai.com/?p=447981": "2026-07-12T03:16:48.556990+00:00",
     "https://www.qbitai.com/?p=447914": "2026-07-12T03:16:48.556997+00:00",
     "https://sspai.com/post/112035": "2026-07-12T03:16:54.255156+00:00",
@@ -799,8 +793,24 @@
     "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents": "2026-08-11T13:11:32.555651+00:00",
     "https://status.openai.com//incidents/01KZRE6ZA1RE1ZH4HQ111CX1S8": "2026-08-11T13:11:33.060489+00:00",
     "https://blogs.nvidia.com/?p=97373": "2026-08-11T13:11:33.731067+00:00",
-    "https://blogs.nvidia.com/?p=97256": "2026-08-11T13:11:33.731075+00:00"
+    "https://blogs.nvidia.com/?p=97256": "2026-08-11T13:11:33.731075+00:00",
+    "https://www.qbitai.com/?p=470674": "2026-08-12T02:08:31.651750+00:00",
+    "http://www.geekpark.net/news/368700": "2026-08-12T02:08:33.896017+00:00",
+    "https://sspai.com/post/113343": "2026-08-12T02:08:35.084551+00:00",
+    "https://www.latent.space/p/chai-discovery": "2026-08-12T02:08:35.544384+00:00",
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/": "2026-08-12T02:08:37.000880+00:00",
+    "https://huggingface.co/blog/ibm-research/altk-evolve-sldd": "2026-08-12T02:08:37.603160+00:00",
+    "https://status.openai.com//incidents/01KZSC0T66YTVM57N5T79SV8ZV": "2026-08-12T02:08:38.022100+00:00",
+    "https://status.openai.com//incidents/01KZRXPE0NGXA12FJNP8WZF8D7": "2026-08-12T02:08:38.022108+00:00",
+    "https://status.openai.com//incidents/01KZRJHTR75WDXCMC0ZERX6YJC": "2026-08-12T02:08:38.022112+00:00",
+    "https://blogs.nvidia.com/?p=97441": "2026-08-12T02:08:38.790704+00:00",
+    "https://blogs.nvidia.com/?p=97323": "2026-08-12T02:08:38.790712+00:00",
+    "f6522d8386d10fcc6d1ab85b0676218a20acd0e9": "2026-08-12T02:08:39.148299+00:00",
+    "283246d0230bcd3dee9487487f2cee0ff02f6735": "2026-08-12T02:08:39.148307+00:00",
+    "c5a8d50fba3f5306158a47e53d9ac4f418c5cf16": "2026-08-12T02:08:39.148310+00:00",
+    "3896c2214d548edf11e4411ce17c3d1bc983082a": "2026-08-12T02:08:39.148312+00:00",
+    "553759b28ce6c7119699e64693bcdea7573c4ffd": "2026-08-12T02:08:39.148314+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-08-11T13:12:34.474242+00:00"
+  "last_updated": "2026-08-12T02:08:39.684851+00:00"
 }
