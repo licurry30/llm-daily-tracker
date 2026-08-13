@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=448034": "2026-07-12T13:26:19.672905+00:00",
-    "https://status.openai.com//incidents/01KXAVPTZ85KG478DP1YC0SV2V": "2026-07-12T13:26:23.726924+00:00",
     "https://sspai.com/post/112215": "2026-07-13T03:19:31.074824+00:00",
     "https://www.qbitai.com/?p=449311": "2026-07-13T14:40:39.584157+00:00",
     "https://www.qbitai.com/?p=449156": "2026-07-13T14:40:39.584164+00:00",
@@ -836,8 +834,22 @@
     "http://arxiv.org/abs/2608.11027v1": "2026-08-12T13:15:39.670146+00:00",
     "http://arxiv.org/abs/2608.10976v1": "2026-08-12T13:15:39.670147+00:00",
     "http://arxiv.org/abs/2608.10974v1": "2026-08-12T13:15:39.670150+00:00",
-    "http://arxiv.org/abs/2608.10964v1": "2026-08-12T13:15:39.670152+00:00"
+    "http://arxiv.org/abs/2608.10964v1": "2026-08-12T13:15:39.670152+00:00",
+    "https://www.qbitai.com/?p=471254": "2026-08-13T02:10:42.339456+00:00",
+    "https://www.qbitai.com/?p=471162": "2026-08-13T02:10:42.339462+00:00",
+    "https://www.qbitai.com/?p=471049": "2026-08-13T02:10:42.339465+00:00",
+    "http://www.geekpark.net/news/368747": "2026-08-13T02:10:44.345009+00:00",
+    "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok": "2026-08-13T02:16:16.242408+00:00",
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/": "2026-08-13T02:16:17.460352+00:00",
+    "https://huggingface.co/blog/allenai/olmoearth-embeddings": "2026-08-13T02:16:17.867195+00:00",
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b": "2026-08-13T02:16:17.867208+00:00",
+    "https://status.claude.com/incidents/rk6gkg2gwfny": "2026-08-13T02:16:18.767568+00:00",
+    "https://blogs.nvidia.com/?p=97450": "2026-08-13T02:16:19.094578+00:00",
+    "bdab25a99afb30707f36430d746dc6f3704a1935": "2026-08-13T02:16:19.604644+00:00",
+    "86cd8b92b90187d96c8febe2b94e065d6f61fea4": "2026-08-13T02:16:19.604652+00:00",
+    "c7f6cc41ecaa8180ee996e7324c0b62d83cf69cb": "2026-08-13T02:16:19.604654+00:00",
+    "fb996b8e2bd613674bdace88551fde7534cd730b": "2026-08-13T02:16:19.604656+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-08-12T13:15:39.670806+00:00"
+  "last_updated": "2026-08-13T02:16:20.093190+00:00"
 }
