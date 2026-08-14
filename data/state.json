@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=449311": "2026-07-13T14:40:39.584157+00:00",
-    "https://www.qbitai.com/?p=449156": "2026-07-13T14:40:39.584164+00:00",
-    "https://www.qbitai.com/?p=449150": "2026-07-13T14:40:39.584167+00:00",
-    "https://www.qbitai.com/?p=449005": "2026-07-13T14:40:39.584169+00:00",
-    "https://www.qbitai.com/?p=448923": "2026-07-13T14:40:39.584171+00:00",
-    "https://sspai.com/post/112229": "2026-07-13T14:40:43.658099+00:00",
-    "https://sspai.com/prime/story/inside-release-notes-260713": "2026-07-13T14:40:43.658106+00:00",
-    "https://sspai.com/post/111776": "2026-07-13T14:40:43.658108+00:00",
-    "https://sspai.com/post/112185": "2026-07-13T14:40:43.658110+00:00",
-    "https://status.openai.com//incidents/01KXDBYJ7BWBE2NRDAQTKPM5WK": "2026-07-13T14:40:46.460056+00:00",
-    "https://status.openai.com//incidents/01KXDMD4T8TM58CSKBN7YFD2CK": "2026-07-13T14:40:46.460063+00:00",
     "https://www.qbitai.com/?p=449407": "2026-07-14T02:43:37.099920+00:00",
     "https://www.qbitai.com/?p=449327": "2026-07-14T02:43:37.099926+00:00",
     "https://sspai.com/post/112286": "2026-07-14T02:45:54.092487+00:00",
@@ -872,8 +861,24 @@
     "http://arxiv.org/abs/2608.12302v1": "2026-08-13T13:21:55.168216+00:00",
     "http://arxiv.org/abs/2608.12282v1": "2026-08-13T13:21:55.168218+00:00",
     "http://arxiv.org/abs/2608.12251v1": "2026-08-13T13:21:55.168220+00:00",
-    "http://arxiv.org/abs/2608.12220v1": "2026-08-13T13:21:55.168222+00:00"
+    "http://arxiv.org/abs/2608.12220v1": "2026-08-13T13:21:55.168222+00:00",
+    "https://www.qbitai.com/?p=472208": "2026-08-14T02:08:48.771987+00:00",
+    "https://www.qbitai.com/?p=472059": "2026-08-14T02:08:48.771996+00:00",
+    "https://www.qbitai.com/?p=472067": "2026-08-14T02:08:48.771998+00:00",
+    "https://www.qbitai.com/?p=472060": "2026-08-14T02:08:48.772000+00:00",
+    "https://www.qbitai.com/?p=472016": "2026-08-14T02:08:48.772001+00:00",
+    "http://www.geekpark.net/news/368789": "2026-08-14T02:08:52.078913+00:00",
+    "https://sspai.com/post/113434": "2026-08-14T02:08:53.177308+00:00",
+    "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop": "2026-08-14T02:08:55.855379+00:00",
+    "https://status.openai.com//incidents/01KZXVAJQ5XFH7PTM43XVPQWGJ": "2026-08-14T02:08:56.504642+00:00",
+    "https://status.openai.com//incidents/01KZXPZD4KHMQQFF09PSNNEZT8": "2026-08-14T02:08:56.504651+00:00",
+    "https://status.claude.com/incidents/whnd2z49x3xf": "2026-08-14T02:08:57.023971+00:00",
+    "https://status.claude.com/incidents/j160kkjmm2n1": "2026-08-14T02:08:57.023979+00:00",
+    "b5d7724d73cc7030cb1cb40507aa91d081f551a4": "2026-08-14T02:08:57.851808+00:00",
+    "d43548b1e99c28788ed7a26a925c28aa7e306fa7": "2026-08-14T02:08:57.851816+00:00",
+    "a1299d1fe5dce83f7bfea5a02c0c90a01c4c8284": "2026-08-14T02:08:57.851818+00:00",
+    "f7e47af42f400e3f4aeaea3b8fcc2ab80d496253": "2026-08-14T02:08:57.851820+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-08-13T13:21:55.168820+00:00"
+  "last_updated": "2026-08-14T02:09:13.709404+00:00"
 }
