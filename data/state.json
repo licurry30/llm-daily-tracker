@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=460892": "2026-07-25T13:40:16.950892+00:00",
-    "https://www.qbitai.com/?p=460542": "2026-07-25T13:40:16.950899+00:00",
-    "https://www.qbitai.com/?p=460253": "2026-07-25T13:40:16.950901+00:00",
-    "https://www.qbitai.com/?p=460234": "2026-07-25T13:40:16.950904+00:00",
-    "https://www.qbitai.com/?p=460186": "2026-07-25T13:40:16.950906+00:00",
-    "https://sspai.com/post/112093": "2026-07-25T13:40:20.455926+00:00",
-    "https://www.latent.space/p/ainews-claude-opus-5-fable-level": "2026-07-25T13:40:20.906924+00:00",
-    "https://status.openai.com//incidents/01KYCGY017EG43XZS6GFVXA8VH": "2026-07-25T13:40:22.841507+00:00",
-    "https://status.openai.com//incidents/01KYC921K145JTR1JK7DYKGWH1": "2026-07-25T13:40:22.841517+00:00",
     "https://status.openai.com//incidents/01KYDN6YPS6ARY1EC9089N089G": "2026-07-26T03:17:22.829011+00:00",
     "https://status.claude.com/incidents/j6gv862066n7": "2026-07-26T03:17:23.301512+00:00",
     "https://status.claude.com/incidents/f1q2wvw4qj4j": "2026-07-26T03:17:23.301518+00:00",
@@ -851,8 +842,16 @@
     "http://arxiv.org/abs/2608.23538v1": "2026-08-25T12:51:20.612246+00:00",
     "http://arxiv.org/abs/2608.23525v1": "2026-08-25T12:51:20.612248+00:00",
     "http://arxiv.org/abs/2608.23524v1": "2026-08-25T12:51:20.612249+00:00",
-    "http://arxiv.org/abs/2608.23478v1": "2026-08-25T12:51:20.612252+00:00"
+    "http://arxiv.org/abs/2608.23478v1": "2026-08-25T12:51:20.612252+00:00",
+    "http://www.geekpark.net/news/369355": "2026-08-26T01:26:39.287119+00:00",
+    "http://www.geekpark.net/news/369356": "2026-08-26T01:26:39.287127+00:00",
+    "http://www.geekpark.net/news/369354": "2026-08-26T01:26:39.287130+00:00",
+    "https://sspai.com/post/113847": "2026-08-26T01:26:40.299972+00:00",
+    "https://huggingface.co/blog/ibm-granite/granite-4-2": "2026-08-26T01:26:42.336909+00:00",
+    "https://blogs.nvidia.com/?p=97918": "2026-08-26T01:26:43.092339+00:00",
+    "bcd03430b15f5c1675997d3f2fcc6d165ab30085": "2026-08-26T01:26:43.460661+00:00",
+    "d19c9a80a6c9cff4fad87f27b9628f0939c589c7": "2026-08-26T01:26:43.460670+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-08-25T12:51:20.612727+00:00"
+  "last_updated": "2026-08-26T01:27:13.772290+00:00"
 }
