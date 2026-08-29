@@ -1,31 +1,5 @@
 {
   "seen": {
-    "https://sspai.com/post/112837": "2026-07-29T02:51:28.669931+00:00",
-    "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic": "2026-07-29T02:51:29.097159+00:00",
-    "https://www.latent.space/p/chatgpt-work": "2026-07-29T02:51:29.097167+00:00",
-    "https://huggingface.co/blog/allenai/olmoearth-infrastructure": "2026-07-29T02:51:30.734543+00:00",
-    "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders": "2026-07-29T02:51:30.734552+00:00",
-    "https://status.openai.com//incidents/01KYNNX2TQ3PV0KPJ9PTRRPX6C": "2026-07-29T02:51:31.130766+00:00",
-    "https://status.openai.com//incidents/01KYMJND2XYYBDVCF8DKA5DY3N": "2026-07-29T02:51:31.130775+00:00",
-    "https://blogs.nvidia.com/?p=96921": "2026-07-29T02:51:31.806473+00:00",
-    "6f308dab489ca3e002058919cc2813576498c4ee": "2026-07-29T02:51:32.318765+00:00",
-    "f15c6cc8df3f2f9b16de540e8bd4a5060a725c5c": "2026-07-29T02:51:32.318772+00:00",
-    "http://arxiv.org/abs/2607.26023v1": "2026-07-29T02:51:32.820921+00:00",
-    "http://arxiv.org/abs/2607.26017v1": "2026-07-29T02:51:32.820931+00:00",
-    "http://arxiv.org/abs/2607.26015v1": "2026-07-29T02:51:32.820933+00:00",
-    "http://arxiv.org/abs/2607.25995v1": "2026-07-29T02:51:32.820936+00:00",
-    "http://arxiv.org/abs/2607.25992v1": "2026-07-29T02:51:32.820937+00:00",
-    "http://arxiv.org/abs/2607.25961v1": "2026-07-29T02:51:32.820939+00:00",
-    "http://arxiv.org/abs/2607.25959v1": "2026-07-29T02:51:32.820941+00:00",
-    "http://arxiv.org/abs/2607.25956v1": "2026-07-29T02:51:32.820942+00:00",
-    "http://arxiv.org/abs/2607.25953v1": "2026-07-29T02:51:32.820944+00:00",
-    "http://arxiv.org/abs/2607.25947v1": "2026-07-29T02:51:32.820946+00:00",
-    "http://arxiv.org/abs/2607.26057v1": "2026-07-29T02:51:33.125959+00:00",
-    "http://arxiv.org/abs/2607.26052v1": "2026-07-29T02:51:33.125968+00:00",
-    "http://arxiv.org/abs/2607.26005v1": "2026-07-29T02:51:33.125971+00:00",
-    "http://arxiv.org/abs/2607.26004v1": "2026-07-29T02:51:33.125973+00:00",
-    "http://arxiv.org/abs/2607.25989v1": "2026-07-29T02:51:33.125975+00:00",
-    "http://arxiv.org/abs/2607.25984v1": "2026-07-29T02:51:33.125977+00:00",
     "https://www.qbitai.com/?p=462943": "2026-07-29T14:16:07.823795+00:00",
     "https://www.qbitai.com/?p=462447": "2026-07-29T14:16:07.823802+00:00",
     "https://www.qbitai.com/?p=462384": "2026-07-29T14:16:07.823805+00:00",
@@ -890,8 +864,12 @@
     "https://status.claude.com/incidents/vr9tpk8w7zr8": "2026-08-28T21:53:18.793886+00:00",
     "ac351c6a258d9c6b09e4e26e7198133fc26a60a3": "2026-08-28T21:53:19.681582+00:00",
     "dae4053b37d7ed7b3612288d4b8268c30de807fd": "2026-08-28T21:53:19.681588+00:00",
-    "8dcb0dfaec8adf0cacbdfe39cb8d995c20776278": "2026-08-28T21:53:19.681590+00:00"
+    "8dcb0dfaec8adf0cacbdfe39cb8d995c20776278": "2026-08-28T21:53:19.681590+00:00",
+    "http://www.geekpark.net/news/369550": "2026-08-29T06:17:50.539110+00:00",
+    "http://www.geekpark.net/news/369549": "2026-08-29T06:17:50.539118+00:00",
+    "https://sspai.com/post/112775": "2026-08-29T06:17:53.944889+00:00",
+    "https://www.latent.space/p/ainews-openai-shuts-off-cursor": "2026-08-29T06:17:54.253408+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-08-28T21:53:20.635870+00:00"
+  "last_updated": "2026-08-29T06:17:57.920651+00:00"
 }
