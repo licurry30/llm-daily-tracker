@@ -1,7 +1,5 @@
 {
   "seen": {
-    "http://www.geekpark.net/news/368278": "2026-08-03T03:17:48.918129+00:00",
-    "https://sspai.com/post/113014": "2026-08-03T03:17:56.600901+00:00",
     "https://www.qbitai.com/?p=465673": "2026-08-03T14:44:42.946204+00:00",
     "https://www.qbitai.com/?p=465223": "2026-08-03T14:44:42.946212+00:00",
     "https://www.qbitai.com/?p=465662": "2026-08-03T14:44:42.946215+00:00",
@@ -894,8 +892,21 @@
     "https://sspai.com/post/113581": "2026-09-02T16:12:49.192204+00:00",
     "https://www.latent.space/p/ainews-claude-fablemythos-51-new": "2026-09-02T16:12:49.743979+00:00",
     "https://machinelearning.apple.com/refactor-vla-motor-programs": "2026-09-02T16:12:50.676907+00:00",
-    "https://huggingface.co/blog/ibm-research/real-time-intelligence": "2026-09-02T16:12:51.107051+00:00"
+    "https://huggingface.co/blog/ibm-research/real-time-intelligence": "2026-09-02T16:12:51.107051+00:00",
+    "https://www.qbitai.com/?p=483552": "2026-09-03T03:36:01.265798+00:00",
+    "https://www.qbitai.com/?p=483462": "2026-09-03T03:36:01.265805+00:00",
+    "https://www.qbitai.com/?p=483351": "2026-09-03T03:36:01.265807+00:00",
+    "http://www.geekpark.net/news/369745": "2026-09-03T03:36:03.532337+00:00",
+    "https://sspai.com/post/114113": "2026-09-03T03:36:04.734841+00:00",
+    "https://status.openai.com//incidents/01M1J99EDCYED5GP2W8GZ3N2NA": "2026-09-03T03:36:07.956687+00:00",
+    "https://status.openai.com//incidents/01M1HN7GRR6FJNWFVX2F8QMA3R": "2026-09-03T03:36:07.956694+00:00",
+    "https://status.claude.com/incidents/ls6bn1x81m0w": "2026-09-03T03:36:08.314179+00:00",
+    "262427adeddcaf49102f989ea5bfb8332e685f6c": "2026-09-03T03:36:08.962460+00:00",
+    "5c6abef255152e41f7c6379eb8254ddffa13a0dc": "2026-09-03T03:36:08.962467+00:00",
+    "2ddcba352995cb71d35e8cab506f0d703e07f99c": "2026-09-03T03:36:08.962468+00:00",
+    "e771b13b28ead96c665aa300c29b20385700a5dd": "2026-09-03T03:36:08.962470+00:00",
+    "fab84ee3b87745244660d46e82d0bdf577316d98": "2026-09-03T03:36:08.962471+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-09-02T16:13:08.179646+00:00"
+  "last_updated": "2026-09-03T03:36:39.537848+00:00"
 }
