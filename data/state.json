@@ -1,21 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=470674": "2026-08-12T02:08:31.651750+00:00",
-    "http://www.geekpark.net/news/368700": "2026-08-12T02:08:33.896017+00:00",
-    "https://sspai.com/post/113343": "2026-08-12T02:08:35.084551+00:00",
-    "https://www.latent.space/p/chai-discovery": "2026-08-12T02:08:35.544384+00:00",
-    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/": "2026-08-12T02:08:37.000880+00:00",
-    "https://huggingface.co/blog/ibm-research/altk-evolve-sldd": "2026-08-12T02:08:37.603160+00:00",
-    "https://status.openai.com//incidents/01KZSC0T66YTVM57N5T79SV8ZV": "2026-08-12T02:08:38.022100+00:00",
-    "https://status.openai.com//incidents/01KZRXPE0NGXA12FJNP8WZF8D7": "2026-08-12T02:08:38.022108+00:00",
-    "https://status.openai.com//incidents/01KZRJHTR75WDXCMC0ZERX6YJC": "2026-08-12T02:08:38.022112+00:00",
-    "https://blogs.nvidia.com/?p=97441": "2026-08-12T02:08:38.790704+00:00",
-    "https://blogs.nvidia.com/?p=97323": "2026-08-12T02:08:38.790712+00:00",
-    "f6522d8386d10fcc6d1ab85b0676218a20acd0e9": "2026-08-12T02:08:39.148299+00:00",
-    "283246d0230bcd3dee9487487f2cee0ff02f6735": "2026-08-12T02:08:39.148307+00:00",
-    "c5a8d50fba3f5306158a47e53d9ac4f418c5cf16": "2026-08-12T02:08:39.148310+00:00",
-    "3896c2214d548edf11e4411ce17c3d1bc983082a": "2026-08-12T02:08:39.148312+00:00",
-    "553759b28ce6c7119699e64693bcdea7573c4ffd": "2026-08-12T02:08:39.148314+00:00",
     "https://www.qbitai.com/?p=471030": "2026-08-12T13:15:24.592805+00:00",
     "https://www.qbitai.com/?p=470901": "2026-08-12T13:15:24.592813+00:00",
     "https://www.qbitai.com/?p=470874": "2026-08-12T13:15:24.592815+00:00",
@@ -932,8 +916,13 @@
     "https://machinelearning.apple.com/simpledesign-protein-codesign": "2026-09-11T16:06:41.173794+00:00",
     "https://status.openai.com//incidents/01M27VK1VN54RQJGJEHB5JTQJJ": "2026-09-11T16:06:41.926167+00:00",
     "https://status.openai.com//incidents/01M27Q9GH7WVKNA61ZR3RDMSY5": "2026-09-11T16:06:41.926176+00:00",
-    "https://status.claude.com/incidents/t33dncr5ydvl": "2026-09-11T16:06:42.137177+00:00"
+    "https://status.claude.com/incidents/t33dncr5ydvl": "2026-09-11T16:06:42.137177+00:00",
+    "https://www.qbitai.com/?p=487631": "2026-09-12T03:47:03.283392+00:00",
+    "https://status.openai.com//incidents/01M28MEQWTQJDRCRPFD9FWQ0H3": "2026-09-12T03:47:08.842271+00:00",
+    "9da22a53a45cf214e154c67bafd0a4bd7eefa26b": "2026-09-12T03:47:09.635846+00:00",
+    "4fe7cafaba3f92f547e3e291a89c2e4e2100f953": "2026-09-12T03:47:09.635853+00:00",
+    "1b81a239f751889181ea1d02ab731440b400b140": "2026-09-12T03:47:09.635856+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-09-11T16:06:43.745914+00:00"
+  "last_updated": "2026-09-12T03:47:41.150145+00:00"
 }
