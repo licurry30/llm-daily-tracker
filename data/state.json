@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=478358": "2026-08-24T01:26:18.447245+00:00",
-    "https://www.qbitai.com/?p=478319": "2026-08-24T01:26:18.447253+00:00",
-    "http://www.geekpark.net/news/369224": "2026-08-24T01:26:23.315103+00:00",
-    "http://www.geekpark.net/news/369223": "2026-08-24T01:26:23.315110+00:00",
-    "http://www.geekpark.net/news/369221": "2026-08-24T01:26:23.315113+00:00",
-    "https://sspai.com/post/113767": "2026-08-24T01:26:24.666190+00:00",
     "https://www.qbitai.com/?p=478473": "2026-08-24T12:54:42.218466+00:00",
     "https://www.qbitai.com/?p=478469": "2026-08-24T12:54:42.218472+00:00",
     "https://www.qbitai.com/?p=478447": "2026-08-24T12:54:42.218475+00:00",
@@ -917,8 +911,18 @@
     "https://www.microsoft.com/en-us/research/?p=1186774": "2026-09-23T16:24:07.977400+00:00",
     "https://huggingface.co/blog/nvidia/nemotron-diarization": "2026-09-23T16:24:08.438877+00:00",
     "https://status.openai.com//incidents/01M36RMC01ZFWQ861WYJKC4XE1": "2026-09-23T16:24:08.678456+00:00",
-    "https://blogs.nvidia.com/?p=98468": "2026-09-23T16:24:09.230952+00:00"
+    "https://blogs.nvidia.com/?p=98468": "2026-09-23T16:24:09.230952+00:00",
+    "https://www.qbitai.com/?p=496658": "2026-09-24T03:49:57.600670+00:00",
+    "https://www.qbitai.com/?p=496647": "2026-09-24T03:49:57.600677+00:00",
+    "https://www.qbitai.com/?p=496615": "2026-09-24T03:49:57.600679+00:00",
+    "http://www.geekpark.net/news/370917": "2026-09-24T03:50:00.071013+00:00",
+    "https://sspai.com/post/114913": "2026-09-24T03:50:01.402755+00:00",
+    "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp": "2026-09-24T03:50:04.035377+00:00",
+    "https://status.openai.com//incidents/01M389CDQ97B11QPMSRAAYSE5S": "2026-09-24T03:50:04.435872+00:00",
+    "a9e8fc8015478951f1ebf38e854088e6f49fee5e": "2026-09-24T03:50:05.336115+00:00",
+    "c1a90bbe3003b17df7a04a90397d54eee1db68bd": "2026-09-24T03:50:05.336123+00:00",
+    "cced8883b9ee496209b96642a8ac01881e403508": "2026-09-24T03:50:05.336126+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-09-23T16:24:10.323083+00:00"
+  "last_updated": "2026-09-24T03:50:51.431322+00:00"
 }
