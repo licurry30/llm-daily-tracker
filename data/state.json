@@ -1,8 +1,5 @@
 {
   "seen": {
-    "http://www.geekpark.net/news/369556": "2026-08-30T16:18:34.332432+00:00",
-    "http://www.geekpark.net/news/369555": "2026-08-30T16:18:34.332439+00:00",
-    "https://sspai.com/post/113974": "2026-08-30T16:18:35.532613+00:00",
     "https://www.qbitai.com/?p=481759": "2026-08-31T04:31:34.180832+00:00",
     "https://www.qbitai.com/?p=481750": "2026-08-31T04:31:34.180839+00:00",
     "https://www.qbitai.com/?p=481475": "2026-08-31T04:31:34.180842+00:00",
@@ -924,8 +921,25 @@
     "http://arxiv.org/abs/2609.38143v1": "2026-09-30T04:42:28.768800+00:00",
     "http://arxiv.org/abs/2609.38137v1": "2026-09-30T04:42:28.768802+00:00",
     "http://arxiv.org/abs/2609.38111v1": "2026-09-30T04:42:28.768805+00:00",
-    "http://arxiv.org/abs/2609.38107v1": "2026-09-30T04:42:28.768807+00:00"
+    "http://arxiv.org/abs/2609.38107v1": "2026-09-30T04:42:28.768807+00:00",
+    "https://www.qbitai.com/?p=499654": "2026-09-30T17:46:49.461102+00:00",
+    "https://www.qbitai.com/?p=499605": "2026-09-30T17:46:49.461111+00:00",
+    "https://www.qbitai.com/?p=499597": "2026-09-30T17:46:49.461114+00:00",
+    "https://www.qbitai.com/?p=499592": "2026-09-30T17:46:49.461116+00:00",
+    "https://www.qbitai.com/?p=499493": "2026-09-30T17:46:49.461118+00:00",
+    "https://sspai.com/post/115070": "2026-09-30T17:46:52.862133+00:00",
+    "https://sspai.com/post/115166": "2026-09-30T17:46:52.862141+00:00",
+    "https://www.latent.space/p/ainews-openai-devday-2026-dots-61": "2026-09-30T17:46:53.517809+00:00",
+    "https://www.microsoft.com/en-us/research/?p=1186605": "2026-09-30T17:46:54.804975+00:00",
+    "https://machinelearning.apple.com/effectiveness-fluency-llm-conditioning": "2026-09-30T17:46:54.955978+00:00",
+    "https://huggingface.co/blog/open-tts-leaderboard": "2026-09-30T17:46:55.313437+00:00",
+    "https://status.openai.com//incidents/01M3SMF1Q0TDCQVNYSXYG37QMR": "2026-09-30T17:46:55.735257+00:00",
+    "https://status.openai.com//incidents/01M3RDNY37CAPQGRKPBVMNRT4K": "2026-09-30T17:46:55.735270+00:00",
+    "https://blogs.nvidia.com/?p=98499": "2026-09-30T17:46:56.476704+00:00",
+    "https://blogs.nvidia.com/?p=98507": "2026-09-30T17:46:56.476713+00:00",
+    "6f62e0665479ef5d4ffddb480328d07ce719281b": "2026-09-30T17:46:56.877735+00:00",
+    "37f0383beadfcb1c0bb959bcb5b53ec408457b0c": "2026-09-30T17:46:56.877743+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-09-30T04:42:28.769257+00:00"
+  "last_updated": "2026-09-30T17:46:57.356882+00:00"
 }
