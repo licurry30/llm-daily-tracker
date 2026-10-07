@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=484897": "2026-09-06T15:08:55.892745+00:00",
-    "https://www.qbitai.com/?p=484890": "2026-09-06T15:08:55.892753+00:00",
-    "https://sspai.com/post/114076": "2026-09-06T15:09:00.051780+00:00",
     "http://www.geekpark.net/news/369884": "2026-09-07T03:37:57.999915+00:00",
     "https://sspai.com/post/114250": "2026-09-07T03:37:59.100422+00:00",
     "https://www.qbitai.com/?p=485525": "2026-09-07T17:31:33.116032+00:00",
@@ -888,8 +885,25 @@
     "http://arxiv.org/abs/2610.08761v1": "2026-10-07T05:02:01.478737+00:00",
     "http://arxiv.org/abs/2610.08726v1": "2026-10-07T05:02:01.478740+00:00",
     "http://arxiv.org/abs/2610.08680v1": "2026-10-07T05:02:01.478743+00:00",
-    "http://arxiv.org/abs/2610.08660v1": "2026-10-07T05:02:01.478751+00:00"
+    "http://arxiv.org/abs/2610.08660v1": "2026-10-07T05:02:01.478751+00:00",
+    "https://www.qbitai.com/?p=501825": "2026-10-07T18:38:16.480848+00:00",
+    "https://www.qbitai.com/?p=501803": "2026-10-07T18:38:16.480858+00:00",
+    "https://www.qbitai.com/?p=501796": "2026-10-07T18:38:16.480860+00:00",
+    "https://www.qbitai.com/?p=501791": "2026-10-07T18:38:16.480863+00:00",
+    "https://www.latent.space/p/stacklok": "2026-10-07T18:38:22.970700+00:00",
+    "https://www.microsoft.com/en-us/research/?p=1187920": "2026-10-07T18:38:24.228750+00:00",
+    "https://huggingface.co/blog/LiquidAI/open-d1": "2026-10-07T18:38:24.768616+00:00",
+    "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026": "2026-10-07T18:38:24.768628+00:00",
+    "https://status.openai.com//incidents/01M4BP5JE7DKJSP3VG2S2DCWF2": "2026-10-07T18:38:25.281685+00:00",
+    "https://status.openai.com//incidents/01M4BK9J2M83R4SSC71D9FXW45": "2026-10-07T18:38:25.281696+00:00",
+    "https://status.openai.com//incidents/01M4ADHMMBK7K92NJFJ0DXRYJM": "2026-10-07T18:38:25.281698+00:00",
+    "https://status.claude.com/incidents/978mjkgw6mh7": "2026-10-07T18:38:25.665006+00:00",
+    "39fc0b914168afce8435f252ea53c5d476f40b5d": "2026-10-07T18:38:26.566899+00:00",
+    "93bdbf76581c7169c13af9e7eca9f14e1f921f75": "2026-10-07T18:38:26.566909+00:00",
+    "fa0afddf27418d623ced214e96ba970d813f2f4c": "2026-10-07T18:38:26.566911+00:00",
+    "c4faaee6740a8b2bfe0bba8a988399d299da211b": "2026-10-07T18:38:26.566914+00:00",
+    "557ef20339b4ca724a00b2bc1be9a67b2c82c106": "2026-10-07T18:38:26.566916+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-10-07T05:02:01.479357+00:00"
+  "last_updated": "2026-10-07T18:38:27.807793+00:00"
 }
