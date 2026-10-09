@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=485854": "2026-09-08T16:16:14.563689+00:00",
-    "https://www.qbitai.com/?p=485794": "2026-09-08T16:16:14.563696+00:00",
-    "https://www.qbitai.com/?p=485784": "2026-09-08T16:16:14.563698+00:00",
-    "http://www.geekpark.net/news/370007": "2026-09-08T16:16:18.887285+00:00",
-    "http://www.geekpark.net/news/370006": "2026-09-08T16:16:18.887294+00:00",
-    "https://sspai.com/prime/story/sidecar-optimizations": "2026-09-08T16:16:20.084884+00:00",
-    "https://sspai.com/post/114327": "2026-09-08T16:16:20.084890+00:00",
-    "https://sspai.com/post/114312": "2026-09-08T16:16:20.084892+00:00",
-    "https://sspai.com/post/113299": "2026-09-08T16:16:20.084893+00:00",
-    "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom": "2026-09-08T16:16:22.291175+00:00",
-    "https://status.openai.com//incidents/01M20PYYYGRT9303VHAPA7YNT2": "2026-09-08T16:16:22.975708+00:00",
-    "https://status.openai.com//incidents/01M20QBACYZMK2PRCJQCBSWTYJ": "2026-09-08T16:16:22.975715+00:00",
-    "726c7f8b855625652ff33861d4fa092983d4a5c4": "2026-09-08T16:16:23.892100+00:00",
-    "2070718b427f8bf91bd59867753911fb62518359": "2026-09-08T16:16:23.892107+00:00",
     "https://www.qbitai.com/?p=486038": "2026-09-09T03:47:57.661080+00:00",
     "http://www.geekpark.net/news/370026": "2026-09-09T03:48:00.361644+00:00",
     "https://sspai.com/post/114352": "2026-09-09T03:48:01.773747+00:00",
@@ -952,8 +938,19 @@
     "http://arxiv.org/abs/2610.12416v1": "2026-10-09T05:15:28.586889+00:00",
     "http://arxiv.org/abs/2610.12403v1": "2026-10-09T05:15:28.586891+00:00",
     "http://arxiv.org/abs/2610.12402v1": "2026-10-09T05:15:28.586892+00:00",
-    "http://arxiv.org/abs/2610.12386v1": "2026-10-09T05:15:28.586894+00:00"
+    "http://arxiv.org/abs/2610.12386v1": "2026-10-09T05:15:28.586894+00:00",
+    "https://www.qbitai.com/?p=502426": "2026-10-09T18:07:52.375811+00:00",
+    "https://www.qbitai.com/?p=502422": "2026-10-09T18:07:52.375819+00:00",
+    "https://www.qbitai.com/?p=502411": "2026-10-09T18:07:52.375821+00:00",
+    "https://www.qbitai.com/?p=502364": "2026-10-09T18:07:52.375823+00:00",
+    "https://www.qbitai.com/?p=502359": "2026-10-09T18:07:52.375825+00:00",
+    "https://sspai.com/post/115566": "2026-10-09T18:08:07.070884+00:00",
+    "https://sspai.com/post/115456": "2026-10-09T18:08:07.070894+00:00",
+    "https://huggingface.co/blog/allenai/impactful-scheduling": "2026-10-09T18:08:09.566396+00:00",
+    "https://status.openai.com//incidents/01M4GV1M2A3K38T73JCVCD9G0R": "2026-10-09T18:08:10.022267+00:00",
+    "47f6ae2bd79e8fc92d958051f1fc9a5345f3e76e": "2026-10-09T18:08:10.765782+00:00",
+    "b70b3126633995a55ec3140e570c01681b054d89": "2026-10-09T18:08:10.765795+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-10-09T05:15:28.587441+00:00"
+  "last_updated": "2026-10-09T18:08:26.415873+00:00"
 }
