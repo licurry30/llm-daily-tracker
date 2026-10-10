@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=486374": "2026-09-09T16:10:50.702546+00:00",
-    "https://www.qbitai.com/?p=486370": "2026-09-09T16:10:50.702553+00:00",
-    "https://www.qbitai.com/?p=486288": "2026-09-09T16:10:50.702555+00:00",
-    "https://www.qbitai.com/?p=486280": "2026-09-09T16:10:50.702557+00:00",
-    "https://www.qbitai.com/?p=486052": "2026-09-09T16:10:50.702559+00:00",
-    "http://www.geekpark.net/news/370061": "2026-09-09T16:10:57.973979+00:00",
-    "https://sspai.com/post/114366": "2026-09-09T16:10:59.045871+00:00",
-    "https://sspai.com/post/113842": "2026-09-09T16:10:59.045877+00:00",
-    "https://sspai.com/post/113668": "2026-09-09T16:10:59.045879+00:00",
-    "https://www.latent.space/p/ainews-openai-reports-navier-stokes": "2026-09-09T16:10:59.780272+00:00",
-    "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series": "2026-09-09T16:11:01.338862+00:00",
-    "https://status.openai.com//incidents/01M23BNX5V1XT9P3NP0PX56FTN": "2026-09-09T16:11:01.743889+00:00",
-    "https://blogs.nvidia.com/?p=98109": "2026-09-09T16:11:02.202047+00:00",
-    "40560bc1165354abd0304d5c35c0cd427ba27c99": "2026-09-09T16:11:02.585368+00:00",
-    "a77ad5a4cc8d539af020eba9f19a5636de04f505": "2026-09-09T16:11:02.585376+00:00",
-    "http://arxiv.org/abs/2609.09153v1": "2026-09-09T16:11:03.107868+00:00",
-    "http://arxiv.org/abs/2609.09115v1": "2026-09-09T16:11:03.107881+00:00",
-    "http://arxiv.org/abs/2609.09156v1": "2026-09-09T16:11:03.765765+00:00",
     "https://www.qbitai.com/?p=486436": "2026-09-10T03:46:19.554036+00:00",
     "https://www.qbitai.com/?p=486350": "2026-09-10T03:46:19.554044+00:00",
     "https://www.qbitai.com/?p=486450": "2026-09-10T03:46:19.554047+00:00",
@@ -931,8 +913,13 @@
     "https://sspai.com/post/115237": "2026-10-10T05:00:40.170226+00:00",
     "https://www.latent.space/p/biohub-deepmind": "2026-10-10T05:00:40.688483+00:00",
     "https://status.openai.com//incidents/01M4H7FKXDA425TDNP2CRGEYA3": "2026-10-10T05:00:42.775039+00:00",
-    "https://status.openai.com//incidents/01M4HA7BCCXVHTR5DCYMSBQF2H": "2026-10-10T05:00:42.775047+00:00"
+    "https://status.openai.com//incidents/01M4HA7BCCXVHTR5DCYMSBQF2H": "2026-10-10T05:00:42.775047+00:00",
+    "https://www.qbitai.com/?p=502467": "2026-10-10T17:07:00.875356+00:00",
+    "http://www.geekpark.net/news/372196": "2026-10-10T17:07:04.283754+00:00",
+    "http://www.geekpark.net/news/372195": "2026-10-10T17:07:04.283762+00:00",
+    "https://www.latent.space/p/standard-bots": "2026-10-10T17:07:06.384552+00:00",
+    "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b": "2026-10-10T17:07:06.384562+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-10-10T05:00:44.369015+00:00"
+  "last_updated": "2026-10-10T17:07:10.605074+00:00"
 }
