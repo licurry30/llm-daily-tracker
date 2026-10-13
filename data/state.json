@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=487860": "2026-09-12T15:14:05.503853+00:00",
-    "https://www.qbitai.com/?p=487796": "2026-09-12T15:14:05.503860+00:00",
-    "https://www.qbitai.com/?p=487752": "2026-09-12T15:14:05.503863+00:00",
-    "https://www.qbitai.com/?p=487701": "2026-09-12T15:14:05.503865+00:00",
-    "https://www.qbitai.com/?p=487688": "2026-09-12T15:14:05.503868+00:00",
-    "http://www.geekpark.net/news/370227": "2026-09-12T15:14:09.399688+00:00",
-    "https://sspai.com/post/114461": "2026-09-12T15:14:10.722343+00:00",
-    "https://www.latent.space/p/forward-deployed-engineer-best-practices": "2026-09-12T15:14:11.198930+00:00",
-    "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b": "2026-09-12T15:14:11.198940+00:00",
     "http://www.geekpark.net/news/370228": "2026-09-13T03:55:29.654668+00:00",
     "https://www.qbitai.com/?p=488672": "2026-09-13T15:50:00.876699+00:00",
     "https://www.qbitai.com/?p=488519": "2026-09-13T15:50:00.876707+00:00",
@@ -850,8 +841,27 @@
     "https://sspai.com/post/116028": "2026-10-13T06:03:34.162980+00:00",
     "https://sspai.com/post/114561": "2026-10-13T06:03:34.162999+00:00",
     "https://sspai.com/post/116033": "2026-10-13T06:03:34.163001+00:00",
-    "https://blogs.nvidia.com/?p=98737": "2026-10-13T06:03:38.693585+00:00"
+    "https://blogs.nvidia.com/?p=98737": "2026-10-13T06:03:38.693585+00:00",
+    "https://www.qbitai.com/?p=503107": "2026-10-13T19:02:02.858278+00:00",
+    "https://www.qbitai.com/?p=503093": "2026-10-13T19:02:02.858287+00:00",
+    "https://www.qbitai.com/?p=502992": "2026-10-13T19:02:02.858289+00:00",
+    "https://www.qbitai.com/?p=502954": "2026-10-13T19:02:02.858291+00:00",
+    "https://www.qbitai.com/?p=502920": "2026-10-13T19:02:02.858293+00:00",
+    "http://www.geekpark.net/news/372302": "2026-10-13T19:02:05.935239+00:00",
+    "http://www.geekpark.net/news/372300": "2026-10-13T19:02:05.935247+00:00",
+    "https://sspai.com/post/116068": "2026-10-13T19:02:07.003853+00:00",
+    "https://sspai.com/post/115400": "2026-10-13T19:02:07.003860+00:00",
+    "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder": "2026-10-13T19:02:08.096672+00:00",
+    "https://machinelearning.apple.com/mix-dont-tune": "2026-10-13T19:02:09.544446+00:00",
+    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b": "2026-10-13T19:02:09.980943+00:00",
+    "https://status.openai.com//incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS": "2026-10-13T19:02:10.408970+00:00",
+    "https://blogs.nvidia.com/?p=98768": "2026-10-13T19:02:10.924799+00:00",
+    "96270fda2506ac4609e9172e331312d358ae21d1": "2026-10-13T19:02:11.309215+00:00",
+    "ab143ebe8db2864cd1a1dc85aca1d8077f428d42": "2026-10-13T19:02:11.309225+00:00",
+    "925aef534e91c4fa81028a17497d83107c32ab6e": "2026-10-13T19:02:11.309229+00:00",
+    "57fb1aeaa95150736b7378dbd28aa9e97e0d4632": "2026-10-13T19:02:11.309231+00:00",
+    "a36fde525cae2db63b1b86626409e8ab9462e559": "2026-10-13T19:02:11.309233+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-10-13T06:04:35.259579+00:00"
+  "last_updated": "2026-10-13T19:02:12.232409+00:00"
 }
