@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=496658": "2026-09-24T03:49:57.600670+00:00",
-    "https://www.qbitai.com/?p=496647": "2026-09-24T03:49:57.600677+00:00",
-    "https://www.qbitai.com/?p=496615": "2026-09-24T03:49:57.600679+00:00",
-    "http://www.geekpark.net/news/370917": "2026-09-24T03:50:00.071013+00:00",
-    "https://sspai.com/post/114913": "2026-09-24T03:50:01.402755+00:00",
-    "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp": "2026-09-24T03:50:04.035377+00:00",
-    "https://status.openai.com//incidents/01M389CDQ97B11QPMSRAAYSE5S": "2026-09-24T03:50:04.435872+00:00",
-    "a9e8fc8015478951f1ebf38e854088e6f49fee5e": "2026-09-24T03:50:05.336115+00:00",
-    "c1a90bbe3003b17df7a04a90397d54eee1db68bd": "2026-09-24T03:50:05.336123+00:00",
-    "cced8883b9ee496209b96642a8ac01881e403508": "2026-09-24T03:50:05.336126+00:00",
     "https://www.qbitai.com/?p=496961": "2026-09-24T16:45:39.339806+00:00",
     "https://www.qbitai.com/?p=496925": "2026-09-24T16:45:39.339815+00:00",
     "https://www.qbitai.com/?p=496834": "2026-09-24T16:45:39.339818+00:00",
@@ -890,8 +880,11 @@
     "https://sspai.com/post/116128": "2026-10-24T15:36:04.714858+00:00",
     "urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4": "2026-10-24T15:36:05.522078+00:00",
     "https://status.claude.com/incidents/0ns5clsk8p2x": "2026-10-24T15:36:36.832967+00:00",
-    "http://www.geekpark.net/news/372860": "2026-10-25T03:49:39.291456+00:00"
+    "http://www.geekpark.net/news/372860": "2026-10-25T03:49:39.291456+00:00",
+    "https://sspai.com/post/114741": "2026-10-25T15:46:21.124276+00:00",
+    "https://status.claude.com/incidents/vx06kp8wfpq2": "2026-10-25T15:46:23.795885+00:00",
+    "https://status.claude.com/incidents/334jvgbrc4ff": "2026-10-25T15:46:23.795893+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-10-25T03:50:30.235384+00:00"
+  "last_updated": "2026-10-25T15:46:25.660465+00:00"
 }
