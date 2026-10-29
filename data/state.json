@@ -1,8 +1,5 @@
 {
   "seen": {
-    "http://www.geekpark.net/news/371044": "2026-09-28T04:26:07.417344+00:00",
-    "https://sspai.com/post/114967": "2026-09-28T04:26:08.594378+00:00",
-    "https://sspai.com/post/115079": "2026-09-28T04:26:08.594382+00:00",
     "https://www.qbitai.com/?p=498877": "2026-09-28T19:24:43.770268+00:00",
     "https://www.qbitai.com/?p=498787": "2026-09-28T19:24:43.770277+00:00",
     "http://www.geekpark.net/news/371390": "2026-09-28T19:24:49.385382+00:00",
@@ -891,8 +888,17 @@
     "urn:latent-space:post:pod_ep_01a17e24-16fc-71e3-bdc8-f0c1aeee546c": "2026-10-28T18:03:35.253154+00:00",
     "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary": "2026-10-28T18:03:36.603013+00:00",
     "https://status.claude.com/incidents/phg1y2yh07n2": "2026-10-28T18:03:37.275547+00:00",
-    "https://blogs.nvidia.com/?p=99523": "2026-10-28T18:03:37.609663+00:00"
+    "https://blogs.nvidia.com/?p=99523": "2026-10-28T18:03:37.609663+00:00",
+    "http://www.geekpark.net/news/373085": "2026-10-29T04:56:28.158904+00:00",
+    "http://www.geekpark.net/news/373084": "2026-10-29T04:56:28.158914+00:00",
+    "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent": "2026-10-29T04:56:29.468622+00:00",
+    "https://sspai.com/post/116686": "2026-10-29T04:56:29.468631+00:00",
+    "https://sspai.com/post/117750": "2026-10-29T04:56:29.468635+00:00",
+    "urn:latent-space:post:post_dc42ae8a-0f60-40f4-a056-f11b7f8c3289": "2026-10-29T04:56:30.305934+00:00",
+    "8bd827344f7a730b420aced0542c5d0dd666efbf": "2026-10-29T04:56:33.709661+00:00",
+    "ad7c54a5a92c3c3ab550b696c83e5204108e2c13": "2026-10-29T04:56:33.709670+00:00",
+    "e072f14329aeef9ebf20997fc4d53f2767473ad7": "2026-10-29T04:56:33.709673+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-10-28T18:03:38.798083+00:00"
+  "last_updated": "2026-10-29T04:56:34.849197+00:00"
 }
