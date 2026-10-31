@@ -1,25 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=499239": "2026-09-29T17:51:13.240735+00:00",
-    "https://www.qbitai.com/?p=499188": "2026-09-29T17:51:13.240740+00:00",
-    "https://www.qbitai.com/?p=499140": "2026-09-29T17:51:13.240742+00:00",
-    "https://www.qbitai.com/?p=499135": "2026-09-29T17:51:13.240743+00:00",
-    "http://www.geekpark.net/news/372000": "2026-09-29T17:51:15.080234+00:00",
-    "http://www.geekpark.net/news/371994": "2026-09-29T17:51:15.080238+00:00",
-    "http://www.geekpark.net/news/371850": "2026-09-29T17:51:15.080239+00:00",
-    "http://www.geekpark.net/news/371493": "2026-09-29T17:51:15.080241+00:00",
-    "https://sspai.com/post/115153": "2026-09-29T17:51:16.408790+00:00",
-    "https://sspai.com/post/115061": "2026-09-29T17:51:16.408793+00:00",
-    "https://www.microsoft.com/en-us/research/?p=1186958": "2026-09-29T17:51:18.831894+00:00",
-    "https://machinelearning.apple.com/communication-bottleneck-serialization": "2026-09-29T17:51:18.931638+00:00",
-    "https://huggingface.co/blog/nvidia/kumo-tabular": "2026-09-29T17:51:19.223969+00:00",
-    "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source": "2026-09-29T17:51:19.223974+00:00",
-    "https://status.openai.com//incidents/01M3Q4HMNP8SZ27DTZKW6F5BJ4": "2026-09-29T17:51:19.557975+00:00",
-    "https://status.claude.com/incidents/4xvtc2gnq73l": "2026-09-29T17:51:19.890975+00:00",
-    "956105521adc5a0776213d7b56dbfe5e72bac1c2": "2026-09-29T17:51:20.265210+00:00",
-    "85610690682b8b1fa3e1af451a034eda90d65cfa": "2026-09-29T17:51:20.265214+00:00",
-    "479e7dbfafc38939d38af9cc3a27e5f2d32dc044": "2026-09-29T17:51:20.265216+00:00",
-    "c8a9d3a3948ee260503419fe425f5000daf39358": "2026-09-29T17:51:20.265217+00:00",
     "https://www.qbitai.com/?p=499263": "2026-09-30T04:42:19.403073+00:00",
     "https://www.qbitai.com/?p=499246": "2026-09-30T04:42:19.403081+00:00",
     "http://www.geekpark.net/news/372005": "2026-09-30T04:42:21.602858+00:00",
@@ -911,8 +891,14 @@
     "http://arxiv.org/abs/2610.40627v1": "2026-10-30T17:50:17.907224+00:00",
     "http://arxiv.org/abs/2610.40613v1": "2026-10-30T17:50:17.907227+00:00",
     "http://arxiv.org/abs/2610.40649v1": "2026-10-30T17:50:18.997478+00:00",
-    "http://arxiv.org/abs/2610.40618v1": "2026-10-30T17:50:18.997486+00:00"
+    "http://arxiv.org/abs/2610.40618v1": "2026-10-30T17:50:18.997486+00:00",
+    "http://www.geekpark.net/news/373220": "2026-10-31T04:42:23.458148+00:00",
+    "http://www.geekpark.net/news/373238": "2026-10-31T04:42:23.458157+00:00",
+    "https://huggingface.co/blog/nvidia/nemotron-halloween": "2026-10-31T04:42:26.960002+00:00",
+    "https://status.openai.com//incidents/01M6754SR14HCQ3E9FX426E2N7": "2026-10-31T04:42:27.435947+00:00",
+    "5542e879e541b56f1c06a9f2c71c7c3f37f6d5e3": "2026-10-31T04:42:28.105628+00:00",
+    "f7fa53db3341459d6a27841fb8632835488a9c38": "2026-10-31T04:42:28.105637+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-10-30T17:50:18.998054+00:00"
+  "last_updated": "2026-10-31T04:42:28.598984+00:00"
 }
