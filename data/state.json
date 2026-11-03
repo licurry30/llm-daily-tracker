@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=501381": "2026-10-03T15:56:00.378325+00:00",
-    "https://www.qbitai.com/?p=501368": "2026-10-03T15:56:00.378333+00:00",
-    "https://sspai.com/post/114922": "2026-10-03T15:56:04.832584+00:00",
-    "https://www.latent.space/p/ainews-not-much-happened-today-cee": "2026-10-03T15:56:05.389750+00:00",
     "https://www.qbitai.com/?p=501451": "2026-10-04T04:58:22.021595+00:00",
     "http://www.geekpark.net/news/372073": "2026-10-04T04:58:24.875879+00:00",
     "https://huggingface.co/blog/microsoft/thinkingbox": "2026-10-04T04:58:28.268137+00:00",
@@ -820,8 +816,29 @@
     "urn:latent-space:post:post_51573bcd-fb09-403d-955a-04daf318cf5f": "2026-11-03T05:51:27.241475+00:00",
     "urn:latent-space:post:post_b1e4eead-3949-4839-9db7-833e48cc345b": "2026-11-03T05:51:27.241484+00:00",
     "urn:latent-space:post:pod_ep_01a19df0-34a3-7307-96fc-48928908772b": "2026-11-03T05:51:27.241487+00:00",
-    "https://status.openai.com//incidents/01M6FDZ89W4PKDS19K496J307G": "2026-11-03T05:51:29.870994+00:00"
+    "https://status.openai.com//incidents/01M6FDZ89W4PKDS19K496J307G": "2026-11-03T05:51:29.870994+00:00",
+    "https://www.qbitai.com/?p=507507": "2026-11-03T19:15:15.002521+00:00",
+    "https://www.qbitai.com/?p=507473": "2026-11-03T19:15:15.002530+00:00",
+    "https://www.qbitai.com/?p=507448": "2026-11-03T19:15:15.002532+00:00",
+    "https://www.qbitai.com/?p=507419": "2026-11-03T19:15:15.002534+00:00",
+    "https://www.qbitai.com/?p=507410": "2026-11-03T19:15:15.002536+00:00",
+    "http://www.geekpark.net/news/373424": "2026-11-03T19:15:16.823358+00:00",
+    "http://www.geekpark.net/news/373399": "2026-11-03T19:15:16.823367+00:00",
+    "https://sspai.com/post/118263": "2026-11-03T19:15:18.071924+00:00",
+    "https://sspai.com/post/118317": "2026-11-03T19:15:18.071930+00:00",
+    "https://www.microsoft.com/en-us/research/?p=1192298": "2026-11-03T19:15:20.384636+00:00",
+    "https://huggingface.co/blog/allenai/statebench": "2026-11-03T19:15:20.800671+00:00",
+    "https://huggingface.co/blog/ibm-research/palette-deck-building": "2026-11-03T19:15:20.800681+00:00",
+    "https://huggingface.co/blog/cwe-bench": "2026-11-03T19:15:20.800684+00:00",
+    "https://huggingface.co/blog/transformers-mic": "2026-11-03T19:15:20.800685+00:00",
+    "https://blogs.nvidia.com/?p=99605": "2026-11-03T19:15:21.717398+00:00",
+    "https://blogs.nvidia.com/?p=99615": "2026-11-03T19:15:21.717411+00:00",
+    "a3db7b2c3fdf8a48e563f027e982fa25a50c5a02": "2026-11-03T19:15:22.044169+00:00",
+    "1350dc3292e99da0becbb3e875f11092aaa597f1": "2026-11-03T19:15:22.044177+00:00",
+    "5ba6fab2d05a0a1835c7f5d2cacc32e13156d4b9": "2026-11-03T19:15:22.044180+00:00",
+    "070b0dd86152d3c36e4ca952542e5bc8e5351104": "2026-11-03T19:15:22.044181+00:00",
+    "e6bbcdf35e46913f9daf0c1f2ed621b067d27d2d": "2026-11-03T19:15:22.044182+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-11-03T05:52:31.140306+00:00"
+  "last_updated": "2026-11-03T19:15:23.011651+00:00"
 }
