@@ -1,10 +1,5 @@
 {
   "seen": {
-    "http://www.geekpark.net/news/372184": "2026-10-10T05:00:39.149148+00:00",
-    "https://sspai.com/post/115237": "2026-10-10T05:00:40.170226+00:00",
-    "https://www.latent.space/p/biohub-deepmind": "2026-10-10T05:00:40.688483+00:00",
-    "https://status.openai.com//incidents/01M4H7FKXDA425TDNP2CRGEYA3": "2026-10-10T05:00:42.775039+00:00",
-    "https://status.openai.com//incidents/01M4HA7BCCXVHTR5DCYMSBQF2H": "2026-10-10T05:00:42.775047+00:00",
     "https://www.qbitai.com/?p=502467": "2026-10-10T17:07:00.875356+00:00",
     "http://www.geekpark.net/news/372196": "2026-10-10T17:07:04.283754+00:00",
     "http://www.geekpark.net/news/372195": "2026-10-10T17:07:04.283762+00:00",
@@ -805,8 +800,16 @@
     "19f307961a8c6e7fb1931729bc0b823ac590bfec": "2026-11-09T22:03:28.483696+00:00",
     "3e5b07e97d0a4f1f703ec7e89ab19f1b40aaa262": "2026-11-09T22:03:28.483699+00:00",
     "333ca621d84290b49ff9a6ae139d900744bc2faa": "2026-11-09T22:03:28.483701+00:00",
-    "08caff2b840ccbd409e94a190d5802d3f577d510": "2026-11-09T22:03:28.483702+00:00"
+    "08caff2b840ccbd409e94a190d5802d3f577d510": "2026-11-09T22:03:28.483702+00:00",
+    "http://www.geekpark.net/news/373765": "2026-11-10T06:33:24.894744+00:00",
+    "http://www.geekpark.net/news/373760": "2026-11-10T06:33:24.894752+00:00",
+    "http://www.geekpark.net/news/373736": "2026-11-10T06:33:24.894755+00:00",
+    "https://sspai.com/post/111065": "2026-11-10T06:33:25.971987+00:00",
+    "https://sspai.com/post/118854": "2026-11-10T06:33:25.971993+00:00",
+    "https://status.openai.com//incidents/01M71W79MAGEXEX93QTVTBYJ4K": "2026-11-10T06:33:28.646530+00:00",
+    "https://status.openai.com//incidents/01M7193DWYRFWQM5W6E3VZ7TM7": "2026-11-10T06:33:28.646538+00:00",
+    "b0e4e95ccb178c5e51191d02022d9a631c23c383": "2026-11-10T06:33:29.376460+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-11-09T22:03:29.526969+00:00"
+  "last_updated": "2026-11-10T06:33:29.838971+00:00"
 }
