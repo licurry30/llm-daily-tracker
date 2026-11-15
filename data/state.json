@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=503303": "2026-10-15T03:49:12.244240+00:00",
-    "https://www.qbitai.com/?p=503294": "2026-10-15T03:49:12.244248+00:00",
-    "https://www.qbitai.com/?p=503244": "2026-10-15T03:49:12.244251+00:00",
-    "https://www.qbitai.com/?p=503231": "2026-10-15T03:49:12.244253+00:00",
-    "https://www.qbitai.com/?p=503211": "2026-10-15T03:49:12.244255+00:00",
-    "http://www.geekpark.net/news/372366": "2026-10-15T03:49:14.595480+00:00",
-    "https://sspai.com/post/116193": "2026-10-15T03:49:16.117195+00:00",
-    "https://www.latent.space/p/crossing-the-threshold": "2026-10-15T03:49:16.522508+00:00",
-    "https://www.latent.space/p/lab-in-the-loop-at-compute-speed": "2026-10-15T03:49:16.522517+00:00",
-    "https://status.openai.com//incidents/01M4XNQX7C6RCBNGX9H711WFSG": "2026-10-15T03:49:18.395214+00:00",
     "http://www.geekpark.net/news/372420": "2026-10-15T16:33:39.097811+00:00",
     "http://www.geekpark.net/news/372386": "2026-10-15T16:33:39.097822+00:00",
     "https://sspai.com/post/116246": "2026-10-15T16:33:40.086509+00:00",
@@ -867,8 +857,9 @@
     "https://www.qbitai.com/?p=510013": "2026-11-14T17:46:34.960928+00:00",
     "https://sspai.com/post/118276": "2026-11-14T17:46:39.408256+00:00",
     "urn:latent-space:post:post_5ecf266a-aa1c-4b9a-bcec-3c52bcc9ca63": "2026-11-14T17:46:39.925464+00:00",
-    "https://status.claude.com/incidents/ct4c2pwf2xpj": "2026-11-14T17:46:41.900704+00:00"
+    "https://status.claude.com/incidents/ct4c2pwf2xpj": "2026-11-14T17:46:41.900704+00:00",
+    "http://www.geekpark.net/news/373993": "2026-11-15T05:31:39.694415+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-11-14T17:46:43.421624+00:00"
+  "last_updated": "2026-11-15T05:31:45.856347+00:00"
 }
