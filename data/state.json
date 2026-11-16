@@ -1,14 +1,5 @@
 {
   "seen": {
-    "http://www.geekpark.net/news/372461": "2026-10-16T16:18:25.628740+00:00",
-    "http://www.geekpark.net/news/372459": "2026-10-16T16:18:25.628746+00:00",
-    "http://www.geekpark.net/news/372458": "2026-10-16T16:18:25.628749+00:00",
-    "https://sspai.com/post/116423": "2026-10-16T16:18:26.991134+00:00",
-    "https://sspai.com/post/114836": "2026-10-16T16:18:26.991141+00:00",
-    "https://sspai.com/post/115679": "2026-10-16T16:18:26.991144+00:00",
-    "https://www.latent.space/p/ainews-agents-disprove-polysemanticity": "2026-10-16T16:18:27.507532+00:00",
-    "https://huggingface.co/blog/reflection-beam": "2026-10-16T16:18:29.575244+00:00",
-    "cdaa150f662455f5a5b50cfecf81b2cdf715e1e7": "2026-10-16T16:18:31.305951+00:00",
     "https://www.qbitai.com/?p=503880": "2026-10-17T03:34:35.177678+00:00",
     "https://www.qbitai.com/?p=503865": "2026-10-17T03:34:35.177688+00:00",
     "https://www.qbitai.com/?p=503861": "2026-10-17T03:34:35.177691+00:00",
@@ -796,8 +787,29 @@
     "http://www.geekpark.net/news/373994": "2026-11-16T05:30:56.614960+00:00",
     "https://sspai.com/post/119012": "2026-11-16T05:30:57.876515+00:00",
     "https://sspai.com/post/119119": "2026-11-16T05:30:57.876522+00:00",
-    "https://blogs.nvidia.com/?p=99955": "2026-11-16T05:31:01.209199+00:00"
+    "https://blogs.nvidia.com/?p=99955": "2026-11-16T05:31:01.209199+00:00",
+    "https://www.qbitai.com/?p=510542": "2026-11-16T21:46:05.897295+00:00",
+    "https://www.qbitai.com/?p=510526": "2026-11-16T21:46:05.897301+00:00",
+    "https://www.qbitai.com/?p=510496": "2026-11-16T21:46:05.897303+00:00",
+    "https://www.qbitai.com/?p=510493": "2026-11-16T21:46:05.897304+00:00",
+    "https://www.qbitai.com/?p=510486": "2026-11-16T21:46:05.897305+00:00",
+    "https://sspai.com/post/119148": "2026-11-16T21:46:08.495016+00:00",
+    "https://sspai.com/post/118100": "2026-11-16T21:46:08.495024+00:00",
+    "https://www.microsoft.com/en-us/research/?p=1194016": "2026-11-16T21:46:10.695364+00:00",
+    "https://huggingface.co/blog/openrouter": "2026-11-16T21:46:11.138811+00:00",
+    "https://status.claude.com/incidents/b5cq662qf2wm": "2026-11-16T21:46:11.649595+00:00",
+    "https://status.claude.com/incidents/r1b4f9bbnsx1": "2026-11-16T21:46:11.649600+00:00",
+    "https://blogs.nvidia.com/?p=100011": "2026-11-16T21:46:11.769643+00:00",
+    "https://blogs.nvidia.com/?p=99949": "2026-11-16T21:46:11.769648+00:00",
+    "https://blogs.nvidia.com/?p=99969": "2026-11-16T21:46:11.769650+00:00",
+    "https://blogs.nvidia.com/?p=99933": "2026-11-16T21:46:11.769651+00:00",
+    "https://blogs.nvidia.com/?p=99929": "2026-11-16T21:46:11.769653+00:00",
+    "2915fd77bac534686e62cc7588876a9c0f53a15a": "2026-11-16T21:46:12.003848+00:00",
+    "8d03145658ec1cdef2b0aca5628c08dfaffefb5a": "2026-11-16T21:46:12.003854+00:00",
+    "9189364d4fda8ced7c7c27d0b70ec7adb9ac5ce3": "2026-11-16T21:46:12.003855+00:00",
+    "3813dbf1ca3824362df03525d76f7db4f5be7fd5": "2026-11-16T21:46:12.003857+00:00",
+    "88d82f905624fb3ad149a635838dce2fbe49cc0c": "2026-11-16T21:46:12.003858+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-11-16T05:31:05.538253+00:00"
+  "last_updated": "2026-11-16T21:46:12.814362+00:00"
 }
