@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://sspai.com/post/116128": "2026-10-24T15:36:04.714858+00:00",
-    "urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4": "2026-10-24T15:36:05.522078+00:00",
-    "https://status.claude.com/incidents/0ns5clsk8p2x": "2026-10-24T15:36:36.832967+00:00",
     "http://www.geekpark.net/news/372860": "2026-10-25T03:49:39.291456+00:00",
     "https://sspai.com/post/114741": "2026-10-25T15:46:21.124276+00:00",
     "https://status.claude.com/incidents/vx06kp8wfpq2": "2026-10-25T15:46:23.795885+00:00",
@@ -782,8 +779,12 @@
     "http://arxiv.org/abs/2611.31198v1": "2026-11-24T09:01:59.535715+00:00",
     "http://arxiv.org/abs/2611.31165v1": "2026-11-24T09:01:59.535716+00:00",
     "http://arxiv.org/abs/2611.31164v1": "2026-11-24T09:01:59.535718+00:00",
-    "http://arxiv.org/abs/2611.31154v1": "2026-11-24T09:01:59.535720+00:00"
+    "http://arxiv.org/abs/2611.31154v1": "2026-11-24T09:01:59.535720+00:00",
+    "http://www.geekpark.net/news/374431": "2026-11-24T22:03:36.324422+00:00",
+    "https://sspai.com/post/119492": "2026-11-24T22:03:37.784511+00:00",
+    "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance": "2026-11-24T22:03:40.113253+00:00",
+    "https://status.claude.com/incidents/fbvlx4wx4zx5": "2026-11-24T22:03:40.883587+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-11-24T09:01:59.536373+00:00"
+  "last_updated": "2026-11-24T22:03:42.340345+00:00"
 }
