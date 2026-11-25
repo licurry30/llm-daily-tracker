@@ -1,6 +1,5 @@
 {
   "seen": {
-    "http://www.geekpark.net/news/372860": "2026-10-25T03:49:39.291456+00:00",
     "https://sspai.com/post/114741": "2026-10-25T15:46:21.124276+00:00",
     "https://status.claude.com/incidents/vx06kp8wfpq2": "2026-10-25T15:46:23.795885+00:00",
     "https://status.claude.com/incidents/334jvgbrc4ff": "2026-10-25T15:46:23.795893+00:00",
@@ -783,8 +782,32 @@
     "http://www.geekpark.net/news/374431": "2026-11-24T22:03:36.324422+00:00",
     "https://sspai.com/post/119492": "2026-11-24T22:03:37.784511+00:00",
     "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance": "2026-11-24T22:03:40.113253+00:00",
-    "https://status.claude.com/incidents/fbvlx4wx4zx5": "2026-11-24T22:03:40.883587+00:00"
+    "https://status.claude.com/incidents/fbvlx4wx4zx5": "2026-11-24T22:03:40.883587+00:00",
+    "http://www.geekpark.net/news/374470": "2026-11-25T07:39:12.415463+00:00",
+    "http://www.geekpark.net/news/374462": "2026-11-25T07:39:12.415470+00:00",
+    "http://www.geekpark.net/news/374438": "2026-11-25T07:39:12.415473+00:00",
+    "https://sspai.com/post/118791": "2026-11-25T07:39:13.644215+00:00",
+    "https://sspai.com/post/119527": "2026-11-25T07:39:13.644222+00:00",
+    "urn:latent-space:post:post_d721d443-2cdb-44ba-8da8-666b8311df8b": "2026-11-25T07:39:14.230372+00:00",
+    "https://status.claude.com/incidents/yl30wkjblcm6": "2026-11-25T07:39:16.075097+00:00",
+    "http://arxiv.org/abs/2611.33153v1": "2026-11-25T07:39:17.083469+00:00",
+    "http://arxiv.org/abs/2611.33124v1": "2026-11-25T07:39:17.083477+00:00",
+    "http://arxiv.org/abs/2611.33119v1": "2026-11-25T07:39:17.083480+00:00",
+    "http://arxiv.org/abs/2611.33111v1": "2026-11-25T07:39:17.083482+00:00",
+    "http://arxiv.org/abs/2611.33093v1": "2026-11-25T07:39:17.083483+00:00",
+    "http://arxiv.org/abs/2611.33080v1": "2026-11-25T07:39:17.083485+00:00",
+    "http://arxiv.org/abs/2611.33078v1": "2026-11-25T07:39:17.083486+00:00",
+    "http://arxiv.org/abs/2611.33065v1": "2026-11-25T07:39:17.083488+00:00",
+    "http://arxiv.org/abs/2611.33064v1": "2026-11-25T07:39:17.083489+00:00",
+    "http://arxiv.org/abs/2611.33062v1": "2026-11-25T07:39:17.083490+00:00",
+    "http://arxiv.org/abs/2611.33148v1": "2026-11-25T07:39:17.776262+00:00",
+    "http://arxiv.org/abs/2611.33133v1": "2026-11-25T07:39:17.776271+00:00",
+    "http://arxiv.org/abs/2611.33050v1": "2026-11-25T07:39:17.776274+00:00",
+    "http://arxiv.org/abs/2611.33035v1": "2026-11-25T07:39:17.776276+00:00",
+    "http://arxiv.org/abs/2611.33031v1": "2026-11-25T07:39:17.776277+00:00",
+    "http://arxiv.org/abs/2611.33012v1": "2026-11-25T07:39:17.776279+00:00",
+    "http://arxiv.org/abs/2611.32964v1": "2026-11-25T07:39:17.776280+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-11-24T22:03:42.340345+00:00"
+  "last_updated": "2026-11-25T07:39:17.776614+00:00"
 }
