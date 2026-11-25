@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://sspai.com/post/114741": "2026-10-25T15:46:21.124276+00:00",
-    "https://status.claude.com/incidents/vx06kp8wfpq2": "2026-10-25T15:46:23.795885+00:00",
-    "https://status.claude.com/incidents/334jvgbrc4ff": "2026-10-25T15:46:23.795893+00:00",
     "http://www.geekpark.net/news/372863": "2026-10-26T03:53:11.869801+00:00",
     "https://sspai.com/post/117460": "2026-10-26T03:53:13.056548+00:00",
     "http://www.geekpark.net/news/372944": "2026-10-26T18:26:49.651470+00:00",
@@ -806,8 +803,21 @@
     "http://arxiv.org/abs/2611.33035v1": "2026-11-25T07:39:17.776276+00:00",
     "http://arxiv.org/abs/2611.33031v1": "2026-11-25T07:39:17.776277+00:00",
     "http://arxiv.org/abs/2611.33012v1": "2026-11-25T07:39:17.776279+00:00",
-    "http://arxiv.org/abs/2611.32964v1": "2026-11-25T07:39:17.776280+00:00"
+    "http://arxiv.org/abs/2611.32964v1": "2026-11-25T07:39:17.776280+00:00",
+    "https://www.qbitai.com/?p=512748": "2026-11-25T21:19:38.386489+00:00",
+    "https://www.qbitai.com/?p=512727": "2026-11-25T21:19:38.386496+00:00",
+    "https://www.qbitai.com/?p=512715": "2026-11-25T21:19:38.386497+00:00",
+    "https://www.qbitai.com/?p=512582": "2026-11-25T21:19:38.386499+00:00",
+    "https://www.qbitai.com/?p=512683": "2026-11-25T21:19:38.386500+00:00",
+    "http://www.geekpark.net/news/374487": "2026-11-25T21:19:43.191839+00:00",
+    "https://sspai.com/post/119264": "2026-11-25T21:19:44.430181+00:00",
+    "https://sspai.com/post/119310": "2026-11-25T21:19:44.430187+00:00",
+    "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents": "2026-11-25T21:19:46.464734+00:00",
+    "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga": "2026-11-25T21:19:46.464746+00:00",
+    "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb": "2026-11-25T21:19:46.464748+00:00",
+    "https://status.openai.com//incidents/01M89RGC3STKK2MT53TXHFMY4H": "2026-11-25T21:19:46.792762+00:00",
+    "https://status.openai.com//incidents/01M898HVZGXFV2XC4775CG9GF8": "2026-11-25T21:19:46.792772+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-11-25T07:39:17.776614+00:00"
+  "last_updated": "2026-11-25T21:19:47.965448+00:00"
 }
