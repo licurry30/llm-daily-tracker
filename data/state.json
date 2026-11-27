@@ -1,27 +1,5 @@
 {
   "seen": {
-    "https://www.qbitai.com/?p=505580": "2026-10-27T17:42:05.866631+00:00",
-    "http://www.geekpark.net/news/373008": "2026-10-27T17:42:07.920667+00:00",
-    "http://www.geekpark.net/news/373006": "2026-10-27T17:42:07.920676+00:00",
-    "http://www.geekpark.net/news/373004": "2026-10-27T17:42:07.920678+00:00",
-    "http://www.geekpark.net/news/373003": "2026-10-27T17:42:07.920679+00:00",
-    "http://www.geekpark.net/news/373002": "2026-10-27T17:42:07.920683+00:00",
-    "https://sspai.com/post/117633": "2026-10-27T17:42:09.288206+00:00",
-    "https://sspai.com/post/117557": "2026-10-27T17:42:09.288216+00:00",
-    "urn:latent-space:post:post_54774b7d-42cc-4a8a-bb27-dee05866ddf0": "2026-10-27T17:42:10.425366+00:00",
-    "urn:latent-space:post:post_1866fd28-0c9b-4270-b4c4-208e0ee9626e": "2026-10-27T17:42:10.425375+00:00",
-    "https://huggingface.co/blog/LiquidAI/lfm3": "2026-10-27T17:42:11.973808+00:00",
-    "https://huggingface.co/blog/allenai/novelty-bench": "2026-10-27T17:42:11.973819+00:00",
-    "https://status.openai.com//incidents/01M5YY4A3TQETEQ53DVSK8SW10": "2026-10-27T17:42:12.467786+00:00",
-    "https://status.openai.com//incidents/01M5Y60NQGGN514EB3943V94EN": "2026-10-27T17:42:12.467796+00:00",
-    "https://status.claude.com/incidents/lqhknfdjrcst": "2026-10-27T17:42:12.693198+00:00",
-    "https://status.claude.com/incidents/0q89dylg9vjk": "2026-10-27T17:42:12.693205+00:00",
-    "https://blogs.nvidia.com/?p=99512": "2026-10-27T17:42:12.979779+00:00",
-    "4fef4e2052ceafe5be77506f74414eb6efbd5cd7": "2026-10-27T17:42:13.393402+00:00",
-    "2d980147c58e5ff4accadbbed4d31bf94e438c61": "2026-10-27T17:42:13.393411+00:00",
-    "1e1c377670e004fec0787c3710e67b118ba3c87f": "2026-10-27T17:42:13.393413+00:00",
-    "http://arxiv.org/abs/2610.35846v1": "2026-10-27T17:42:14.098235+00:00",
-    "http://arxiv.org/abs/2610.35832v1": "2026-10-27T17:42:14.098245+00:00",
     "https://www.qbitai.com/?p=505865": "2026-10-28T04:44:28.074537+00:00",
     "https://www.qbitai.com/?p=505852": "2026-10-28T04:44:28.074545+00:00",
     "https://www.qbitai.com/?p=505830": "2026-10-28T04:44:28.074548+00:00",
@@ -823,8 +801,18 @@
     "http://www.geekpark.net/news/374546": "2026-11-27T07:25:57.474951+00:00",
     "https://sspai.com/post/119601": "2026-11-27T07:25:58.521596+00:00",
     "https://sspai.com/post/119632": "2026-11-27T07:25:58.521602+00:00",
-    "urn:latent-space:post:post_da868ce2-6565-4f67-8686-e33c78bee319": "2026-11-27T07:25:59.097245+00:00"
+    "urn:latent-space:post:post_da868ce2-6565-4f67-8686-e33c78bee319": "2026-11-27T07:25:59.097245+00:00",
+    "https://www.qbitai.com/?p=513352": "2026-11-27T20:50:56.151601+00:00",
+    "https://www.qbitai.com/?p=513346": "2026-11-27T20:50:56.151607+00:00",
+    "https://www.qbitai.com/?p=513320": "2026-11-27T20:50:56.151609+00:00",
+    "https://www.qbitai.com/?p=513305": "2026-11-27T20:50:56.151611+00:00",
+    "https://www.qbitai.com/?p=513227": "2026-11-27T20:50:56.151613+00:00",
+    "http://www.geekpark.net/news/374601": "2026-11-27T20:51:01.619092+00:00",
+    "http://www.geekpark.net/news/374593": "2026-11-27T20:51:01.619100+00:00",
+    "https://sspai.com/post/119658": "2026-11-27T20:51:02.919481+00:00",
+    "https://huggingface.co/blog/video-trainium3": "2026-11-27T20:51:05.476333+00:00",
+    "https://status.claude.com/incidents/0x1yvzkfmmxj": "2026-11-27T20:51:06.315560+00:00"
   },
   "arena_prev": [],
-  "last_updated": "2026-11-27T07:26:23.462921+00:00"
+  "last_updated": "2026-11-27T20:51:10.961318+00:00"
 }
